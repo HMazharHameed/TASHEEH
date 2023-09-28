@@ -1,0 +1,13 @@
+13	BBE,15D,46,2,30,Pinus ponderosa,log,eroded,284278,4921717,83,11,B cut height 45 cm
+26	BBE,16C,40,3,5,Pinus ponderosa,log,eroded,283770,4921270,83,11,B cut height 60 cm; C cut height 220 cm
+30	BBE,16C,44,2,20,Pinus ponderosa,snag,sapwood,283733,4921279,83,11,B cut height 45 cm
+38	BBE,16E,43,0,5,Pinus ponderosa,log,eroded,284789,4921265,83,11,B cut height 0 cm; C cut height 30 cm
+45	BBE,17C,42,0,50,Pinus ponderosa,log,eroded,283841,4920677,83,11,B cut height 80 cm
+50	BBE,17D,41,2,15,Pinus ponderosa,snag,eroded,284296,4920835,83,11,B cut height 80 cm
+54	BBE,17E,43,2,20,Pinus ponderosa,log,eroded,284841,4920764,83,11,b cut height 120 cm
+59	BBE,18C,40,2,20,Pinus ponderosa,stump,eroded,283914,4920296,83,11,B cut height 30 cm
+81	BBE,20C,41,1,-999,Pinus ponderosa,stump,eroded,283775,4919242,83,11,also tallied with undatable trees
+94	BBE,21D,43,0,-999,Larix occidentalis,log,sapwood,284253,4918805,83,11,left hand side; A or B or both discarded
+102	BBE,22C,43,2,0,Pinus ponderosa,log,eroded,283878,4918196,83,11,B cut height 5 cm
+112	BBE,OUT,1,0,0,Pseudotsuga menziesii,log,sapwood,284734,4918301,83,11,B cut height 60 cm
+114	BBE,OUT,3,3,0,Pinus ponderosa,log,eroded,283914,4918288,83,11,B cut height 0 cm; C cut height 30 cm

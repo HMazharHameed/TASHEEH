@@ -1,0 +1,283 @@
+country,iso3,start,end
+Afghanistan,AFG,1948,2016
+Aland Islands,ALA,1948,2016
+Albania,ALB,1948,2016
+Algeria,DZA,1962,2016
+American Samoa,ASM,1948,2016
+Andorra,AND,1948,2016
+Angola,AGO,1975,2016
+Anguilla,AIA,1983,2016
+Antarctica,ATA,1948,2016
+Antigua and Barbuda,ATG,1981,2016
+Argentina,ARG,1948,2016
+Armenia,ARM,1991,2016
+Aruba,ABW,1986,2016
+Australia,AUS,1948,2016
+Austria,AUT,1948,2016
+Azerbaijan,AZE,1991,2016
+""Bahamas, The "",BHS,1973,2016
+Bahrain,BHR,1971,2016
+Bangladesh,BGD,1971,2016
+Barbados,BRB,1966,2016
+Belgium,BEL,1948,2016
+Belize,BLZ,1981,2016
+Bermuda,BMU,1948,2016
+Bhutan,BTN,1949,2016
+""Bonaire, Sint Eustatius and Saba"",BES,2010,2016
+Byelorussian SSR,BYS,1950,1990
+Belarus,BLR,1991,2016
+Bolivia,BOL,1948,2016
+Bosnia and Herzegovina,BIH,1992,2016
+Botswana,BWA,1966,2016
+Bouvet Island,BVT,1948,2016
+Br. Antr. Terr,BAT,1962,1979
+Brazil,BRA,1948,2016
+British Indian Ocean Ter.,IOT,1965,2016
+British Virgin Islands,VGB,1948,2016
+Brunei,BRN,1984,2016
+Bulgaria,BGR,1948,2016
+Upper Volta,HVO,1960,1983
+Burkina Faso,BFA,1984,2016
+Burma,BUR,1948,1988
+Myanmar,MMR,1989,2016
+Burundi,BDI,1962,2016
+Cambodia,KHM,1953,2016
+Cameroon,CMR,1960,2016
+Canada,CAN,1948,2016
+Cape Verde,CPV,1975,2016
+Cayman Islands,CYM,1962,2016
+Central African Republic,CAF,1960,2016
+Ceylon,LKA,1948,2016
+Chad,TCD,1960,2016
+Chile,CHL,1948,2016
+China,CHN,1948,2016
+Christmas Island,CXR,1948,2016
+Cocos (Keeling) Islands,CCK,1948,2016
+Colombia,COL,1948,2016
+Comoros,COM,1975,2016
+""Congo, Republic of the "",COG,1960,2016
+""Congo, Democratic Republic of the "",COD,1960,2016
+Zaire,ZAR,1971,1997
+Cook Islands,COK,1965,2016
+Costa Rica,CRI,1948,2016
+Cote d'Ivoire,CIV,1960,2016
+Croatia,HRV,1991,2016
+Cyprus,CYP,1960,2016
+Cuba,CUB,1948,2016
+Curacao,CUW,2010,2016
+Czechoslovakia,CSK,1948,1992
+Czech Republic,CZE,1993,2016
+Dahomey,DHY,1960,1974
+Benin,BEN,1975,2016
+Denmark,DNK,1948,2016
+Djibouti,DJI,1977,2016
+Dominica,DMA,1967,2016
+Dominican Republic,DOM,1948,2016
+East Timor,TMP,2002,2016
+Ecuador,ECU,1948,2016
+""Egypt, Arab Rep."",EGY,1948,2016
+El Salvador,SLV,1948,2016
+Equatorial Guinea,GNQ,1968,2016
+Eritrea,ERI,1993,2016
+Estonia,EST,1991,2016
+Ethiopia (excludes Eritrea),ETH,1948,2016
+Ethiopia (includes Eritrea),ETF,1950,1992
+Faeroe Islands,FRO,1948,2016
+Falkland Islands,FLK,1948,2016
+Fiji,FJI,1970,2016
+Finland,FIN,1948,2016
+Federation of Rhodesia and Nyasaland,ZW1,1953,1963
+France,FRA,1948,2016
+French Guiana,GUF,1948,2016
+French Polynesia,PYF,1948,2016
+French Southern Territories,ATF,1955,2016
+Gabon,GAB,1960,2016
+""Gambia, The"",GMB,1965,2016
+Gaza Strip,GAZ,1948,2016
+Georgia,GEO,1991,2016
+German Democratic Republic,DDR,1949,1990
+Germany,DEU,1948,2016
+Ghana,GHA,1957,2016
+Gibraltar,GIB,1967,2016
+Greece,GRC,1948,2016
+Greenland,GRL,1948,2016
+Grenada,GRD,1967,2016
+Guadeloupe,GLP,1948,2016
+Guam,GUM,1948,2016
+Guatemala,GTM,1948,2016
+Guernsey,GGY,1948,2016
+Guinea,GIN,1958,2016
+Guinea-Bissau,GNB,1974,2016
+Guyana,GUY,1966,2016
+Haiti,HTI,1948,2016
+Heard Island and McDonald Islands,HMD,1948,2016
+Honduras,HND,1948,2016
+Hong Kong,HKG,1997,2016
+Hungary,HUN,1948,2016
+Iceland,ISL,1948,2016
+India,IND,1948,2016
+Indonesia,IDN,1948,2016
+Iran,IRN,1948,2016
+Iraq,IRQ,1948,2016
+Ireland,IRL,1948,2016
+Isle of Man,IMN,1948,2016
+Israel,ISR,1948,2016
+Italy,ITA,1948,2016
+Jamaica,JAM,1962,2016
+Japan,JPN,1948,2016
+Jersey,JEY,1948,2016
+Johnston Island,JTN,1948,1986
+Kazakhstan,KAZ,1992,2016
+Kenya,KEN,1963,2016
+Gilbert and Ellice Islands,GEL,1971,1978
+Kiribati,KIR,1979,2016
+""Korea, North"",PRK,1948,2016
+""Korea, South"",KOR,1948,2016
+Kosovo,KSV,2008,2016
+Kuwait,KWT,1961,2016
+Kyrgyzstan,KGZ,1992,2016
+Latvia,LVA,1991,2016
+Laos,LAO,1949,2016
+Lebanon,LBN,1948,2016
+Lesotho,LSO,1966,2016
+Liberia,LBR,1948,2016
+Libya,LBY,1951,2016
+Liechtenstein,LIE,1948,2016
+Lithuania,LTU,1992,2016
+Luxembourg,LUX,1948,2016
+Macao,MAC,1987,2016
+Macedonia,MKD,1991,2016
+Malagasy Republic,MDG,1960,2016
+Malawi,MWI,1964,2016
+Malaya,MYS,1957,2016
+Maldives,MDV,1965,2016
+Mali,MLI,1960,2016
+Malta,MLT,1964,2016
+Marshall Islands,MHL,1986,2016
+Martinique,MTQ,1948,2016
+Mauritania,MRT,1960,2016
+Mauritius,MUS,1968,2016
+Mayotte,MYT,1948,2016
+Mexico,MEX,1948,2016
+""Micronesia, Federated States of "",FSM,1986,2016
+Midway Islands,MID,1974,1986
+Moldova,MDA,1992,2016
+Monaco,MCO,1948,2016
+Mongolia,MNG,1948,2016
+Montserrat,MSR,1948,2016
+Montenegro,MNE,2006,2016
+Morocco,MAR,1956,2016
+Mozambique,MOZ,1975,2016
+Muscat and Oman,OMN,1948,2016
+Namibia,NAM,1990,2016
+Nauru,NRU,1968,2016
+Nepal,NPL,1948,2016
+Netherlands,NLD,1948,2016
+Netherlands Antilles,ANT,1948,2010
+Neutral Zone,NTZ,1974,1993
+New Caledonia,NCL,1998,2016
+New Zealand,NZL,1948,2016
+Nicaragua,NIC,1948,2016
+Niger,NER,1960,2016
+Nigeria,NGA,1960,2016
+Niue,NIU,1974,2016
+Norfolk Island,NFK,1979,2016
+Northern Marianas,MNP,1986,2016
+Norway,NOR,1948,2016
+Pacific Islands Trust Territory,PCI,1974,1985
+Pakistan,PAK,1948,2016
+Palau,PLW,1994,2016
+Palestine,PSE,1994,2016
+Panama,PAN,1948,2016
+Former Panama Canal Zone,PCZ,1948,1980
+Papua New Guinea,PNG,1975,2016
+Paraguay,PRY,1948,2016
+Peru,PER,1948,2016
+Philippines,PHL,1948,2016
+Pitcairn,PCN,1948,2016
+Poland,POL,1948,2016
+Portugal,PRT,1948,2016
+Puerto Rico,PRI,1948,2016
+Qatar,QAT,1971,2016
+Rhodesia,RHO,1965,1979
+Zimbabwe,ZWE,1980,2016
+Reunion,REU,1948,2016
+Romania,ROM,1948,2001
+Romania,ROU,2002,2016
+Russia,RUS,1992,2016
+Rwanda,RWA,1962,2016
+Saint Barthelemy,BLM,1948,2016
+""Saint Helena, Ascension and Tristan da Cunha"",SHN,1948,2016
+Saint Christopher-Nevis-Anguilla,KN1,1967,1982
+Saint Kitts and Nevis,KNA,1983,2016
+Saint Lucia,LCA,1967,2016
+Saint-Martin,MAF,1948,2016
+Saint Pierre and Miquelon,SPM,1948,2016
+Saint Vincent,VCT,1969,2016
+San Marino,SMR,1948,2016
+Sao Tome and Principe,STP,1975,2016
+Saudi Arabia,SAU,1948,2016
+Senegal,SEN,1960,2016
+Seychelles,SYC,1976,2016
+Sierra Leone,SLE,1961,2016
+Sikkim,SKM,1948,1977
+Singapore,SGP,1965,2016
+Sint Maarten,SXM,2011,2016
+Slovakia,SVK,1993,2016
+Slovenia,SVN,1991,2016
+Solomon Islands,SLB,1978,2016
+Somalia,SOM,1960,2016
+South Africa,ZAF,1948,2016
+South Georgia and South Sandwich Islands,SGS,1993,2016
+South Sudan,SSD,2011,2016
+Soviet Union,SVU,1948,1991
+Spain,ESP,1948,2016
+Sudan,SDN,1956,2016
+Suriname,SUR,1975,2016
+Svalbard and Jan Mayen Islands,SJM,1948,2016
+Swaziland,SWZ,1968,2016
+Sweden,SWE,1948,2016
+Switzerland,CHE,1948,2016
+Syria,SYR,1948,2016
+Taiwan,TWN,1948,2016
+Tanganyika,TAN,1961,1963
+Tajikistan,TJK,1992,2016
+Tanzania,TZA,1964,2016
+Thailand,THA,1948,2016
+Togo,TGO,1960,2016
+Tokelau,TKL,1948,2016
+Tonga,TON,1970,2016
+Trinidad and Tobago,TTO,1962,2016
+Transjordan,JOR,1948,2016
+Tunisia,TUN,1956,2016
+Turkey,TUR,1948,2016
+Turkmenistan,TKM,1992,2016
+Turks and Caicos Islands,TCA,1962,2016
+Tuvalu,TUV,1978,2016
+Uganda,UGA,1962,2016
+Ukraine,UKR,1992,2016
+United Arab Emirates,ARE,1971,2016
+United Kingdom,GBR,1948,2016
+United States,USA,1948,2016
+U.S. Minor Outlying Islands,UMI,1987,2016
+U.S. Miscellaneous Pacific Islands,PUS,1974,1986
+U.S. Virgin Islands,VIR,1948,2016
+Uruguay,URY,1948,2016
+Uzbekistan,UZB,1992,2016
+New Hebrides,NHB,1974,1979
+Vanuatu,VUT,1980,2016
+Vatican City,VAT,1948,2016
+Venezuela,VEN,1948,2016
+North Vietnam,VDR,1954,1976
+South Vietnam,VNM,1952,2016
+Wake Island,WAK,1974,1986
+Wallis and Futuna Islands,WLF,1948,2016
+Western Samoa,WSM,1962,2016
+Spanish Sahara,ESH,1976,2016
+""Yemen, North"",YEM,1948,2016
+""Yemen, South"",YMD,1967,1989
+Yugoslavia,YUG,1948,2002
+Serbia and Montenegro,SCG,2003,2005
+Serbia,SRB,2006,2016
+Zambia,ZMB,1964,2016
+Zanzibar,ZPM,1963,1963

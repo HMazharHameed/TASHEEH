@@ -1,0 +1,4 @@
+4	LYT,15E,9/16/2009,716413,4908175,1673,65,12,13,upper,concave,no,convex,no,>10 to 30%,yes,-999,-999,,
+14	LYT,18C,9/15/2009,715515,4906636,1729,339,11,9,upper,straight,no,straight,no,>50 to 70%,yes,-999,-999,,
+19	LYT,19D,9/29/2009,715924,4906183,1673,175,38,26,upper,convex,no,straight,no,>10 to 30%,yes,-999,-999,,
+31	LYT,22F,7/17/2010,716891,4904666,1541,148,16,12,lower,straight,no,straight,no,>10 to 30%,yes,-999,-999,,

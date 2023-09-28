@@ -1,0 +1,3 @@
+5	SLO,-999,4,1,10,Ponderosa pine,stump,eroded,622841,4865893,83,10
+7	SLO,-999,6,2,0,Ponderosa pine,stump,eroded,622773,4865910,83,10
+9	SLO,-999,8,1,20,Ponderosa pine,stump,eroded,622510,4865512,83,10

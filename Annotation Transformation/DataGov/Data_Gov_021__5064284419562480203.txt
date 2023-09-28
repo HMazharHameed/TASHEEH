@@ -1,0 +1,13 @@
+5	2003,"""Clinician, Drug & Supply, and Laboratory Services Only""",943085,61%
+12	2004,"""Clinician, Drug & Supply, and Laboratory Services Only""",930232,59%
+19	2005,"""Clinician, Drug & Supply, and Laboratory Services Only""",930623,57%
+26	2006,"""Clinician, Drug & Supply, and Laboratory Services Only""",935277,57%
+33	2007,"""Clinician, Drug & Supply, and Laboratory Services Only""",957922,57%
+40	2008,"""Clinician, Drug & Supply, and Laboratory Services Only""",1027027,58%
+47	2009,"""Clinician, Drug & Supply, and Laboratory Services Only""",1057360,58%
+54	2010,"""Clinician, Drug & Supply, and Laboratory Services Only""",1055977,58%
+61	2011,"""Clinician, Drug & Supply, and Laboratory Services Only""",1058518,58%
+68	2012,"""Clinician, Drug & Supply, and Laboratory Services Only""",1041080,57%
+75	2013,"""Clinician, Drug & Supply, and Laboratory Services Only""",908495,55%
+82	2014,"""Clinician, Drug & Supply, and Laboratory Services Only""",729769,53%
+89	2015,"""Clinician, Drug & Supply, and Laboratory Services Only""",578702,50%

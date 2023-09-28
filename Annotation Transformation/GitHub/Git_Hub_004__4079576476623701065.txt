@@ -1,0 +1,7 @@
+15	14,"basse_normandie"
+29	27,"haute_normandie"
+52	50,"basse_normandie"
+63	61,"basse_normandie"
+78	76,"haute_normandie"
+107	98,"Tahiti"
+108	97,"Inconu"

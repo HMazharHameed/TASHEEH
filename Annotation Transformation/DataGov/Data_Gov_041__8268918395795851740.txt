@@ -1,0 +1,2 @@
+26	Manditory In-Service Training Block,"""3/8/16,""",16,30,480
+27	Civil Disturbance Training,"""03/13/16,""",2,47,94

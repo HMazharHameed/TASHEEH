@@ -1,0 +1,96 @@
+3	SET;m11;Magic 2011;Magic 2011 Core Set;07/2010;249
+4	SET;m10;Magic 2010;Description;07/2009;249
+5	SET;10e;Tenth Edition;Description;07/2007;383
+6	SET;9e;Ninth Edition;Description;07/2005;350
+7	SET;8e;Eighth Edition;Description;07/2003;350
+8	SET;7e;Seventh Edition;Description;04/2001;350
+9	SET;6e;Classic Sixth Edition;Description;04/1999;350
+10	SET;5e;Fifth Edition;Description;03/1997;449
+11	SET;4e;Fourth Edition;Description;04/1995;378
+16	BLOCK;som;Scars of Mirrodin;Description;CYCLE;null
+19	BLOCK;zen;Zendikar;Description;CYCLE;null
+23	BLOCK;ala;Shards of Alara;Description;CYCLE;null
+27	BLOCK;lwshm;Lorwyn-Shadowmoor;Description;CYCLE;null
+32	BLOCK;ts;Time Spiral;Description;CYCLE;null
+36	SET;tsts;Time Spiral;Description;10/2006;122
+37	BLOCK;ia;Ice Age;Description;CYCLE;null
+42	BLOCK;rav;Ravnica;Description;CYCLE;null
+45	SET;rav;Ravnica: City of Guilds;Description;10/2005;306
+46	BLOCK;kam;Kamigawa;Description;CYCLE;null
+50	BLOCK;mi;Mirrodin;Description;CYCLE;null
+51	SET;5dn;Fifth Dawn;Description;06/2004;165
+54	BLOCK;on;Onslaught;Description;CYCLE;null
+58	BLOCK;od;Odyssey;Description;CYCLE;null
+62	BLOCK;in;Invasion;Description;CYCLE;null
+66	BLOCK;mm;Masques;Description;CYCLE;null
+70	BLOCK;uz;Urza;Description;CYCLE;null
+74	BLOCK;tp;Tempest;Description;CYCLE;null
+78	BLOCK;mr;Mirage;Description;CYCLE;null
+82	BLOCK;ea;Early Sets;Description;OTHER;null
+88	BLOCK;mo;Magic Online;Description;OTHER;null
+89	SET;me4;MTGO Masters Edition IV;Description;01/2011;260
+90	SET;me3;MTGO Masters Edition III;Description;08/2009;230
+91	SET;me2;MTGO Masters Edition II;Description;08/2008;245
+93	BLOCK;rep;Reprint Sets;Description;OTHER;null
+94	SET;avn;Duel Decks: Ajani vs. Nicol Bolas;Description;09/2011;120
+95	SET;kvd;Duel Decks: Knights vs. Dragons;Description;04/2011;120
+96	SET;pd2;Premium Deck Series: Fire and Lightning;Description;11/2010;34
+97	SET;ddf;Duel Decks: Elspeth vs. Tezzeret;Description;08/2010;79
+98	SET;fvr;From the Vault: Relics;Description;08/2010;15
+101	SET;pvc;Duel Decks: Phyrexia vs. The Coalition;Description;03/2010;71
+102	SET;pds;Premium Deck Series: Slivers;Description;11/2009;41
+103	SET;gvl;Duel Decks: Garruk vs. Liliana ;Description;11/2009;63
+105	SET;fve;From the Vault: Exiled;Description;08/2009;15
+106	SET;dvd;Duel Decks: Divine vs. Demonic;Description;04/2009;62
+107	SET;jvc;Duel Decks: Jace vs. Chandra;Description;11/2008;62
+108	SET;fvd;From the Vault: Dragons;Description;08/2008;15
+109	SET;evg;Duel Decks: Elves vs. Goblins;Description;10/2007;62
+111	BLOCK;theme;Theme Decks;Description;OTHER;null
+113	BLOCK;ind;Independent Box Sets;Description;OTHER;null
+114	SET;9eb;Ninth Edition Box Set;Description;07/2005;9
+115	SET;8eb;Eighth Edition Box Set;Description;07/2003;7
+121	BLOCK;un;Un-Serious Sets;Description;OTHER;null
+124	BLOCK;alt;Alternate Art;Description;OTHER;null
+126	BLOCK;beg;Beginner Sets;Description;OTHER;null
+127	SET;st2k;Starter 2000;Description;07/2000;20
+128	SET;st;Starter 1999;Description;07/1999;173
+129	SET;p3k;Portal Three Kingdoms;Description;05/1999;180
+130	SET;po2;Portal Second Age;Description;06/1998;165
+132	SET;itp;Introductory Two-Player Set;Description; ;67
+133	BLOCK;ev;Event Incentives;Description;OTHER;null
+134	SET;15ann;15th Anniversary;Description; ;2
+135	SET;gpx;Grand Prix;Description; ;5
+136	SET;pro;Pro Tour;Description; ;5
+137	SET;mgdc;Magic Game Day Cards;Description; ;7
+138	SET;wrl;Worlds;Description; ;1
+139	SET;drc;Dragon Con;Description; ;1
+140	BLOCK;tour;Tournament Rewards;Description;OTHER;null
+141	SET;ptc;Prerelease Events;Description; ;48
+142	SET;rep;Release Events;Description; ;13
+143	SET;mlp;Magic: The Gathering Launch Parties;Description; ;13
+144	SET;sum;Summer of Magic;Description; ;2
+145	SET;mss;Magic Scholarship Series;Description; ;5
+146	SET;grc;Gateway;Description; ;50
+147	SET;cp;Champs;Description; ;12
+148	SET;thgt;Two-Headed Giant Tournament;Description; ;1
+149	SET;jsr;Junior Series;Description; ;6
+150	SET;ajs;APAC Junior Series;Description; ;4
+151	SET;arena;Arena League;Description; ;83
+152	SET;fnmp;Friday Night Magic;Description; ;131
+153	SET;mprp;Magic Player Rewards;Description; ;53
+154	SET;sus;Super Series;Description; ;13
+155	BLOCK;gift;Gifts;Description;OTHER;null
+156	SET;hho;Happy Holidays;Description; ;5
+157	SET;jr;Judge Gift Program;Description; ;58
+158	SET;pot;Portal Demogame;Description; ;6
+159	BLOCK;red;Redemption Rewards;Description;OTHER;null
+160	SET;euro;European Land Program;Description; ;15
+161	SET;guru;Guru;Description; ;5
+162	SET;apac;Asia Pacific Land Program;Description; ;15
+163	SET;wotc;WotC Online Store;Description; ;1
+164	BLOCK;uqc;Celebration Cards;Description;OTHER;null
+165	SET;uqc;Celebration Cards;Description; ;6
+166	BLOCK;mbp;Media Inserts;Description;OTHER;null
+167	SET;mbp;Media Inserts;Description; ;33
+168	BLOCK;dcilm;Membership Incentives;Description;OTHER;null
+169	SET;dcilm;Legend Membership;Description; ;2

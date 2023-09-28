@@ -1,0 +1,6 @@
+3	"Baja California",163,154,604,320
+4	"Baja California Sur",1,1,0,1
+10	"Distrito Federal",137,145,137,173
+20	"Nuevo Leon",50,107,78,99
+24	"Quintana Roo",9,34,18,27
+25	"San Luis Potosi",1,13,32,7

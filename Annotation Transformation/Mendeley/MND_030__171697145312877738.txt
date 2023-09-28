@@ -1,0 +1,12 @@
+7	16	2	w	"3,26"	3	Testimony	3	Preference	NA	NA		1
+8	16	2	w	"3,26"	3	NA	NA	NA	NA	NA		1
+9	16	2	w	"3,26"	3	NA	NA	NA	NA	NA		1
+16	18	4	w	"3,56"	3	NA	NA	NA	NA	NA		1
+17	18	4	w	"3,56"	3	NA	NA	NA	NA	NA		1
+19	35	5	w	"3,38"	3	Preference	2	Testimony	NA	NA		1
+20	35	5	w	"3,38"	3	NA	NA	NA	NA	NA		1
+21	35	5	w	"3,38"	3	NA	NA	NA	NA	NA		1
+154	75	17	m		4	Looking	0	Unrelated description	2	1		0
+155	75	17	m		4	Testimony	0	Preference	0	1		0
+156	75	17	m		4	Preference	1	Looking	0	1		0
+157	75	17	m		4	Testimony	0	Unrelated description	1	1		0

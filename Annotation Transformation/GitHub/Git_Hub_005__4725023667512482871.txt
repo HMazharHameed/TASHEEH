@@ -1,0 +1,119 @@
+27	"AFZAL GUNJ",AFZAL GUNJ
+34	"AG OFF.",AG OFF.
+54	"ALLWYN COLONY",ALLWYN COLONY
+56	"Allwyn xRds",Allwyn x Rds
+60	"AMBEDKAR NGR",AMBEDKAR NGR
+76	"ANKUSHAPUR GATE",ANKUSHAPUR GATE
+77	"ANKUSHAPUR RLY GATE",ANKUSHAPUR RLY GATE
+80	"AOC Gate",AOC Gate
+98	"ASRao Nagar",ASRao Nagar
+103	azianagar,azianagar
+106	"B HILLS",B HILLS
+115	"B.N.REDDY COL.",B.N.REDDY COL.
+116	"B.N.REDDY COL..LBNR X RD",B.N.REDDY COL..LBNR X RD
+119	"B.N.REDDY COL. YAMZAL",B.N.REDDY COL. YAMZAL
+139	BAKARAM(NAGIRED,BAKARAM(NAGIRED
+156	"Banjara Hills",Banjara Hills
+180	"Bhavani Nagar",Bhavani Nagar
+186	"BIBI NAGAR",BIBI NAGAR
+189	"Bible House",Bible House
+192	"BN Reddy",BN Reddy
+239	"CHIKKAD PALLY",CHIKKAD PALLY
+242	"CHIKLA NGR",CHIKLA NGR
+246	"china kanjarla",china kanjarla
+257	"CLK X RDS",CLK X RDS
+267	"Dabilpur Station",Dabilpur Station
+303	"Dundigal X Roads",Dundigal X Roads
+339	"Feaver Hospital",Feaver Hospital
+346	"G. Bhavan",G. Bhavan
+359	"Gandhi Bhavan",Gandhi Bhavan
+399	"Gundla Pochampally",Gundla Pochampally
+404	"H.Nagar xrds",H.Nagar xrds
+439	"Hi-Tech city",Hi-Tech city
+453	"Huda cly",Huda cly
+457	"HYT. LBNR DSNR",HYT. LBNR DSNR
+474	"INDIRA NAGAR",INDIRA NAGAR
+475	"INDIRA PARK",INDIRA PARK
+480	"Isnapur X Rd.",Isnapur X Rd.
+526	JNTUX,JNTUX
+533	"Jumerath Bazar",Jumerath Bazar
+537	"K.P.HB CLY",K.P.HB CLY
+560	"Kandukur x Rds.",Kandukur x Rds.
+562	"KAPOL X ROADS",KAPOL X ROADS
+579	"KCG STN",KCG STN
+624	"Kothaguda x Rds.",Kothaguda x Rds.
+635	koti,koti
+637	"KOTI HSPTL",KOTI HSPTL
+638	KOTI (Via.ASIF),KOTI (Via.ASIF)
+640	KOTI(via.V COLY),KOTI(via.V COLY)
+664	"L HOUSE",L HOUSE
+699	"Laldarwaza Mode",Laldarwaza Mode
+702	"Langer House",Langer House
+712	"LBNR X RD. NAGOLE",LBNR X RD. NAGOLE
+723	"M TANK",M TANK
+732	M.M.T.S(HITECH),M.M.T.S(HITECH)
+743	"M.R.O office",M.R.O office
+750	"Madhubal cly",Madhubal cly
+761	malakpet,malakpet
+763	"Malasia Township",Malasia Township
+812	"Mind Space",Mind Space
+815	"Misri gunj",Misri gunj
+832	"MP depot",MP depot
+845	MYP X'RDS,MYP X'RDS
+846	MYP X' Rds.,MYPX' Rds.
+851	"N.Met x Rds",N.Met x Rds
+871	"NAGOLE KOTHAPETA",NAGOLE KOTHAPETA
+872	"Nagole x Rds",Nagole x Rds
+892	"NARA PALLY",NARA PALLY
+905	"NECLACE RD",NECLACE RD
+920	"Nlg x Rds.",Nlg x Rds.
+922	"NLG X RD",NLG X RD
+923	"NLG X ROADS",NLG X ROADS
+927	"Nlg.x rds",Nlg.x rds
+928	"Nlg.x Rds",Nlg.x Rds
+929	"Nlg.x Rds.",Nlg.x Rds.
+930	"Nlg.x rds.",Nlg.x rds.
+938	"Old Alwal",Old Alwal
+939	"Old S.Guda",Old S.Guda
+979	"PARWATHAPUR.PRATAP SINGARAM",PARWATHAPUR.PRATAP SINGARAM
+993	"PENSION OFFICE",PENSION OFFICE
+995	"Picture House",Picture House
+1002	polkampally,polkampally
+1010	"PRASANTH NAGAR",PRASANTH NAGAR
+1068	Rd.12,Rd.12
+1069	Rd.No.10,Rd.No.10
+1082	"RR NAGAR",RR NAGAR
+1084	"RTC Col",RTC Col
+1085	"RTC COL.",RTC COL.
+1086	"RTC COLY",RTC COLY
+1087	"RTC X RD",RTC X RD
+1088	"RTC X ROADS",RTC X ROADS
+1091	"RTC X RD",RTC X RD
+1092	"RTC X RDS",RTC X RDS
+1093	"RTC x Rds",RTC x Rds
+1094	"RTC X Road",RTC X Road
+1118	"Sagar x Rd",Sagar x Rd
+1119	"Sagar x Rds",Sagar x Rds
+1141	"SAROOR NAGAR",SAROOR NAGAR
+1142	"Saroor nagar",Saroor nagar
+1152	"SD Hospital",SD Hospital
+1157	"SEC,BAD","SEC,BAD"
+1168	"Shahin Nagar",Shahin Nagar
+1202	sivapampally,sivapampally
+1213	"Srinagar Col",Srinagar Col
+1222	ST.NO.8,ST.NO.8
+1240	"SYED NAGAR",SYED NAGAR
+1273	"TILAK NGR",TILAK NGR
+1290	"TV STUDIO",TV STUDIO
+1294	"UPL X",UPL X
+1295	"Upl x Rd",Upl x Rd
+1296	"UPL X ROADS",UPL X ROADS
+1302	"UPPAL DEPOT",UPPAL DEPOT
+1303	"UPPAL DEPOT.JODMETLA X RD",UPPAL DEPOT.JODMETLA X RD
+1306	"UPPAL X RD",UPPAL X RD
+1314	upperpally,upperpally
+1374	"Yamzal x Rd",Yamzal x Rd
+1384	"Yousufguda Basthi",Yousufguda Basthi
+1386	"ZINDA TILISMATH",ZINDA TILISMATH
+1388	"Zoo Park",Zoo Park
+1389	"Zoo park",Zoo park

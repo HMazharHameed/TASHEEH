@@ -1,0 +1,5 @@
+6	1/11/17,24,6,Crisis Intervention Team Training,144
+12	1/25/17,14,3,IACP Mid-Winter Conference,42
+13	1/26/17,16,1,Background Investigations,16
+31	3/12/17,1,64,March Range,64
+34	3/17/17,40,1,Homicide and Forensic Death Investigation,40

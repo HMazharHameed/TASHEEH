@@ -1,0 +1,4 @@
+ill formed rows indices,"1,6"
+wanted rows indices,"6"
+unwanted rows indices,"1"
+well formed rows indices,"2,3,4,5"

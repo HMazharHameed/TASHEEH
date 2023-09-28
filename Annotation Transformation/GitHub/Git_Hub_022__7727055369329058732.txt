@@ -1,0 +1,9 @@
+284	Gairu,Holly,X-1
+285	Gallant,Hope,X-14D0
+286	Gambit,Hun,X-14D1
+287	Gandalf,Idola,X-2
+288	Gansel,Ilumina,X-21
+289	Garcon,Ingrid,X-23
+290	Gareth,Ingvar,X-3
+291	Gargamel,Ippril,X-3E3
+299	Gaufres,Jade,Z

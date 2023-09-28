@@ -1,0 +1,14 @@
+18	04/01/2018,,"28,258.45",Facilities
+28	12/01/2018,,"30,005.35","Travel, venue hire & exhibition services"
+30	23/01/2018,,"30,333.67",Facilities
+41	02/01/2018,,"31,449.03",Facilities
+49	10/01/2018,,"34,872.07",Human Resources
+52	30/01/2018,,"34,996.84",Professional Services
+53	04/01/2018, ,"35,045.64",Facilities
+55	15/01/2018,,"36,392.72",Professional Services
+79	03/01/2018,,"43,083.76","Travel, venue hire & exhibition services"
+90	16/01/2018,,"47,061.00","Advertising, Marketing & Media"
+96	22/01/2018,,"51,064.67",Facilities
+103	09/01/2018,,"54,331.80","Travel, venue hire & exhibition services"
+111	03/01/2018,,"63,189.51","Travel, venue hire & exhibition services"
+131	22/01/2018,,"102,505.69","Travel, venue hire & exhibition services"

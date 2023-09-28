@@ -1,0 +1,15 @@
+Year,Quarter,Date,Data_Type,Emails_responded_to_within_24_h,Total_emails,Percent_Compliant,ObjectId
+2017,Q1,2017/03/31 07:00:00+00,Email Response Time,2005,2571,77.99,1
+2017,Q2,2017/06/30 07:00:00+00,Email Response Time,1785,1966,90.79,2
+2017,Q3,2017/09/30 07:00:00+00,Email Response Time,1656,1825,90.74,3
+2017,Q4,2017/12/31 07:00:00+00,Email Response Time,1664,1890,88.04,4 ;Year 2018
+2018,Q1,2018/03/31 07:00:00+00,Email Response Time,1421,1525,93.18,5
+2018,Q2,2018/06/30 07:00:00+00,Email Response Time,1168,1251,93.37,6
+2018,Q3,2018/09/30 07:00:00+00,Email Response Time,1332,1581,84.25,7
+2018,Q4,2018/12/31 07:00:00+00,Email Response Time,1548,2263,68.4,8  ;Year 2019 
+2019,Q1,2019/03/31 07:00:00+00,Email Response Time,1123,1152,97.48,9
+2019,Q2,2019/06/30 07:00:00+00,Email Response Time,1031,1080,95.46,10
+2019,Q3,2019/09/30 07:00:00+00,Email Response Time,867,888,97.64,11
+2019,Q4,2019/12/31 07:00:00+00,Email Response Time,736,738,99.73,12
+2020,Q1,2020/03/31 07:00:00+00,Email Response Time,960,999,96.1,13  ;Year 2020 
+2020,Q2,2020/06/30 07:00:00+00,Email Response Time,1065,1104,96.47,14 

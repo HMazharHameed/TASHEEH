@@ -1,0 +1,98 @@
+33	214112,10202,129,"""Highway Bridge, General""",0
+94	214216,10502,29,"""Cemetery, North & South""",1.5
+95	214217,10501,129,"""Highway Bridge, General""",1.14858479
+108	214230,10501,129,"""Highway Bridge, General""",0
+193	214142,10302,129,"""Highway Bridge, General""",0.20310052
+202	214151,10302,28,"""Cemetery, East & West""",0
+241	214362,10902,35,"""Toll House, State Port of Entry, or Weigh Station""",0
+247	214368,10902,129,"""Highway Bridge, General""",0
+248	214369,10902,129,"""Highway Bridge, General""",358.6598646
+249	214370,10902,129,"""Highway Bridge, General""",358.96807342
+250	214371,10902,129,"""Highway Bridge, General""",358.60484228
+251	214372,20904,129,"""Highway Bridge, General""",0
+252	214373,10902,129,"""Highway Bridge, General""",359.86353158
+254	214375,10901,104,"""Water Supply Stand Pipe, or Tank""",0
+360	214567,11302,130,"""Highway Bridge, General""",2
+395	214602,11401,86,"""Vacant Townhall, Grange, or Community Hall""",0
+403	214610,0,59,Vacant Farm Unit,0
+404	214611,11401,35,"""Toll House, State Port of Entry, or Weigh Station""",0
+413	214620,11501,29,"""Cemetery, North & South""",1
+431	214638,11502,29,"""Cemetery, North & South""",1
+444	214387,10902,29,"""Cemetery, North & South""",0
+446	214389,10902,29,"""Cemetery, North & South""",0
+450	214393,0,143,4 Lane Bridge,0
+452	214395,10901,54,"""Playground, Ball Field""",0
+460	214403,10902,129,"""Highway Bridge, General""",0
+466	214409,11001,29,"""Cemetery, North & South""",0
+471	214414,11001,28,"""Cemetery, East & West""",0
+533	214309,10801,29,"""Cemetery, North & South""",0
+558	214334,20811,63,"""Tenant House, Multiple Housing, Duplex, etc.""",0
+580	214787,11901,29,"""Cemetery, East & West""",1.31377345
+581	214788,11901,29,"""Cemetery, North & South""",2.23337335
+585	214792,11901,29,"""Cemetery, North & South""",1.41764887
+598	214805,11902,29,"""Cemetery, North & South""",0
+638	214845,11902,129,"""Highway Bridge, General""",1.34153969
+652	214859,12001,129,"""Highway Bridge, General""",0
+691	214898,12101,129,"""Highway Bridge, General""",0
+692	214899,12101,129,"""Highway Bridge, General""",0
+693	214900,12101,129,"""Highway Bridge, General""",0
+694	214901,12101,130,"""Highway Bridge, General""",0
+696	214903,12101,129,"""Highway Bridge, General""",0
+717	214924,12202,28,"""Cemetery, East & West""",0
+720	214927,12201,104,"""Water Supply Stand Pipe, or Tank""",0
+729	214936,12301,28,"""Cemetery, East & West""",0
+731	214938,12301,129,"""Highway Bridge, General""",359.24130885
+794	214699,11802,35,"""Toll House, State Port of Entry, or Weigh Station""",-1
+824	214729,11802,129,"""Highway Bridge, General""",0
+826	214731,11802,129,"""Highway Bridge, General""",358.272293
+868	214992,12401,29,"""Cemetery, North & South""",0
+870	214994,12401,29,"""Cemetery, North & South""",0
+871	214995,12401,29,"""Cemetery, East & West""",0.5
+875	214999,12401,29,"""Cemetery, North & South""",270
+878	215002,22402,129,"""Highway Bridge, General""",0
+882	215006,22401,129,"""Highway Bridge, General""",0
+884	215008,12501,29,"""Cemetery, North & South""",0
+899	215023,12501,129,"""Highway Bridge, General""",92.55573342
+979	215191,12701,104,"""Water Supply Stand Pipe, or Tank""",1.08577895
+1024	215236,12802,127,"""Dock, Pier, or Landing""",0
+1030	215242,12901,28,"""Cemetery, East & West""",0
+1034	215246,12901,28,"""Cemetery, East & West""",0
+1043	215255,12902,28,"""Cemetery, East & West""",0
+1074	215286,12902,129,"""Highway Bridge, General""",0
+1076	215288,13001,143,4 Lane Bridge,0
+1077	215289,13001,143,4 Lane Bridge,0
+1078	215290,13002,129,"""Highway Bridge, General""",1.5710695700000001
+1083	215033,12502,29,"""Cemetery, East & West""",1.60964963
+1090	215040,12601,29,"""Cemetery, North & South""",0
+1091	215041,12601,29,"""Cemetery, North & South""",90
+1092	215042,12601,29,"""Cemetery, North & South""",0
+1093	215043,12601,29,"""Cemetery, North & South""",0
+1094	215044,12601,29,"""Cemetery, North & South""",0
+1095	215045,12601,29,"""Cemetery, North & South""",0
+1096	215046,12601,29,"""Cemetery, North & South""",0
+1102	215052,12601,29,"""Cemetery, North & South""",5.11378268
+1105	215055,12601,29,"""Cemetery, North & South""",0
+1106	215056,12601,29,"""Cemetery, North & South""",0
+1111	215061,12601,28,"""Cemetery, East & West""",0
+1151	215101,12702,129,"""Highway Bridge, General""",2.49531527
+1215	215427,13201,28,"""Cemetery, East & West""",0
+1232	215444,13301,29,"""Cemetery, North & South""",0
+1259	215471,13402,29,"""Cemetery, North & South""",0
+1260	215472,13402,29,"""Cemetery, North & South""",0
+1272	215484,13402,104,"""Water Supply Stand Pipe, or Tank""",0
+1273	215485,13402,9,"""Playground, Ball Field""",0
+1291	215503,13502,29,"""Cemetery, North & South""",0
+1322	215534,13601,129,"""Highway Bridge, General""",0
+1324	215536,13601,129,"""Highway Bridge, General""",0
+1365	215577,13901,129,"""Highway Bridge, General""",358.02095584
+1368	215580,13902,129,"""Highway Bridge, General""",359.17754012
+1434	215343,34990,129,"""Highway Bridge, General""",0
+1435	215344,34990,129,"""Highway Bridge, General""",0
+1457	215366,13003,129,"""Highway Bridge, General""",0
+1533	215652,14201,29,"""Cemetery, North & South""",0
+1534	215653,14201,29,"""Cemetery, North & South""",0
+1542	215661,14201,29,"""Cemetery, North & South""",0
+1548	215667,14301,76,"""Stockyard, Loading Pen or Corral, Feedlot""",0
+1560	215768,24512,28,"""Cemetery, East & West""",2
+1570	215778,14501,129,"""Highway Bridge, General""",357.12477117
+1603	215811,14501,76,"""Stockyard, Loading Pen or Corral, Feedlot""",2
