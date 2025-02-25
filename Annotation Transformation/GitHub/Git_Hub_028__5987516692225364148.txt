@@ -1,0 +1,3 @@
+2	OH,"Springfield, OH",,,,
+3	WA,"Mount Vernon-Anacortes, WA",,,,
+14	NC,"""Durham Chapel Hill, NC""",540,1.7,1.962,1.91

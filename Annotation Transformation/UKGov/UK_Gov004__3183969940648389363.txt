@@ -1,0 +1,16 @@
+8	Congo,1051.9
+17	Uganda,591
+26	South Africa,432
+40	Rwanda,268
+42	Tunisia,237
+48	Liberia,214
+65	Timor-Leste,133
+72	Mauritania,106
+84	Micronesia,72.2
+102	Botswana,40
+103	Tonga,40
+110	Congo,30.5
+111	Korea,25.7
+122	Sao Tome & Principe,18
+131	Dominica,10
+140	St. Kitts-Nevis,2

@@ -1,0 +1,4 @@
+13	12,""2-Trimethylundecane"",6,-0.06,0.04,1.7E-11
+14	13,""2-Trimethyldodecane"",5,-0.02,0.08,1.87E-11
+15	14,""2-Trimethyltridecane"",5,-0.15,0.21,2.01E-11
+16	15,""2-Trimethylpentadecane"",4,0.15,0.34,2.3E-11

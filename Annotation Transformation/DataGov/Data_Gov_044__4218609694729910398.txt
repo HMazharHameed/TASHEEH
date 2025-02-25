@@ -1,0 +1,7 @@
+167	2010,Alabama,99.5%,UL* 99.8 - LL** 98.1,SV manually computed
+170	2010,Arkansas,99.3%,UL* 99.8 - LL** 98.2,SV manually computed
+184	2010,Kentucky,99.6%,UL* 99.9 - LL** 98.7,SV manually computed
+295	2012,Michigan,99.3%,UL* 99.8 - LL** 98.1,SV manually computed
+342	2013,Kansas,99.6%,UL* 99.9 - LL** 98.7,SV manually computed
+346	2013,Maryland,99.4%,UL* 99.8 - LL** 98.1,SV manually computed
+467	2015,Ohio,99.6%,UL* 99.9 - LL** 98.4,SV manually computed 

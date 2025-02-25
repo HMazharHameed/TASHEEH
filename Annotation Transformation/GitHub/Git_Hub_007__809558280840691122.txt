@@ -1,0 +1,10 @@
+38	CC,Cocos Islands 
+43	CI,Cote D'Ivoire 
+71	FK,Falkland Islands 
+76	GB,Great Britain 
+96	HR,Croatia 
+139	MK,F.Y.R.O.M. 
+166	NZ,New Zealand 
+185	RU,Russian Federation 
+224	US,United States 
+227	VA,Vatican City State 

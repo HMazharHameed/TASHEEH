@@ -1,0 +1,71 @@
+USSQM001.FHX,,,,,
+,,,,,
+Squaretop Mountain,,,,,
+"Additional site information, including individual sample information",,,,,
+,,,,,
+Alan J. Tepley and Thomas T. Veblen,,,,,
+,,,,,
+Dating Method: Crossdated,,,,,
+,,,,,
+Sample Storage Location: University of Colorado at Boulder, Department of Geography, Biogeography Lab",,,,,
+Guggenheim Hall,,,,,
+Campus Box 260,,,,,
+"Boulder, CO 80309-0260",,,,,
+Contact: Alan J. Tepley (Alan.Tepley@Colorado.edu or tepleya@gmail.com),,,,,
+,,,,,
+Reference: Tepley, A.J., and T.T. Veblen. 2015. Spatiotemporal fire dynamics in mixed-conifer and aspen forests in the San Juan Mountains of southwestern Colorado  USA.,  Ecological Monographs doi:10.1890/14-1496.1.,,,,,
+,,,,,
+"Abstract: The fire-scar dataset was collected as part of a study using fire scars and forest stand- and age-structure data to reconstruct the fire history and fire-driven forest dynamics across the gradient from dry to moist mixed-conifer and aspen forests in the San Juan Mountains of southwestern Colorado. The Squaretop Mountain study area is 1,340 ha located on the north side of Rio Blanco, within the Pagosa Ranger District of the San Juan National Forest. Sampling of forest stand- and age-structure data was conducted in 47 contiguous stands across the study area. Fire-scar samples were collected and crosssdated from 48 trees. Ponderosa pine accounts for 87% of the samples, followed by limber pine (9%). White fir and Gambel oak comprise the remaining 4% of samples. Fire scars were collected by searching while hiking to and from each transect, searching the area around each transect, and by making additional trips at the end of the field season to help fill spatial gaps in the dataset. Scars were sampled preferentially from dead trees, but live trees were also sampled to better represent recent fires and to provide a fire record in stands where ponderosa pine was absent and scars were poorly preserved on dead stems of the more rapidly decaying species. The fire-scar data were analyzed along with the age-structure data to reconstruct the extent and severity of each major fire event since the mid-18th century.",,,,,
+,,,,,
+,,,,,
+Individual sample information:,,,,,
+,,,,,
+SampleID, Species, Status (Live/Dead), Elevation (m)," UTM-E (NAD83, zone 13)"," UTM-N (NAD 83, zone 13)"
+,,,,,
+P42S03, PIPO, Dead,2812.4,341216,4122352
+P42S02, PIFL, Live,2805.6,341251,4122203
+P37S01, ABCO, Live,2780,340844,4121972
+P12S01, PIPO, Live,2765.2,338608,4122339
+P27S01, PIFL, Dead,2750.8,341516,4123494
+P33S02, PIFL, Live,2732.5,341383,4122274
+P33S01, PIPO, Live,2716.1,341462,4122303
+710S02, PIPO, Dead,2712.7,338261,4121605
+P27S02, PIFL, Live,2706.2,341711,4123364
+P42S04, PIPO, Dead,2701.2,341302,4121894
+P33S03, PIPO, Live,2695.1,341450,4122136
+P42S01, PIPO, Dead,2695,341301,4121880
+P06S01, PIPO, Live,2683.6,340036,4120936
+710S01, PIPO, Live,2667.8,338304,4121362
+P55S03, PIPO, Dead,2653.6,339004,4120931
+P55S01, PIPO, Live,2651.2,338942,4120927
+P55S02, PIPO, Dead,2651.2,338941,4120925
+P35S01, PIPO, Dead,2650.9,341483,4121957
+P55S04, PIPO, Live,2648.6,338974,4120891
+P09S01, PIPO, Dead,2646.5,341829,4122736
+P05S01, PIPO, Dead,2644.5,340545,4120553
+P09S03, PIPO, Dead,2643.6,341870,4122776
+P63S01, PIPO, Dead,2642.9,340451,4120636
+710S03, PIPO, Live,2639.4,338584,4121089
+P09S02, PIPO, Dead,2638.7,341844,4122683
+710S04, PIPO, Dead,2623.5,338527,4120952
+P57S01, PIPO, Dead,2623.4,339754,4120587
+710S05, PIPO, Dead,2622.2,338528,4120952
+P09S05, PIPO, Live,2619.7,341885,4122597
+P52S01, QUGA, Live,2604.7,338535,4120858
+P93S03, PIPO, Live,2599.6,339156,4120602
+P93S04, PIPO, Dead,2596.6,339138,4120592
+P09S04, PIPO, Dead,2594.9,342023,4122609
+P07S02, PIPO, Live,2587.6,341101,4120990
+P07S01, PIPO, Dead,2586.9,341105,4121000
+P05S02, PIPO, Dead,2586,340799,4120728
+P05S03, PIPO, Dead,2584.6,340796,4120713
+P07S03, PIPO, Live,2584.2,341113,4120921
+P99S01, PIPO, Dead,2565.5,342564,4123290
+P93S02, PIPO, Live,2557.6,338924,4120468
+P63S02, PIPO, Dead,2544.1,339790,4120230
+P93S01, PIPO, Live,2539.6,338722,4120317
+P03S01, PIPO, Live,2533.4,340200,4120225
+P01S01, PIPO, Dead,2529.9,341455,4120933
+P01S02, PIPO, Dead,2520.7,341373,4120740
+P02S01, PIPO, Dead,2498.3,342113,4121681
+P01S03, PIPO, Dead,2490.3,341206,4120479

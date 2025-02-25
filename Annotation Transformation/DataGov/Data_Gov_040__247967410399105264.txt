@@ -1,0 +1,7 @@
+7	1236,2007,Hamma Hamma River Chinook Salmon,2.7,,
+17	2429,2007,Hamma Hamma Summer Chum,1.6,,
+22	2447,2007,Duckabush Summer Chum,1.6,,
+27	2521,2005,Salmon Creek Summer Chum,1.8,,
+28	2521,2006,Salmon Creek Summer Chum,1.8,,
+29	2521,2007,Salmon Creek Summer Chum,1.8,,
+81	6290,2011,Snow Creek Steelhead,9.8,,

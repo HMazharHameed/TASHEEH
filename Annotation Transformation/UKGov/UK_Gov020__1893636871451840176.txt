@@ -1,0 +1,200 @@
+65	UKM2400019,"""Earlston, Gordon and District""",64
+146	UKM2202001,"""Kincardine, Culross and Low Valleyfield""",145
+148	UKM2202002,"""Blairhall, High Valleyfield and Torryburn""",147
+150	UKM2202003,"""Oakley, Saline and Steelend""",149
+152	UKM2202004,"""Cairneyhill, Carnock and Milesmark""",151
+164	UKM2202010,"""Halbeath, Hill of Beath and Kingseat""",163
+203	UKM2202075,"""Crail, Cameron and Kemback""",202
+215	UKM2202037,"""Cardenden, Cluny and Chapel""",214
+216	UKM2202038,"""Kinglassie, Bowhill and Dundonald""",215
+220	UKM2202042,"""Glebe Park, Pathhead and Sinclairtown""",219
+229	UKM2202051,"""Windygates, Star and Balgonie""",228
+233	UKM2202055,"""Thornton, Stenton and Finglassie South""",232
+239	UKM2202061,"""Cadham, Pitcoudie and Balfarg""",238
+240	UKM2202062,"""Falkland, Freuchie and Strathmiglo""",239
+242	UKM2202064,"""Kettle, Springfield and Ceres""",241
+248	UKM2202070,"""Leuchars, Balmullo and Guardbridge""",247
+256	UKM2202077,"""Elie, St Monans and Pittenweem""",255
+298	UKM2600031,"""Reddingmuirhead, Brightons and Rumford""",297
+543	UKM3101008,"""Arrochar, Luss, Arden and Ardenconnel""",542
+547	UKM3101009,"""Roseneath, Clynder and Kilcreggan""",546
+636	UKM3301004,"""North Kilmarnock, Fenwick and Waterside""",635
+641	UKM3301005,"""Crosshouse, Gatehead and Knockentiber""",640
+646	UKM3301006,"""Altonhill, Hillhead and Longpark""",645
+676	UKM3301012,"""Crookedholm, Moscow, Galston West and Hurlford North""",675
+709	UKM3503001,Ward 1,708
+713	UKM3503002,Ward 2,712
+717	UKM3503003,Ward 3,716
+721	UKM3503004,Ward 4,720
+724	UKM3301023,"""Catrine, Sorn and Mauchline East""",723
+725	UKM3503005,Ward 5,724
+728	UKM3301024,"""Muirkirk, Lugar, Logan""",727
+729	UKM3503006,Ward 6,728
+732	UKM3301025,"""Drongan, Stair and Rankinston""",731
+733	UKM3503007,Ward 7,732
+736	UKM3301026,"""Ochiltree, Skares, Netherthird and Craigens""",735
+737	UKM3503008,Ward 8,736
+741	UKM3503009,Ward 9,740
+745	UKM3503010,Ward 10,744
+749	UKM3503011,Ward 11,748
+753	UKM3503012,Ward 12,752
+757	UKM3503013,Ward 13,756
+761	UKM3503014,Ward 14,760
+765	UKM3503015,Ward 15,764
+767	UKM3503016,Ward 16,766
+769	UKM3503017,Ward 17,768
+771	UKM3503018,Ward 18,770
+773	UKM3503019,Ward 19,772
+775	UKM3503020,Ward 20,774
+786	UKM3600056,"""Balloch West, Blackwood East and Craigmarloch""",785
+788	UKM3600057,"""Westerwood, Carrickstone and Dullatur""",787
+818	UKM3600064,"""Croy, Kilsyth South And Smithstone""",817
+933	UKM5002061,"""Newtonhill, Muchalls and Cammachmore""",932
+940	UKM6201008,"""Ardersier, Croy and Petty""",939
+963	UKM5002067,"""Inverbervie, Gourdon and Johnshaven""",962
+969	UKM6302001,"""Islay North, Jura and Colonsay""",968
+1143	UKM6303023,"""Arrochar, Luss, Arden and Ardenconnel""",1142
+1160	UKM6500010,"""Stromness South, Graemsay and North Hoy""",1159
+1164	UKM6500011,"""Orphir, Walls and Flotta""",1163
+1176	UKM6500014,"""Evie, Rendall, Rousay, Egilsay and Wyre""",1175
+1270	UKM6500020,"""Sanday, North Ronaldsay and Stronsay""",1269
+1277	UKM6500021,"""Papa Westray, Westray and Eday""",1276
+1377	UKM6600008,"""Upper Sound, Gulberwick and Quarff""",1376
+1398	UKM6600011,"""Northmavine, Muckle Roe and Busta""",1397
+1419	UKM6600014,"""Nesting, Whiteness, Girlsta and Gott""",1418
+1458	UKM6600017,"""Sandsting, Aithsting and Weisdale""",1457
+1461	UKM6600018,"""Walls, Sandness and Clousta""",1460
+1470	UKM6600021,"""Sandwick, Levenwick and Bigton""",1469
+1823	UKN0504004,"""Boho, Cleenish and Letterbreen""",1822
+1902	UKN0504014,"""Kesh, Ederney and Lack""",1901
+2074	UKD1202002,Appleby (Appleby),2073
+2075	UKD1202003,Appleby (Bongate),2074
+2246	UKC2201037,"""Ryton, Crookhill and Stella""",2245
+2717	UKD4308025,"""Aighton, Bailey and Chaigley""",2716
+2723	UKD4308028,"""Bowland, Newton and Slaidburn""",2722
+2752	UKD4308034,"""Gisburn, Rimington""",2751
+2814	UKD6100005,"""Culcheth, Glazebury and Croft""",2813
+2854	UKD6100010,"""Hatton, Stretton and Walton""",2853
+3042	UKE2100045,"""Skelton, Rawcliffe and Clifton Without""",3041
+3112	UKD7400008,"""Greasby, Frankby and Irby""",3111
+3125	UKE1200046,"""Snaith, Airmyn, Rawcliffe and Marshland""",3124
+3285	UKE3102030,"""Edenthorpe, Kirk Sandall and Barnby Dun""",3284
+3424	UKE4500001,"""Ackworth, North Elmsall and Upton""",3423
+3433	UKE4500005,"""Crofton, Ryhill and Walton""",3432
+3589	UKE2206039,"""Scalby, Hackness and Staintondale""",3588
+3803	UKF1601032,Eastwood North and Greasley (Beauvale),3802
+3815	UKF1601034,Greasley (Giltbrook and Newthorpe),3814
+3827	UKF1601036,Nuthall West and Greasley (Watnall),3826
+3941	UKF1301043,"""Kilburn, Denby and Holbrook""",3940
+3946	UKF1301044,"""Shipley Park, Horsley and Horsley Woodhouse""",3945
+4196	UKF2204003,"""Barlestone, Nailstone and Osbaston""",4195
+4238	UKF2204023,"""Cadeby, Carlton and Market Bosworth with Shackerstone""",4237
+4300	UKF2204029,"""Markfield, Stanton and Fieldhead""",4299
+4312	UKF2204031,"""Ratby, Bagworth and Thornton""",4311
+4334	UKF3004057,"""Billinghay, Martin and North Kyme""",4333
+4345	UKF3004059,"""Eagle, Swinderby and Witham St Hughs""",4344
+4537	UKF3005036,"""Moulton, Weston and Cowbit""",4536
+4551	UKF3005038,"""Donington, Quadring and Gosberton""",4550
+4656	UKG1100053,"""Burghill, Holmer and Lyde""",4655
+4681	UKG2200006,"""Bayston Hill, Column and Sutton""",4680
+4856	UKG2200025,"""Gobowen, Selattyn and Weston Rhyn""",4855
+4946	UKG2405003,"""Wheaton Aston, Bishopswood and Lapley""",4945
+5173	UKG2300042,"""Baddeley, Milton and Norton""",5172
+5177	UKG3600015,"""Netherton, Woodside and St Andrews""",5176
+5387	UKH1203027,"""Benwick, Coates and Eastrea""",5386
+5703	UKH2305055,"""Hitchwood, Offa and Hoo""",5702
+5884	UKH2302037,"""Bovingdon, Flaunden and Chipperfield""",5883
+6036	UKH3302038,"""Bradwell, Silver End and Rivenhall""",6035
+6060	UKH3303022,"""Herongate, Ingrave and West Horndon""",6059
+6067	UKH3303027,"""Ingatestone, Fryerning and Mountnessing""",6066
+6072	UKH3311005,"""Bradfield, Wrabness and Wix""",6071
+6135	UKH3307031,"""Broadley Common, Epping Upland and Nazeing""",6134
+6138	UKH3307034,"""Chipping Ongar, Greensted and Marden Ash""",6137
+6142	UKH3307038,"""Hastingwood, Matching and Sheering Village""",6141
+6143	UKH3307039,"""High Ongar, Willingale and The Rodings""",6142
+6156	UKH2500031,"""Westoning, Flitton and Greenfield""",6155
+6275	UKH3311051,"""Manningtree, Mistley, Little Bentley and Tendring""",6274
+6311	UKH3311060,"""Thorrington, Frating, Elmstead and Great Bromley""",6310
+6375	UKH3305011,"""Little Baddow, Danbury and Sandon""",6374
+6393	UKH3305040,"""South Hanningfield, Stock and Margaretting""",6392
+6898	UKJ1302035,"""Ashley Green, Latimer and Chenies""",6897
+6912	UKJ1302037,"""Ballinger, South Heath and Chartridge""",6911
+6962	UKJ1106038,"""Remenham, Wargrave and Ruscombe""",6961
+6985	UKJ1302042,"""Cholesbury, The Lee and Bellingdon""",6984
+7157	UKI2307023,"""Ham, Petersham and Richmond Riverside""",7156
+7170	UKJ1305018,"""Lacey Green, Speen and The Hampdens""",7169
+7240	UKJ2304039,"""Mickleham, Westhumble and Pixham""",7239
+7267	UKJ2205043,"""Plumpton, Streat, East Chiltington and St John (Without)""",7266
+7299	UKJ2305020,"""Chipstead, Hooley and Woodmansterne""",7298
+7382	UKJ1405048,"""Hailey, Minster Lovell and Leafield""",7381
+7383	UKJ1405049,"""Kingham, Rollright and Enstone""",7382
+7384	UKJ1405050,"""Standlake, Aston and Stanton Harcourt""",7383
+7464	UKJ2304030,"""Brockham, Betchworth and Buckland""",7463
+7465	UKJ2304031,"""Capel, Leigh and Newdigate""",7464
+7599	UKJ1401079,"""Yarnton, Gosford and Water Eaton""",7598
+7744	UKJ2309036,"""Burstow, Horne and Outwood""",7743
+7795	UKJ2310017,"""Frensham, Dockenfield and Tilford""",7794
+7807	UKJ2310029,"""Alfold, Cranleigh Rural and Ellens Green""",7806
+7810	UKJ3301045,"""Overton, Laverstoke and Steventon""",7809
+7813	UKJ2310030,"""Bramley, Busbridge and Hascombe""",7812
+7845	UKJ3301060,"""Burghclere, Highclere and St Mary Bourne""",7844
+7874	UKJ2405027,"""Bramber, Upper Beeding and Woodmancote""",7873
+7892	UKJ2405031,"""Cowfold, Shermanbury and West Grinstead""",7891
+7927	UKJ2405038,"""Itchingfield, Slinfold and Warnham""",7926
+8014	UKJ4207011,"""Halstead, Knockholt and Badgers Mount""",8013
+8018	UKJ4207045,"""Brasted, Chevening and Sundridge""",8017
+8024	UKJ4207051,"""Farningham, Horton Kirby and South Darenth""",8023
+8030	UKJ4207057,"""Penshurst, Fordcombe and Chiddingstone""",8029
+8084	UKJ4204043,"""Maxton, Elms Vale and Priory""",8083
+8123	UKJ3400011,"""Chale, Niton and Whitwell""",8122
+8132	UKJ3308034,"""Ashurst, Copythorne South and Netley Marsh""",8131
+8180	UKJ3308039,"""Bramshaw, Copythorne North and Minstead""",8179
+8186	UKJ3308046,"""Fawley, Blackfield and Langley""",8185
+8221	UKJ3400088,"""Brading, St Helens and Bembridge""",8220
+8236	UKJ4209033,"""Hartlip, Newington and Upchurch""",8235
+8286	UKJ3400098,"""Havenstreet, Ashey and Haylands""",8285
+8293	UKJ3312030,"""Chilworth, Nursling and Rownhams""",8292
+8346	UKJ4205034,"""Shorne, Cobham and Luddesdown""",8345
+8367	UKJ4203034,"""Longfield, New Barn and Southfleet""",8366
+8371	UKJ3313036,"""Droxford, Soberton and Hambledon""",8370
+8402	UKK1305047,"""Randwick, Whiteshill and Ruscombe""",8401
+8531	UKJ4211005,"""Burham, Eccles and Wouldham""",8530
+8620	UKJ4211037,"""Hadlow, Mereworth and West Peckham""",8619
+8631	UKK1500010,"""Bromham, Rowde and Potterne""",8630
+8637	UKK1500011,"""Bulford, Allington and Figheldean""",8636
+8759	UKK1303033,"""Alvington, Aylburton and West Lydney""",8758
+8799	UKK1500041,"""Laverstock, Ford and Old Sarum""",8798
+8969	UKK3008037,"""Ladock, St Clement and St Erme""",8968
+9060	UKK2301061,"""Ashwick, Chilcompton and Stratton""",9059
+9090	UKK2301066,"""Cranmore, Doulting and Nunney""",9089
+9353	UKL1200116,Menai (Bangor),9352
+9354	UKL1200117,Menai (Caernarfon),9353
+9356	UKL1200120,Peblig (Caernarfon),9355
+9386	UKK4304053,"""Landkey, Swimbridge and Taw""",9385
+9470	UKK4307026,Westward Ho!,9469
+9619	UKL1408030,Milford: Central,9618
+9627	UKL1408031,Milford: East,9626
+9635	UKL1408032,Milford: Hakin,9634
+9643	UKL1408033,Milford: Hubberston,9642
+9695	UKL1408034,Milford: North,9694
+9702	UKL1408035,Milford: West,9701
+9730	UKL1408039,Neyland: East,9729
+9737	UKL1408040,Neyland: West,9736
+9744	UKL1408041,Pembroke Dock: Central,9743
+9751	UKL1408042,Pembroke Dock: Llanion,9750
+9789	UKL1408043,Pembroke Dock: Market,9788
+9794	UKL1408044,Pembroke Dock: Pennar,9793
+9800	UKL1408045,Pembroke: Monkton,9799
+9806	UKL1408046,Pembroke: St. Mary North,9805
+9812	UKL1408047,Pembroke: St. Mary South,9811
+9818	UKL1408048,Pembroke: St. Michael,9817
+9843	UKL1604006,"""Bedwas, Trethomas and Machen""",9842
+9886	UKL1408057,Tenby: North,9885
+9889	UKL1408058,Tenby: South,9888
+9937	UKL1408068,Haverfordwest: Portfield,9936
+9942	UKL1408069,Haverfordwest: Prendergast,9941
+9960	UKL1408013,Haverfordwest: Castle,9959
+9980	UKL1408014,Haverfordwest: Garth,9979
+9983	UKL1408017,Haverfordwest: Priory,9982
+10272	UKL1705041,"""Bryntirion, Laleston and Merthyr Mawr""",10271
+10377	UKL2400170,,10376

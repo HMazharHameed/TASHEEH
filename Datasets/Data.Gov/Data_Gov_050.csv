@@ -1,0 +1,171 @@
+pid,season,EventId,StartDate,StartTime,Duration,WindowFans,Comments
+D001,1,1,26AUG2004,17:00:00,1060,1,downstairs room
+D001,1,2,28AUG2004,8:00:00,1440,1,parent's room downstairs
+D003,1,1,28JUL2004,6:00:00,720,1,window in child's room
+D003,1,2,29JUL2004,11:00:00,720,1,in child's room
+D003,1,3,30JUL2004,10:00:00,720,2,in children's room
+D003,1,4,31JUL2004,11:00:00,720,2,children's rooms
+D005,1,1,29JUL2004,21:00:00,,1,
+D005,1,2,29JUL2004,21:00:00,540,2,In upstairs windows
+D005,1,3,30JUL2004,22:00:00,300,3,one in each room upstairs
+D005,1,4,31JUL2004,22:30:00,360,3,One fan in each window
+D009,1,1,10AUG2004,7:00:00,1440,1,in Master bedroom
+D009,1,2,11AUG2004,7:00:00,300,1,in upstairs bedroom
+D012,1,1,20JUL2004,19:00:00,240,1,
+D012,1,2,22JUL2004,11:00:00,1440,2,In bedrooms upstairs
+D012,1,3,23JUL2004,13:15:00,15,1,
+D012,1,4,24JUL2004,11:00:00,1440,1,
+D013,1,1,27AUG2004,8:00:00,720,1,wall fan in kitchen
+D025,1,1,14JUL2004,6:00:00,1440,2,both run all day
+D025,1,2,14JUL2004,6:00:00,1440,1,
+D025,1,3,15JUL2004,6:00:00,1440,1,runs all day
+D025,1,4,15JUL2004,16:00:00,840,1,ran continuously from 4 pm
+D025,1,5,16JUL2004,6:00:00,1440,1,in kitchen
+D025,1,6,16JUL2004,6:00:00,1440,1,in living room
+D025,1,7,17JUL2004,6:00:00,1440,1,cut off this morning
+D025,1,8,17JUL2004,6:00:00,840,1,cut off at 8 pm
+D032,1,1,18AUG2004,10:00:00,1440,2,In kitchen and bedroom
+D032,1,2,19AUG2004,10:00:00,1440,2,one in the kitchen and another one in the bedroom.  They automatically turn off and on at different times.
+D032,1,3,20AUG2004,10:00:00,1440,1,""in the kitchen, it goes on and off automatically""
+D049,3,1,19JUL2005,10:00:00,1440,1,children keep fan in the bedroom window
+D049,3,2,20JUL2005,11:00:00,1440,1,In the children's room
+D049,3,3,21JUL2005,11:00:00,1440,1,Kids always have their fan blowing.
+D052,3,1,16AUG2005,10:00:00,1440,1,living room window fan
+D052,3,2,17AUG2005,11:00:00,1440,4,2 box fans upstairs that fit in bedroom windows.  1 window fan placed on the floor of upstairs bedroom.  1 window fan placed on living room floor.
+D052,3,3,18AUG2005,11:00:00,1440,4,1 in living room and 3 in upstairs bedrooms
+D052,3,4,19AUG2005,11:20:00,1440,4,1 in living room and 3 in bedrooms upstairs
+D052,3,5,20AUG2005,11:00:00,1440,4,1 in living room and 3 upstairs in bedrooms
+D053,3,1,12JUL2005,8:30:00,810,1,Living room window
+D053,3,2,13JUL2005,8:30:00,900,1,
+D053,3,3,14JUL2005,8:00:00,660,1,living room window fan
+D053,3,4,15JUL2005,7:30:00,660,1,
+D053,3,5,16JUL2005,7:30:00,840,1,
+D055,3,1,19JUL2005,8:00:00,1440,1,daughter's bedroom
+D055,3,2,20JUL2005,8:00:00,1440,1,daughter's room
+D055,3,3,21JUL2005,8:00:00,1440,1,daughter's room
+D055,3,4,22JUL2005,8:00:00,1440,1,daughter's bed room
+D055,3,5,23JUL2005,8:00:00,1440,1,daughter's bed room
+D056,3,1,19JUL2005,8:30:00,1440,1,living room window fan
+D056,3,2,20JUL2005,8:30:00,1440,2,living room and kitchen
+D056,3,3,21JUL2005,21:00:00,690,2,living and kid's bed rooms
+D056,3,4,22JUL2005,13:00:00,60,1,kitchen
+D056,3,5,23JUL2005,20:50:00,30,1,living room
+D058,3,1,25AUG2005,7:00:00,660,1,window fan in the LR was on all day
+D058,3,2,26AUG2005,7:00:00,600,1,window fan was on all day in the LR.
+D061,3,1,26JUL2005,23:00:00,420,1,Bedroom fan
+D061,3,2,27JUL2005,15:00:00,360,1,bede
+room window
+D061,3,3,28JUL2005,10:00:00,480,1,bedroom window
+D061,3,4,29JUL2005,11:00:00,600,1,bed room window
+D061,3,5,30JUL2005,9:30:00,1440,1,Bedroom window
+D062,3,1,16AUG2005,8:30:00,1440,1,kept on all day
+D062,3,2,17AUG2005,8:30:00,1440,1,Runs 24hrs in participants bedroom
+D062,3,3,18AUG2005,8:30:00,1440,1,Fan in on all day and night
+D062,3,4,19AUG2005,8:30:00,1440,1,bedroom window
+D062,3,5,19AUG2005,21:00:00,660,1,kitchen window
+D062,3,6,20AUG2005,8:30:00,1440,2,
+D064,3,1,27JUL2005,21:00:00,650,1,window fan in the bedroom is on all night
+D064,3,2,28JUL2005,21:00:00,420,1,window fan in the bedroom was on
+D064,3,3,29JUL2005,21:00:00,600,1,window fan in the bedroom was on all night
+D064,3,4,30JUL2005,21:00:00,600,1,fan on in the bedroom all night
+D065,3,1,02AUG2005,7:00:00,1440,1,window fan in the FR is on all day
+D065,3,2,03AUG2005,7:00:00,1440,1,windowfan in the family room runs all the time
+D065,3,3,04AUG2005,8:00:00,660,1,window fan in the FR was on all day
+D065,3,4,05AUG2005,7:00:00,600,1,window fan in the FR was on all day
+D065,3,5,06AUG2005,8:00:00,600,1,window fan in the FR was on all day
+D070,3,1,03AUG2005,21:00:00,720,1,kid's room window fan was on all night
+D070,3,2,04AUG2005,20:00:00,700,1,window fan in the kid's bedroom was on all night
+D070,3,3,05AUG2005,8:00:00,1440,1,windpw fan in the kid's room was on all day
+D071,3,1,23AUG2005,8:30:00,1440,1,
+D071,3,2,24AUG2005,23:00:00,440,1,Bedroom window
+D071,3,3,25AUG2005,22:00:00,420,1,bedroom window
+D071,3,4,27AUG2005,23:00:00,400,1,bedroom window
+D073,3,1,16AUG2005,0:00:00,540,1,Fan in Master bedroom
+D073,3,2,18AUG2005,10:00:00,570,1,Participant's bedroom window
+D074,3,1,05AUG2005,11:00:00,60,1,
+D076,3,1,26JUL2005,7:30:00,660,1,
+D076,3,2,27JUL2005,7:55:00,10,1,
+D077,3,1,16AUG2005,7:00:00,300,1,
+D077,3,2,18AUG2005,12:00:00,240,1,In the window in the living room
+D077,3,3,18AUG2005,21:00:00,720,1,In the window in participants bedroom
+D077,3,4,19AUG2005,7:00:00,1440,1,living room window
+D077,3,5,20AUG2005,7:00:00,1440,1,bedroom window
+D078,3,1,26JUL2005,21:00:00,660,1,window fan in the participant's room is on all night
+D080,3,1,02AUG2005,10:00:00,645,1,window fan is on in participant's bed room.
+D080,3,2,03AUG2005,11:00:00,735,1,window fan is on while sleeping
+D080,3,3,04AUG2005,21:30:00,645,1,window fan on in bed room all night while sleeping.
+D080,3,4,05AUG2005,14:00:00,75,1,window fan in bed room was on while napping.
+D080,3,5,05AUG2005,21:00:00,675,1,window fan in bed room was on while sleeping.
+D080,3,6,06AUG2005,23:00:00,525,1,bed room window fan used when sleeping
+D081,3,1,13JUL2005,9:00:00,780,1,Living room window
+D083,3,1,14AUG2005,6:00:00,1440,1,Just one fan at the first floor  bedroom (western portion of the house)
+D084,3,1,13AUG2005,8:00:00,1440,1,window fan in the Kitchen was on all day and night
+D086,3,1,19JUL2005,8:30:00,1440,1,hall window upsatirs
+D086,3,2,20JUL2005,10:30:00,1440,1,hall window upstairs
+D086,3,3,21JUL2005,11:00:00,1440,1,hall window upstairs
+D086,3,4,22JUL2005,11:00:00,1440,1,hall window fan upstairs
+D086,3,5,23JUL2005,11:00:00,1440,1,hall window upstairs
+D052,4,1,07FEB2006,21:00:00,560,1,Participants husband turns the fan on every night
+D052,4,2,08FEB2006,8:30:00,480,1,Participant's husband turns the fan on at night in their bedroom
+D052,4,3,09FEB2006,21:00:00,480,1,fan in bedroom window
+D052,4,4,10FEB2006,21:00:00,480,1,participant has bedroom window open with fan running while in the bed for the night
+D052,4,5,11FEB2006,22:30:00,480,1,participant's husband insists on the window fan being on over night
+D076,4,1,24JAN2006,22:00:00,600,1,Participant turned on the window fan as the room was very hot
+D100,5,1,15AUG2006,22:30:00,240,2,Window fans in BR1 and BR3s are on
+D101,5,1,17AUG2006,9:00:00,1440,1,window fan in DR was on all day
+D102,5,1,23AUG2006,10:00:00,1440,1,Brother has a window fan that is turned off and on throughout the day. Duration is unknown.
+D106,5,1,08AUG2006,10:30:00,1440,1,BR1
+D106,5,2,09AUG2006,10:00:00,645,1,BR1
+D106,5,3,10AUG2006,0:00:00,465,1,BR
+D106,5,4,11AUG2006,23:45:00,435,1,BR1
+D108,5,1,01AUG2006,7:00:00,1440,1,window fan in BR1 is on all day
+D108,5,2,02AUG2006,7:00:00,1440,1,window fan in BR1 was on all day
+D108,5,3,04AUG2006,7:00:00,1440,1,Window fan in BR was open all day
+D108,5,4,04AUG2006,7:00:00,1440,1,window fan in BR1 was on all day
+D108,5,5,05AUG2006,7:00:00,1440,1,window fan in BR 1 was on all day
+D109,5,1,11AUG2006,8:00:00,420,1,""LR,  A/C unit is equipped with a fan.""
+D110,5,1,25JUL2006,7:00:00,1440,1,in one of the BR windows fan was running all day
+D110,5,2,26JUL2006,7:00:00,1440,1,in window of BR1
+D110,5,3,27JUL2006,7:00:00,1440,1,used in one window in BR1
+D110,5,4,28JUL2006,7:00:00,1440,1,fan in one window in BR1
+D110,5,5,29JUL2006,7:00:00,1440,1,""fan in window in BR1, left on all day""
+D111,5,1,01AUG2006,7:00:00,1440,1,window fan in BR2 on all day
+D111,5,2,02AUG2006,7:00:00,1440,1,window fan in BR2 was on all day
+D111,5,3,03AUG2006,7:00:00,1440,1,BR2 window fan was on all day
+D111,5,4,04AUG2006,7:00:00,1440,1,window fan in BR2 was on all day
+D111,5,5,05AUG2006,7:00:00,1440,1,BR2 fan was on all day
+D113,5,1,25JUL2006,9:45:00,555,1,1 BR window
+D113,5,2,26JUL2006,11:45:00,1440,1,BR2
+D113,5,3,27JUL2006,11:00:00,1440,1,BR2  window fan on all day.
+D113,5,4,28JUL2006,10:00:00,1440,1,bedroom 1
+D113,5,5,29JUL2006,11:00:00,1440,1,1 Bedroom
+D116,5,1,08AUG2006,7:00:00,1440,1,window fan in DR window
+D116,5,2,09AUG2006,7:00:00,1440,1,fan in window in DR
+D116,5,3,10AUG2006,7:00:00,1440,1,window fan in DR window
+D116,5,4,11AUG2006,7:00:00,1440,1,fan in DR window
+D116,5,5,12AUG2006,7:00:00,1440,1,fan in DR was on all day long
+D117,5,1,15AUG2006,22:00:00,540,1,side window in BR2 has a box fan that is turned on at night when participants friend goes to sleep
+D117,5,2,17AUG2006,1:00:00,360,1,side window has fan in BR2 that is turned on when friend goes to bed
+D117,5,3,17AUG2006,22:00:00,540,1,1 small window fan used in front window of BR1
+D117,5,4,18AUG2006,7:00:00,150,1,1 big box fan used in side window of BR1
+D117,5,5,18AUG2006,21:45:00,720,2,2 window fans in BR1 were on all night
+D117,5,6,19AUG2006,23:00:00,540,2,1 small fan in back window of BR2 and 1 box fan in side window of BR1
+D120,5,1,18JUL2006,7:00:00,1440,1,Window fan used in the BR upstairs all day
+D120,5,2,19JUL2006,7:00:00,1440,2,Both bedroom window fans were on all day
+D120,5,3,20JUL2006,7:00:00,1440,1,one of the window fan in the upstairs BR was on all day
+D120,5,4,21JUL2006,7:00:00,1440,2,Both bedroom fans upstairs were on all day
+D120,5,5,22JUL2006,7:00:00,1440,1,One of the BR fan was on all day
+D123,5,1,01AUG2006,10:00:00,750,1,box fan in LR window on all day
+D123,5,2,02AUG2006,9:00:00,45,1,box fan in LR window turned on before team arrived
+D123,5,3,02AUG2006,10:00:00,1440,1,window in LR had fan in it running all day and night
+D123,5,4,03AUG2006,11:00:00,1380,1,box fan in LR window was left on all day and night
+D123,5,5,04AUG2006,10:30:00,1410,1,participant said the window fan in LR was used off and on all day
+D123,5,6,05AUG2006,11:00:00,1380,1,window in LR had window fan running all day and night
+D124,5,1,19JUL2006,8:15:00,1425,1,back bedroom has window open w/ a window fan in it at all times
+D124,5,2,20JUL2006,8:00:00,1380,1,back BR window has fan in at all times
+D139,5,1,18JUL2006,7:00:00,480,1,window fan in the KI was on
+D139,5,2,19JUL2006,7:00:00,1440,1,Window fan in the KI was on all day
+D139,5,3,20JUL2006,7:00:00,1440,1,window fan in the KI
+I was on all day
+D139,5,4,21JUL2006,7:00:00,1440,1,Window fan in the KI on all day
+D139,5,5,22JUL2006,7:00:00,1440,1,Window fan in the KI was on all day

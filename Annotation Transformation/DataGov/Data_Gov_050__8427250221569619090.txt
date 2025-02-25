@@ -1,0 +1,26 @@
+8	D005,1,1,29JUL2004,21:00:00,,1,
+14	D012,1,1,20JUL2004,19:00:00,240,1,
+16	D012,1,3,23JUL2004,13:15:00,15,1,
+17	D012,1,4,24JUL2004,11:00:00,1440,1,
+20	D025,1,2,14JUL2004,6:00:00,1440,1,
+22	D025,1,4,15JUL2004,16:00:00,840,1,ran continuously from 4 pm
+26	D025,1,8,17JUL2004,6:00:00,840,1,cut off at 8 pm
+28	D032,1,2,19AUG2004,10:00:00,1440,2,one in the kitchen and another one in the bedroom.  They automatically turn off and on at different times.
+29	D032,1,3,20AUG2004,10:00:00,1440,1,"""in the kitchen, it goes on and off automatically"""
+34	D052,3,2,17AUG2005,11:00:00,1440,4,2 box fans upstairs that fit in bedroom windows.  1 window fan placed on the floor of upstairs bedroom.  1 window fan placed on living room floor.
+35	D052,3,3,18AUG2005,11:00:00,1440,4,1 in living room and 3 in upstairs bedrooms
+36	D052,3,4,19AUG2005,11:20:00,1440,4,1 in living room and 3 in bedrooms upstairs
+37	D052,3,5,20AUG2005,11:00:00,1440,4,1 in living room and 3 upstairs in bedrooms
+39	D053,3,2,13JUL2005,8:30:00,900,1,
+41	D053,3,4,15JUL2005,7:30:00,660,1,
+42	D053,3,5,16JUL2005,7:30:00,840,1,
+51	D056,3,4,22JUL2005,13:00:00,60,1,kitchen
+56	D061,3,2,27JUL2005,15:00:00,360,1,bede
+66	D062,3,6,20AUG2005,8:30:00,1440,2,
+79	D071,3,1,23AUG2005,8:30:00,1440,1,
+85	D074,3,1,05AUG2005,11:00:00,60,1,
+86	D076,3,1,26JUL2005,7:30:00,660,1,
+87	D076,3,2,27JUL2005,7:55:00,10,1,
+88	D077,3,1,16AUG2005,7:00:00,300,1,
+126	D109,5,1,11AUG2006,8:00:00,420,1,"""LR,  A/C unit is equipped with a fan."""
+131	D110,5,5,29JUL2006,7:00:00,1440,1,"""fan in window in BR1, left on all day"""

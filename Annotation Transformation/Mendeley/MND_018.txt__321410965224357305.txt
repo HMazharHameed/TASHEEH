@@ -1,0 +1,17 @@
+2	1	-65	-22.33	7.54		Marine macroalgae	-19.32	6.84
+31	2	-65	no_analysis	no_analysis		Marine fauna	-19.96	11.03
+34	2	90	no_analysis	no_analysis		Marine fauna	-19.56	10.79
+36	2	130	no_analysis	no_analysis		Marine fauna	-19.48	10.24
+38	2	170	no_analysis	no_analysis		Marine fauna	-20.32	10.79
+40	2	210	no_analysis	no_analysis		Oak (marine)	-29.63	2.59
+55	2	3377	no_analysis	no_analysis				
+57	2	3724	no_analysis	no_analysis				
+60	2	4245	no_analysis	no_analysis				
+61	3	-65	no_analysis	no_analysis				
+63	3	23	no_analysis	no_analysis				
+65	3	42	no_analysis	no_analysis				
+67	3	80	no_analysis	no_analysis				
+69	3	153	no_analysis	no_analysis				
+84	3	3553	no_analysis	no_analysis				
+86	3	3929	no_analysis	no_analysis				
+89	3	4492	no_analysis	no_analysis				

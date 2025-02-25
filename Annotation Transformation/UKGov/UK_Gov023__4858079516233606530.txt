@@ -1,0 +1,5 @@
+2	1,Standish,Standish,02/04/76,,,Core Strategy (2013),CP11,8.904 ha
+4	3,Wigan Town Centre,Wigan,25/08/80,,,Core Strategy (2013),CP11,11.061 ha
+6	5,Howe Bridge,Atherton,29/12/87,,,Core Strategy (2013),CP11,10.778 ha
+12	11,Mesnes,Wigan,25/08/80,,,Core Strategy (2013),CP11,18.461 ha
+16	15,Leigh Town Centre,Leigh,24/06/81,,,Core Strategy (2013),CP11,10.315 ha

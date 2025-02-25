@@ -1,0 +1,14 @@
+18	"""Bahamas, The """,BHS,1973,2016
+26	"""Bonaire, Sint Eustatius and Saba""",BES,2010,2016
+58	"""Congo, Republic of the """,COG,1960,2016
+59	"""Congo, Democratic Republic of the """,COD,1960,2016
+78	"""Egypt, Arab Rep.""",EGY,1948,2016
+89	Federation of Rhodesia and Nyasaland,ZW1,1953,1963
+95	"""Gambia, The""",GMB,1965,2016
+134	"""Korea, North""",PRK,1948,2016
+135	"""Korea, South""",KOR,1948,2016
+162	"""Micronesia, Federated States of """,FSM,1986,2016
+210	"""Saint Helena, Ascension and Tristan da Cunha""",SHN,1948,2016
+211	Saint Christopher-Nevis-Anguilla,KN1,1967,1982
+277	"""Yemen, North""",YEM,1948,2016
+278	"""Yemen, South""",YMD,1967,1989

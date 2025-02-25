@@ -1,0 +1,790 @@
+"Name","Lat","Lon","Parent"
+"Andorra",42.5,1.5,
+"United Arab Emirates",24,54,
+"Afghanistan",33,65,
+"Antigua and Barbuda",17.05,-61.8,
+"Albania",41,20,
+"Armenia",40,45,
+"Angola",-12.5,18.5,
+"Argentina",-34,-64,
+"Austria",47.33,13.33,
+"Australia",-25,135,
+"Azerbaijan",40.5,47.5,
+"Bosnia and Herzegovina",44.25,17.83,
+"Barbados",13.17,-59.53,
+"Bangladesh",24,90,
+"Belgium",50.83,4,
+"Burkina Faso",13,-2,
+"Bulgaria",43,25,
+"Bahrain",26,50.5,
+"Burundi",-3.5,30,
+"Benin",9.5,2.25,
+"Brunei",4.5,114.67,
+"Bolivia",-17,-65,
+"Brazil",-10,-55,
+"Bahamas",24,-76,
+"Bhutan",27.5,90.5,
+"Botswana",-22,24,
+"Belarus",53,28,
+"Belize",17.25,-88.75,
+"Canada",60,-96,
+"Democratic Republic of the Congo",0,25,
+"Central African Republic",7,21,
+"Congo",-1,15,
+"Switzerland",47,8.01,
+"Cote d'Ivoire",8,-5,
+"Chile",-30,-71,
+"Cameroon",6,12,
+"China",35,105,
+"Colombia",4,-72,
+"Costa Rica",10,-84,
+"Cuba",22,-79.5,
+"Cape Verde",16,-24,
+"Cyprus",35,33,
+"Czech Republic",49.75,15,
+"Germany",51.5,10.5,
+"Djibouti",11.5,42.5,
+"Denmark",56,10,
+"Dominica",15.5,-61.33,
+"Dominican Republic",19,-70.67,
+"Algeria",28,3,
+"Ecuador",-2,-77.5,
+"Estonia",59,26,
+"Egypt",27,30,
+"Eritrea",15,39,
+"Spain",40,-4,
+"Ethiopia",8,38,
+"Finland",64,26,
+"Fiji",-18,178,
+"France",46,2,
+"Gabon",-1,11.75,
+"United Kingdom",54,-4,
+"Grenada",12.12,-61.67,
+"Georgia",42,43.5,
+"Ghana",8,-2,
+"Gambia",13.5,-15.5,
+"Guinea",11,-10,
+"Equatorial Guinea",2,10,
+"Greece",39,22,
+"Guatemala",15.5,-90.25,
+"Guinea-Bissau",12,-15,
+"Guyana",5,-59,
+"Honduras",15,-86.5,
+"Croatia",45.17,15.5,
+"Haiti",19,-72.42,
+"Hungary",47,20,
+"Indonesia",-5,120,
+"Ireland",53,-8,
+"Israel",31.5,34.75,
+"India",20,77,
+"Iraq",33,44,
+"Iran",32,53,
+"Iceland",65,-18,
+"Italy",42.83,12.83,
+"Jamaica",18.25,-77.5,
+"Jordan",31,36,
+"Japan",35.69,139.75,
+"Kenya",1,38,
+"Kyrgyzstan",41,75,
+"Cambodia",13,105,
+"Kiribati",-5,-170,
+"Comoros",-12.17,44.25,
+"Saint Kitts & Nevis",17.33,-62.75,
+"N. Korea",40,127,
+"S. Korea",37,127.5,
+"Kuwait",29.5,47.75,
+"Kazakhstan",48,68,
+"Laos",18,105,
+"Lebanon",33.83,35.83,
+"Saint Lucia",13.88,-60.97,
+"Liechtenstein",47.17,9.53,
+"Sri Lanka",7,81,
+"Liberia",6.5,-9.5,
+"Lesotho",-29.5,28.25,
+"Lithuania",56,24,
+"Luxembourg",49.75,6.17,
+"Latvia",57,25,
+"Libya",25,17,
+"Morocco",32,-5,
+"Monaco",43.73,7.42,
+"Moldova",47,29,
+"Montenegro",42.5,19.3,
+"Madagascar",-20,47,
+"Macedonia",41.83,22,
+"Mali",17,-4,
+"Burma",22,98,
+"Mongolia",46,105,
+"Mauritania",20,-12,
+"Malta",35.92,14.43,
+"Mauritius",-20.3,57.58,
+"Maldives",3.2,73,
+"Malawi",-13.5,34,
+"Mexico",23,-102,
+"Malaysia",2.5,112.5,
+"Mozambique",-18.25,35,
+"Namibia",-22,17,
+"Niger",16,8,
+"Nigeria",10,8,
+"Nicaragua",13,-85,
+"Netherlands",52.5,5.75,
+"Norway",62,10,
+"Nepal",28,84,
+"Naoero",-0.53,166.92,
+"New Zealand",-42,174,
+"Oman",21,57,
+"Panama",9,-80,
+"Peru",-10,-76,
+"Papua New Guinea",-6,147,
+"Philippines",13,122,
+"Pakistan",30,70,
+"Poland",52,20,
+"Portugal",39.5,-8,
+"Paraguay",-22.99,-58,
+"Qatar",25.5,51.25,
+"Romania",46,25,
+"Serbia",44.82,20.46,
+"Russia",60,100,
+"Rwanda",-2,30,
+"Saudi Arabia",25,45,
+"Solomon Islands",-8,159,
+"Seychelles",-4.58,55.67,
+"Sudan",15,30,
+"Sweden",62,15,
+"Singapore",1.37,103.8,
+"Slovenia",46.25,15.17,
+"Slovakia",48.67,19.5,
+"Sierra Leone",8.5,-11.5,
+"San Marino",43.93,12.42,
+"Senegal",14,-14,
+"Somalia",6,48,
+"Suriname",4,-56,
+"Sao Tome & Principe",1,7,
+"El Salvador",13.83,-88.92,
+"Syria",35,38,
+"Swaziland",-26.5,31.5,
+"Chad",15,19,
+"Togo",8,1.17,
+"Thailand",15,100,
+"Tajikistan",39,71,
+"E. Timor",-8.83,125.75,
+"Turkmenistan",40,60,
+"Tunisia",34,9,
+"Tonga",-20,-175,
+"Turkey",39,35,
+"Trinidad & Tobago",11,-61,
+"Tuvalu",-8,178,
+"Taiwan",24,121,
+"Tanzania",-6,35,
+"Ukraine",49,32,
+"Uganda",2,33,
+"United States",39.76,-98.5,
+"Uruguay",-33,-56,
+"Uzbekistan",41,64,
+"Vatican City",41.9,12.45,
+"Saint Vincent & the Grenadines",13.08,-61.2,
+"Venezuela",8,-66,
+"Vietnam",16.17,107.83,
+"Vanuatu",-16,167,
+"Samoa",-13.58,-172.33,
+"Yemen",15.5,47.5,
+"South Africa",-30,26,
+"Zambia",-15,30,
+"Zimbabwe",-19,29,
+"Herat",34.46,62.21,"Afghanistan"
+"Kabul",34.53,69.14,"Afghanistan"
+"Qandahar",31.6,65.5,"Afghanistan"
+"Tirane",41.33,19.83,"Albania"
+"Algiers",36.6,2.99,"Algeria"
+"In Salah",27.2,2.53,"Algeria"
+"Oran",35.75,-0.52,"Algeria"
+"Tamanrasset",22.83,5.55,"Algeria"
+"Tindouf",27.7,-8.16,"Algeria"
+"Benguela",-12.72,13.46,"Angola"
+"Huambo",-12.73,15.78,"Angola"
+"Luanda",-9,13.46,"Angola"
+"Bahia Blanca",-38.7253,-62.2741,"Argentina"
+"Buenos Aires",-36.6835,-60.5660,"Argentina"
+"Comodoro Rivadavia",-45.8300,-67.5000,"Argentina"
+"Cordoba",-32.1412,-63.7996,"Argentina"
+"Mendoza",-32.8970,-68.8300,"Argentina"
+"Resistencia",-27.4570,-58.9870,"Argentina"
+"Rio Gallegos",-51.6250,-69.2290,"Argentina"
+"Rosario",-32.9377,-60.6639,"Argentina"
+"Santa Fe",-30.7035,-60.9507,"Argentina"
+"Yerevan",40.21,44.53,"Armenia"
+"Adelaide",-34.92,138.87,"Australia"
+"Alice Springs",-23.63,133.93,"Australia"
+"Birdum",-15.75,133.22,"Australia"
+"Brisbane",-27.45,153.03,"Australia"
+"Cairns",-16.85,145.71,"Australia"
+"Canberra",-35.35,149.04,"Australia"
+"Darwin",-12.7,130.99,"Australia"
+"Fremantle",-32.04,115.93,"Australia"
+"Hobart",-43,147.5,"Australia"
+"Melbourne",-37.85,145.08,"Australia"
+"Newcastle",-33,151.91,"Australia"
+"Perth",-31.98,115.92,"Australia"
+"Rockhampton",-23.43,150.48,"Australia"
+"Sydney",-33.89,151.03,"Australia"
+"Townsville",-19.3,146.83,"Australia"
+"Graz",47.06,15.43,"Austria"
+"Innsbruck",47.27,11.35,"Austria"
+"Linz",48.3,14.29,"Austria"
+"Salzburg",47.8,13.09,"Austria"
+"Vienna",48.2,16.32,"Austria"
+"Baku",40.32,49.82,"Azerbaijan"
+"Chittagong",22.48,91.83,"Bangladesh"
+"Dhaka",23.71,90.41,"Bangladesh"
+"Khulna",22.84,89.56,"Bangladesh"
+"Antwerpen",51.21,4.43,"Belgium"
+"Bruxelles",50.84,4.37,"Belgium"
+"Gent",51.05,3.74,"Belgium"
+"Liege",50.62,5.57,"Belgium"
+"Belmopan",17.1200,-88.8000,"Belize"
+"Porto Novo",6.6,2.63,"Benin"
+"Thimbu",27.44,89.67,"Bhutan"
+"La Paz",-16.4990,-68.1462,"Bolivia"
+"Santa Cruz de La Sierra",-17.7888,-63.1974,"Bolivia"
+"Sucre",-19.0420,-65.2560,"Bolivia"
+"Sarajevo",43.87,18.43,"Bosnia and Herzegovina"
+"Gaborone",-24.66,25.79,"Botswana"
+"Belem",-1.4390,-48.4980,"Brazil"
+"Belo Horizonte",-19.8520,-43.9090,"Brazil"
+"Boa Vista",2.8180,-60.6640,"Brazil"
+"Brasilia",-15.7921,-47.8977,"Brazil"
+"Cuiaba",-15.6150,-56.0930,"Brazil"
+"Curitiba",-25.4300,-49.2850,"Brazil"
+"Fortaleza",-3.7830,-38.5890,"Brazil"
+"Goiania",-16.7270,-49.2550,"Brazil"
+"Manaus",-3.1220,-60.0150,"Brazil"
+"Natal",-5.8060,-35.2110,"Brazil"
+"Porto Alegre",-30.0400,-51.2080,"Brazil"
+"Porto Velho",-8.7620,-63.9060,"Brazil"
+"Recife",-8.0850,-34.9150,"Brazil"
+"Rio de Janeiro",-22.7216,-43.4552,"Brazil"
+"Salvador",-12.9930,-38.4810,"Brazil"
+"Santarem",-2.4600,-54.6100,"Brazil"
+"Santos",-23.9547,-46.3095,"Brazil"
+"Sao Luis",-2.5150,-44.3010,"Brazil"
+"Sao Paulo",-23.5810,-46.6230,"Brazil"
+"Sofiya",42.71,23.33,"Bulgaria"
+"Ouagadouou",12.48,-1.67,"Burkina Faso"
+"Mandalay",21.98,96.08,"Burma"
+"Rangoon",16.87,96.12,"Burma"
+"Bujumbura",-3.27,29.53,"Burundi"
+"Minsk",53.9,27.58,"Belarus"
+"Phnom Penh",11.56,104.91,"Cambodia"
+"Douala",4.14,9.71,"Cameroon"
+"Yaounde",3.87,11.51,"Cameroon"
+"Calgary",51.03,-114.05,"Canada"
+"Churchill",58.71,-94.18,"Canada"
+"Edmonton",53.57,-113.27,"Canada"
+"Goose Bay",53.31,-60.55,"Canada"
+"Halifax",44.63,-63.58,"Canada"
+"Inuvik",68.27,-133.67,"Canada"
+"Montreal",45.54,-73.65,"Canada"
+"Moosonee",51.33,-80.73,"Canada"
+"Ottawa",45.37,-75.65,"Canada"
+"Prince Rupert",54.42,-130.05,"Canada"
+"Quebec",46.8,-71.24,"Canada"
+"Regina",50.41,-104.65,"Canada"
+"Saint John",45.34,-65.65,"Canada"
+"Saskatoon",52.11,-106.63,"Canada"
+"Schefferville",54.86,-67.01,"Canada"
+"Sept-Iles",50.28,-66.4,"Canada"
+"Toronto",43.72,-79.41,"Canada"
+"Vancouver",49.27,-122.96,"Canada"
+"Victoria",48.65,-123.57,"Canada"
+"Whitehorse",60.65,-135.01,"Canada"
+"Winnipeg",49.92,-97.12,"Canada"
+"Yellowknife",62.52,-114.06,"Canada"
+"Bangui",4.37,18.56,"Central African Republic"
+"N'Djamena",12.1,15.24,"Chad"
+"Antofagasta",-23.6410,-70.3990,"Chile"
+"Concepcion",-36.8260,-73.0550,"Chile"
+"Coquimbo",-29.9590,-71.3320,"Chile"
+"Iquique",-20.2210,-70.1490,"Chile"
+"Puerto Montt",-41.4750,-72.9520,"Chile"
+"Punte Arenas",-53.1662,-70.9347,"Chile"
+"Santiago",-33.4750,-70.6475,"Chile"
+"Valparaiso",-33.0210,-71.5550,"Chile"
+"Anshan",41.12,122.98,"China"
+"Baotou",40.65,109.98,"China"
+"Beijing",39.91,116.39,"China"
+"Changchung",43.88,125.31,"China"
+"Changsha",28.2,112.97,"China"
+"Chengdu",30.67,104.07,"China"
+"Chongqing",29.54,106.52,"China"
+"Dalian",39.03,121.6,"China"
+"Fushun",41.86,123.91,"China"
+"Fuzhou",26.07,119.3,"China"
+"Guangzhou",23.1,113.29,"China"
+"Guiyang",26.57,106.7,"China"
+"Hangzhou",30.25,120.17,"China"
+"Harbin",45.76,126.62,"China"
+"Jilin",43.85,126.57,"China"
+"Jinan",36.66,116.97,"China"
+"Kashi",39.48,76,"China"
+"Kunming",25.05,102.7,"China"
+"Lanzhou",36.11,103.6,"China"
+"Lhasa",29.65,91.13,"China"
+"Luoyang",34.67,112.36,"China"
+"Nanchang",28.67,115.89,"China"
+"Nanjing",32.05,118.77,"China"
+"Qingdao",36.15,120.43,"China"
+"Qiqihar",47.34,123.96,"China"
+"Shanghai",31.25,121.47,"China"
+"Shenyang",41.8,123.38,"China"
+"Shijiazhuang",38.08,114.56,"China"
+"Taiyuan",37.89,112.55,"China"
+"Tangshan",39.62,118.18,"China"
+"Tianjin",39.13,117.19,"China"
+"Urumqi",43.78,87.59,"China"
+"Wuhan",30.57,114.28,"China"
+"Xian",34.27,108.88,"China"
+"Zhengzhou",34.76,113.64,"China"
+"Zibo",36.79,118.06,"China"
+"Barranquilla",10.9840,-74.8060,"Colombia"
+"Bogota",4.6302,-74.0805,"Colombia"
+"Cali",3.4570,-76.5220,"Colombia"
+"Medellin",6.2410,-75.5920,"Colombia"
+"Brazzaville",-4.29,15.29,"Congo"
+"Pointe Noire",-4.64,12.06,"Congo"
+"San Jose",9.9305,-84.0786,"Costa Rica"
+"Zagreb",45.81,15.96,"Croatia"
+"Havana",23.0490,-82.4165,"Cuba"
+"Nicosia",35.17,33.39,"Cyprus"
+"Brno",49.2,16.62,"Czech Republic"
+"Prague",50.11,14.46,"Czech Republic"
+"Kobenhavn",55.72,12.55,"Denmark"
+"Odense",55.57,9.9,"Denmark"
+"Djibouti",11.5,43.1,"Djibouti"
+"Santo Domingo",18.4890,-69.8990,"Dominican Republic"
+"Guayaquil",-2.2031,-79.9079,"Ecuador"
+"Quito",-0.2295,-78.5243,"Ecuador"
+"Alexandria",31.07,29.98,"Egypt"
+"Aswan",24.08,32.95,"Egypt"
+"Cairo",30.08,31.25,"Egypt"
+"El-Giza",30.47,30.85,"Egypt"
+"Suez",29.96,32.56,"Egypt"
+"San Salvador",13.7014,-89.2002,"El Salvador"
+"Malabo",3.64,8.82,"Equatorial Guinea"
+"Asmara",15.33,38.97,"Eritrea"
+"Tallinn",59.28,24.75,"Estonia"
+"Adis Abeba",9.03,38.7,"Ethiopia"
+"Helsinki",60.2,24.98,"Finland"
+"Bordeaux",44.84,-0.6,"France"
+"Le Havre",49.32,0.22,"France"
+"Lille",50.63,3.06,"France"
+"Lyon",45.75,4.86,"France"
+"Marseille",43.3,5.38,"France"
+"Nantes",47.22,-1.56,"France"
+"Paris",48.88,2.43,"France"
+"Strasbourg",48.58,7.77,"France"
+"Toulouse",43.6,1.44,"France"
+"Libreville",-0.5,9.49,"Gabon"
+"Port Gentil",-0.82,9.15,"Gabon"
+"Banjul",13.45,-16.49,"Gambia"
+"T'Bilisi",41.72,44.78,"Georgia"
+"Berlin",52.52,13.33,"Germany"
+"Bonn",50.73,7.1,"Germany"
+"Bremen",53.08,8.86,"Germany"
+"Dortmund",51.51,7.47,"Germany"
+"Dresden",51.05,13.71,"Germany"
+"Duisburg",51.49,6.78,"Germany"
+"Essen",51.35,7.12,"Germany"
+"Frankfurt",50.13,8.67,"Germany"
+"Hamburg",53.57,10.03,"Germany"
+"Koln",50.94,6.93,"Germany"
+"Leipzig",51.35,12.4,"Germany"
+"Munchen",48.14,11.54,"Germany"
+"Accra",5.56,-0.2,"Ghana"
+"Athinai",38.12,23.65,"Greece"
+"Patrai",38.14,21.88,"Greece"
+"Thessaloniki",40.63,22.8,"Greece"
+"Guatemala",14.6180,-90.5249,"Guatemala"
+"Conakry",9.52,-12.8,"Guinea"
+"Bissau",11.91,-15.65,"Guinea-Bissau"
+"Georgetown",6.7700,-58.1700,"Guyana"
+"Port-au-Prince",18.5266,-72.3431,"Haiti"
+"Tegucigalpa",14.0990,-87.2030,"Honduras"
+"Budapest",47.51,19.09,"Hungary"
+"Reykjavik",64.31,-21.34,"Iceland"
+"Ahmadabad",23.04,72.57,"India"
+"Amritsar",31.63,74.87,"India"
+"Bangalore",12.97,77.59,"India"
+"Benares",25.28,82.96,"India"
+"Bombay",19.05,73.17,"India"
+"Calcutta",22.54,88.33,"India"
+"Cochin",9.99,76.52,"India"
+"Delhi",28.53,77.22,"India"
+"Hyderabad",17.39,78.49,"India"
+"Jaipur",26.91,75.8,"India"
+"Kanpur",26.46,80.32,"India"
+"Lucknow",26.85,80.92,"India"
+"Madras",13.06,80.25,"India"
+"Madurai",9.91,78.12,"India"
+"Mangalore",12.95,75.16,"India"
+"Nagpur",21.16,79.09,"India"
+"New Delhi",28.57,77.22,"India"
+"Patna",25.61,85.14,"India"
+"Pune",18.54,73.85,"India"
+"Vishakhapatnam",17.75,83.33,"India"
+"Ambon",-3.39,129.31,"Indonesia"
+"Balikpapan",-1.21,116.86,"Indonesia"
+"Bandung",-6.91,107.61,"Indonesia"
+"Jakarta",-6.29,106.76,"Indonesia"
+"Manado",1.42,124.88,"Indonesia"
+"Medan",3.59,98.68,"Indonesia"
+"Padang",-0.92,100.48,"Indonesia"
+"Palembang",-3,104.83,"Indonesia"
+"Semarang",-7.03,110.44,"Indonesia"
+"Surabaja",-7.4,112.68,"Indonesia"
+"Vjuag Padang",-5.19,119.72,"Indonesia"
+"Esfahan",32.65,51.68,"Iran"
+"Mashhad",36.29,59.6,"Iran"
+"Shiraz",29.63,52.57,"Iran"
+"Tabriz",38.08,46.29,"Iran"
+"Tehran",35.77,51.45,"Iran"
+"Yazd",31.97,54.45,"Iran"
+"Zahedan",29.6,60.83,"Iran"
+"Al Basra",30.5,47.76,"Iraq"
+"Baghdad",33.33,44.4,"Iraq"
+"Mosul",36.34,43.14,"Iraq"
+"Dublin",53.34,-6.26,"Ireland"
+"Jerusalem",31.77,35.23,"Israel"
+"Tel Aviv",31.92,34.86,"Israel"
+"Cagliari",39.23,9.11,"Italy"
+"Firenze",43.78,11.21,"Italy"
+"Genova",44.46,8.92,"Italy"
+"Milano",45.47,9.19,"Italy"
+"Napoli",40.83,14.27,"Italy"
+"Palermo",38.13,13.4,"Italy"
+"Rome",41.88,12.52,"Italy"
+"Torino",45.07,7.67,"Italy"
+"Trieste",45.7,13.93,"Italy"
+"Venezia",45.42,12.37,"Italy"
+"Abidjan",5.32,-4.02,"Cote d'Ivoire"
+"Kingston",17.9712,-76.7668,"Jamaica"
+"Aomori",40.75,140.67,"Japan"
+"Fukuoka",33.31,130.32,"Japan"
+"Hiroshima",34.38,132.44,"Japan"
+"Kawasaki",35.5,139.73,"Japan"
+"Kita Kyushu",33.68,130.8,"Japan"
+"Kobe",34.66,135.18,"Japan"
+"Kyoto",35.01,135.75,"Japan"
+"Nagasaki",32.88,129.86,"Japan"
+"Nagoya",35.15,136.92,"Japan"
+"Osaka",34.64,135.52,"Japan"
+"Sapporo",43.06,141.35,"Japan"
+"Tokyo",35.68,139.81,"Japan"
+"Yokohama",35.44,139.62,"Japan"
+"Amman",31.95,35.93,"Jordan"
+"Almaty",43.26,76.91,"Kazakhstan"
+"Karaganda",49.88,73.2,"Kazakhstan"
+"Mombasa",-4.02,39.67,"Kenya"
+"Nairobi",-1.17,36.83,"Kenya"
+"Pyongyang",39.03,125.76,"N. Korea"
+"Inch`on",37.59,126.77,"S. Korea"
+"Pusan",35.16,129.05,"S. Korea"
+"Seoul",37.54,126.94,"S. Korea"
+"Taegu",35.86,128.59,"S. Korea"
+"Al Kuwayt",29.19,48,"Kuwait"
+"Frunze",42.88,74.77,"Kyrgyzstan"
+"Vientiane",18,102.68,"Laos"
+"Riga",56.88,24.05,"Latvia"
+"Beirut",33.78,35.66,"Lebanon"
+"Tripoli",34.34,36.01,"Lebanon"
+"Maseru",-29.26,27.89,"Lesotho"
+"Monrovia",6.52,-10.77,"Liberia"
+"Banghazi",32.04,20.31,"Libya"
+"Ghadamis",30.14,9.82,"Libya"
+"Murzuq",25.91,13.91,"Libya"
+"Tripoli",32.75,13.21,"Libya"
+"Vilnius",54.69,25.28,"Lithuania"
+"Luxembourg",49.74,6.27,"Luxembourg"
+"Skopje",42,21.53,"Macedonia"
+"Antananarivo",-18.87,47.5,"Madagascar"
+"Toamasina",-18.23,49.41,"Madagascar"
+"Toliara",-23.29,44.02,"Madagascar"
+"Lilongwe",-13.92,33.82,"Malawi"
+"George Town",5.35,100.55,"Malaysia"
+"Kuala Lumpur",3.15,101.71,"Malaysia"
+"Kuching",1.5,110.43,"Malaysia"
+"Bamako",12.65,-7.99,"Mali"
+"Tombouctoo",16.76,-3.01,"Mali"
+"Nouadnibou",20.9,-16.83,"Mauritania"
+"Nouakchott",18.03,-15.78,"Mauritania"
+"Acapulco",16.9744,-99.9315,"Mexico"
+"Chihuaha",28.6310,-106.0740,"Mexico"
+"Guadalajara",20.6740,-103.3440,"Mexico"
+"Mazatlan",23.3615,-106.2700,"Mexico"
+"Merida",20.9830,-89.6280,"Mexico"
+"Mexico City",19.4270,-99.1276,"Mexico"
+"Monterrey",25.6770,-100.3170,"Mexico"
+"Oaxaca",17.0620,-96.7140,"Mexico"
+"Puebla de Zaragoza",19.0486,-98.1929,"Mexico"
+"Tampico",22.2432,-97.8426,"Mexico"
+"Veracruz",19.1850,-96.1230,"Mexico"
+"Kishinev",47,28.83,"Moldova"
+"Ulaanbaatar",47.93,106.91,"Mongolia"
+"Uliastay",47.81,97,"Mongolia"
+"Podgorica",42.5,19.4,"Montenegro"
+"Casablanca",33.54,-7.53,"Morocco"
+"Fes",34.04,-5,"Morocco"
+"Marrakech",31.15,-8,"Morocco"
+"Rabat",33.92,-6.75,"Morocco"
+"Beira",-19.77,35.02,"Mozambique"
+"Maputo",-25.96,32.57,"Mozambique"
+"Mocambique",-15.05,40.7,"Mozambique"
+"Windhoek",-22.57,17.1,"Namibia"
+"Kathmandu",27.71,85.31,"Nepal"
+"Amsterdam",52.37,4.89,"Netherlands"
+"Rotterdam",51.93,4.49,"Netherlands"
+"The Hague",51.9,4.3,"Netherlands"
+"Auckland",-36.89,174.8,"New Zealand"
+"Christchurch",-43.55,172.68,"New Zealand"
+"Dunedin",-45.86,170.5,"New Zealand"
+"Invercargill",-46.41,168.45,"New Zealand"
+"Nelson",-41.3,173.27,"New Zealand"
+"Wellington",-41.21,175.14,"New Zealand"
+"Managua",12.1510,-86.2730,"Nicaragua"
+"Agadez",16.96,7.98,"Niger"
+"Maiduguri",11.88,13.26,"Niger"
+"Niamey",13.6,2.08,"Niger"
+"Enugu",6.45,7.49,"Nigeria"
+"Ibadan",7.38,3.9,"Nigeria"
+"Kano",11.92,8.52,"Nigeria"
+"Lagos",6.45,3.3,"Nigeria"
+"Bergen",60.35,5.49,"Norway"
+"Hammerfest",70.39,23.91,"Norway"
+"Longyearbyen",78.2,15.66,"Norway"
+"Narvik",68.35,17.3,"Norway"
+"Oslo",59.93,10.72,"Norway"
+"Masqat",23.52,58.63,"Oman"
+"Faisalabad",31.41,73.08,"Pakistan"
+"Hyderabad",25.38,68.37,"Pakistan"
+"Islamabad",33.72,73.06,"Pakistan"
+"Karachi",24.85,67.03,"Pakistan"
+"Lahore",31.55,74.34,"Pakistan"
+"Rawalpindi",33.61,73.04,"Pakistan"
+"Panama",9.0029,-79.5171,"Panama"
+"Port Moresby",-9.55,147.41,"Papua New Guinea"
+"Asuncion",-25.3050,-57.6220,"Paraguay"
+"Arequipa",-16.3980,-71.5230,"Peru"
+"Callao",-12.0570,-77.1440,"Peru"
+"Chiclayo",-6.7630,-79.8370,"Peru"
+"Chimbote",-8.9301,-78.4531,"Peru"
+"Cuzco",-13.5260,-71.9870,"Peru"
+"Iquitos",-3.7530,-73.1910,"Peru"
+"Lima",-12.0820,-77.0450,"Peru"
+"Trujillo",-8.1120,-79.0300,"Peru"
+"Davao",7.08,125.61,"Philippines"
+"Manila",14.55,121.17,"Philippines"
+"Quezon City",14.65,121.03,"Philippines"
+"Gdansk",54.37,18.62,"Poland"
+"Krakow",50.06,19.95,"Poland"
+"Lodz",51.78,19.48,"Poland"
+"Warsaw",52.24,21.01,"Poland"
+"Wroclaw",51.12,17.04,"Poland"
+"Lisboa",38.73,-9.13,"Portugal"
+"Porto",41.15,-8.49,"Portugal"
+"San Juan",18.4,-66.08,"United States"
+"Doha",25.2,51.5,"Qatar"
+"Bucuresti",44.43,26.12,"Romania"
+"Anadyr",64.4,177.13,"Russia"
+"Arkhangelsk",64.52,40.65,"Russia"
+"Astrakhan",46.25,48,"Russia"
+"Chatanga",50.33,110.75,"Russia"
+"Chelyabinsk",55.15,61.39,"Russia"
+"Chita",52.05,113.58,"Russia"
+"Druzba",55.88,37.75,"Russia"
+"Igarka",67.35,86.55,"Russia"
+"Irkutsk",52.32,104.25,"Russia"
+"Kazan",55.73,49.15,"Russia"
+"Khabarovsk",48.53,135.07,"Russia"
+"Kotlas",61.15,47,"Russia"
+"Magadan",59.57,150.78,"Russia"
+"Moskva",55.75,37.7,"Russia"
+"Murmansk",68.96,33.09,"Russia"
+"Nikolayevsk",50.08,45.53,"Russia"
+"Nizhniy Novgorod",56.29,43.94,"Russia"
+"Noril`sk",69.33,88.1,"Russia"
+"Novokuznetsk",53.7,87.17,"Russia"
+"Novosibirsk",55.03,82.94,"Russia"
+"Okhotsk",59.33,143.25,"Russia"
+"Omsk",55.06,73.25,"Russia"
+"Perm",58,56.23,"Russia"
+"Petropavloski-Kamchatskiy",53.2,158.72,"Russia"
+"Rostov-na-Donu",47.23,39.69,"Russia"
+"Saint Petersburg",59.95,30.45,"Russia"
+"Salekhard",66.57,66.58,"Russia"
+"Samara",53.14,50.1,"Russia"
+"Tiksi",71.7,128.75,"Russia"
+"Ufa",54.82,56.1,"Russia"
+"Verkhoyvensk",67.58,133.41,"Russia"
+"Vladivostok",43.13,131.96,"Russia"
+"Volgograd",48.71,44.48,"Russia"
+"Vorkuta",67.8,64.33,"Russia"
+"Yakutsk",62.01,129.83,"Russia"
+"Yekaterinburg",56.85,60.61,"Russia"
+"Yuzhno-Sakhalinsk",46.96,142.75,"Russia"
+"Kigali",-2.12,29.99,"Rwanda"
+"Al Madinah",24.43,39.7,"Saudi Arabia"
+"Ar Riyad",24.65,46.77,"Saudi Arabia"
+"Jiddah",21.62,39.37,"Saudi Arabia"
+"Mecca",21.43,39.81,"Saudi Arabia"
+"Dakar",14.63,-16.85,"Senegal"
+"Saint Louis",15.95,-16.3,"Senegal"
+"Beograd",44.8,20.41,"Serbia"
+"Freetown",8.38,-12.91,"Sierra Leone"
+"Singapore",1.23,104.18,"Singapore"
+"Bratislava",48.27,17.27,"Slovakia"
+"Ljubljana",46.07,14.64,"Slovenia"
+"Muqdisho",2.04,45.34,"Somalia"
+"Bloemfontein",-29.15,26.26,"South Africa"
+"Cape Town",-33.8,18.69,"South Africa"
+"Durban",-29.84,30.94,"South Africa"
+"East London",-33.03,27.9,"South Africa"
+"Johannesburg",-26.18,28,"South Africa"
+"Kimberley",-28.66,24.83,"South Africa"
+"Port Elizabeth",-33.88,25.48,"South Africa"
+"Pretoria",-25.73,28.22,"South Africa"
+"Walvis Bay",-23.1,14.62,"South Africa"
+"Barcelona",41.53,2.17,"Spain"
+"Bilbao",43.28,-2.97,"Spain"
+"Madrid",40.44,-3.69,"Spain"
+"Sevilla",37.37,-5.97,"Spain"
+"Valencia",39.47,-0.37,"Spain"
+"Zaragoza",41.65,-0.88,"Spain"
+"Colombo",7.02,80.09,"Sri Lanka"
+"Bur Sudan",19.62,37.22,"Sudan"
+"El Obeid",13.18,30.16,"Sudan"
+"Khartoum",15.55,32.53,"Sudan"
+"Omdurman",15.62,32.48,"Sudan"
+"Wadi Halfa",21.76,31.28,"Sudan"
+"Paramaribo",5.8260,-55.1700,"Suriname"
+"Mbabne",-26.3,31.19,"Swaziland"
+"Goteborg",57.75,12,"Sweden"
+"Stockholm",59.24,18.08,"Sweden"
+"Bern",46.95,7.45,"Switzerland"
+"Aleppo",36.22,37.16,"Syria"
+"Damascus",33.52,36.31,"Syria"
+"Homs",34.73,36.72,"Syria"
+"Chingmei",24.98,121.53,"Taiwan"
+"Kao-Hsiung",22.67,120.34,"Taiwan"
+"T`ai-chung",24.14,120.67,"Taiwan"
+"T`ai-nan",23.17,120.23,"Taiwan"
+"Taipei",25.04,121.51,"Taiwan"
+"Dushanfe",38.63,68.9,"Tajikistan"
+"Dar es Salaam",-6.82,39.25,"Tanzania"
+"Dodoma",-6.18,35.75,"Tanzania"
+"Kigoma",-4.95,30,"Tanzania"
+"Mtwara",-10.26,40.18,"Tanzania"
+"Bangkok",13.75,100.55,"Thailand"
+"Lome",6.28,1.35,"Togo"
+"Port of Spain",10.6397,-61.4901,"Trinidad & Tobago"
+"Sfax",34.75,10.76,"Tunisia"
+"Tunis",36.82,10.17,"Tunisia"
+"Adana",37,35.32,"Turkey"
+"Ankara",39.93,32.85,"Turkey"
+"Erzurum",39.9,41.29,"Turkey"
+"Istanbul",41.07,29.01,"Turkey"
+"Izmir",38.44,27.21,"Turkey"
+"Samsun",41.32,36.37,"Turkey"
+"Ashkhabad",37.95,58.39,"Turkmenistan"
+"Kampala",0.32,32.58,"Uganda"
+"Belfast",54.59,-5.91,"United Kingdom"
+"Birmingham",52.49,-1.86,"United Kingdom"
+"Cardiff",51.5,-3.15,"United Kingdom"
+"Edinburgh",55.88,-3.3,"United Kingdom"
+"Glasgow",55.86,-4.27,"United Kingdom"
+"Hong Kong",22.43,114.15,"United Kingdom"
+"Kowloon",22.38,114.23,"United Kingdom"
+"Leeds",53.81,-1.5,"United Kingdom"
+"Liverpool",53.42,-2.77,"United Kingdom"
+"London",51.49,-0.18,"United Kingdom"
+"Manchester",53.48,-2.26,"United Kingdom"
+"Sheffield",53.37,-1.46,"United Kingdom"
+"Dnepropetrovsk",48.42,35.14,"Ukraine"
+"Donets'k",48.04,37.74,"Ukraine"
+"Kharkov",49.99,36.21,"Ukraine"
+"Kiev",50.45,30.5,"Ukraine"
+"Lvov",49.84,24.03,"Ukraine"
+"Odessa",46.57,30.68,"Ukraine"
+"Abu Zaby",24.24,54.62,"United Arab Emirates"
+"Montevideo",-34.9200,-56.1700,"Uruguay"
+"Salto",-31.3960,-57.9630,"Uruguay"
+"Anchorage",61.19,-149.17,"United States"
+"Atlanta",33.8,-84.35,"United States"
+"Baltimore",39.32,-76.62,"United States"
+"Boston",42.38,-71.1,"United States"
+"Buffalo",42.9,-78.85,"United States"
+"Charlotte",35.21,-80.84,"United States"
+"Chicago",41.83,-87.64,"United States"
+"Cincinnati",39.15,-84.48,"United States"
+"Cleveland",41.39,-81.73,"United States"
+"Columbus",40.04,-82.99,"United States"
+"Dallas",32.76,-96.66,"United States"
+"Denver",39.75,-105.07,"United States"
+"Detroit",42.39,-83.08,"United States"
+"El Paso",31.78,-106.45,"United States"
+"Fairbanks",64.84,-147.65,"United States"
+"Hilo",19.71,-155.07,"United States"
+"Honolulu",21.32,-157.81,"United States"
+"Houston",29.77,-95.41,"United States"
+"Jacksonville",30.33,-81.66,"United States"
+"Juneau",58.39,-134.13,"United States"
+"Kansas City",38.99,-94.63,"United States"
+"Los Angeles",34,-118.25,"United States"
+"Memphis",35.11,-90,"United States"
+"Miami",25.83,-80.27,"United States"
+"Milwaukee",43.07,-87.99,"United States"
+"Minneapolis",44.92,-93.31,"United States"
+"New Orleans",29.96,-90.1,"United States"
+"New York",40.75,-74.1,"United States"
+"Newark",40.72,-74.2,"United States"
+"Nome",64.59,-165.27,"United States"
+"Norfolk",36.88,-76.27,"United States"
+"Oklahoma City",35.49,-97.53,"United States"
+"Olympia",46.92,-122.88,"United States"
+"Philadelphia",39.93,-75.22,"United States"
+"Phoenix",33.51,-112.11,"United States"
+"Pittsburgh",40.5,-80,"United States"
+"Portland",45.44,-122.64,"United States"
+"Rochester",43.21,-77.64,"United States"
+"Sacramento",38.57,-121.42,"United States"
+"Salt Lake City",40.69,-111.89,"United States"
+"San Antonio",29.43,-98.52,"United States"
+"San Diego",32.76,-117.13,"United States"
+"San Francisco",37.73,-122.31,"United States"
+"San Jose",37.31,-121.85,"United States"
+"Seattle",47.59,-122.32,"United States"
+"Seward",60.12,-149.45,"United States"
+"St. Louis",38.64,-90.34,"United States"
+"Tampa",28,-82.59,"United States"
+"Washington D.C.",38.89,-76.95,"United States"
+"Samarkand",39.66,66.95,"Uzbekistan"
+"Toshkent",41.25,69.35,"Uzbekistan"
+"Barquisimeto",10.0660,-69.3390,"Venezuela"
+"Caracas",10.4960,-66.8983,"Venezuela"
+"Maracaibo",10.6450,-71.6370,"Venezuela"
+"San Cristobal",7.7650,-72.2280,"Venezuela"
+"Valencia",10.1780,-68.0030,"Venezuela"
+"Haiphong",20.86,106.68,"Vietnam"
+"Hanoi",21.03,105.82,"Vietnam"
+"Ho Chi Minh City",10.76,106.66,"Vietnam"
+"Hue",16.46,107.7,"Vietnam"
+"Aden",12.86,45.18,"Yemen"
+"Sanaa",15.36,44.21,"Yemen"
+"Kahemba",-7.33,19,"Democratic Republic of the Congo"
+"Kananga",-5.89,22.4,"Democratic Republic of the Congo"
+"Kinshasa",-4.39,15.47,"Democratic Republic of the Congo"
+"Kisangani",0.52,25.2,"Democratic Republic of the Congo"
+"Lumumbashi",-11.68,27.55,"Democratic Republic of the Congo"
+"Matadi",-5.81,13.45,"Democratic Republic of the Congo"
+"Mbandaka",0.05,18.46,"Democratic Republic of the Congo"
+"Livingstone",-17.83,25.88,"Zambia"
+"Lusaka",-15.43,28.17,"Zambia"
+"Bulawayo",-20.2,28.71,"Zimbabwe"
+"Harare",-17.83,31.02,"Zimbabwe"

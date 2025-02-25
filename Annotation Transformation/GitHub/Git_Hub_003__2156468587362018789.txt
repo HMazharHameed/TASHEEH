@@ -1,0 +1,4 @@
+488	"Inchon",37.59,126.77,"S. Korea"
+612	"Norilsk",69.33,88.1,"Russia"
+676	"Taichung",24.14,120.67,"Taiwan"
+677	"Tainan",23.17,120.23,"Taiwan"

@@ -1,0 +1,21 @@
+13	"""Prudential Financial, Inc.""",Maricopa,Scottsdale,2/14/2018,12
+15	"""R.E. Darling Co., Inc.""",Pima,Tucson,2/19/2018,14
+18	Retronix Semiconductor,Maricopa,Chandler,Pending,17
+33	"""The Geo Group, Inc.""",Pinal,Florence,8/9/2017,32
+36	"""Transdev Services, Inc.""",Maricopa,Phoenix,12/13/2018,35
+41	University of Arizona,Pima,Tucson,Date Unknown,40
+45	Veterans Business Bancorp,Maricopa,Scottsdale,Pending,44
+65	DynCorp International,Pima,Tucson,Date Unknown,63
+73	"""Gannett Co., Inc.""",Maricopa,Phoenix,12/13/2016,71
+79	"""HDS, Inc.""",Pima,Tucson,10/24/2018,76
+87	"""Interstate Bank Developers, Inc.""",Maricopa,Scottsdale,Pending,84
+101	Crisis Response Network,Maricopa,Tempe,Date Unknown,98
+108	Aerotek,Pima,Tucson,Pending,105
+111	"""AllSource Global Management, LLC""",Cochise,Sierra Vista,6/28/2018,108
+116	Cetechs,Maricopa,Mesa,Date Unknown,113
+117	Connexta,Maricopa,Phoenix,Date Unknown,114
+119	Duncan Family Farms,Maricopa,Goodyear,Date Unknown,116
+120	Loews Ventana Canyon Resort,Pima,Tucson,Date Unknown,117
+121	The Centers for Habilitation (TCH),Maricopa,Tempe,Date Unknown,118
+132	Arizona Department of Education,Maricopa,Phoenix,Pending,129
+147	Bishop Fox,Maricopa,Tempe,Date Unknown,144

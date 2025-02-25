@@ -1,0 +1,4 @@
+12	E06000010,"""Kingston upon Hull, City of""",E22000134,"""Kingston upon Hull, City of""",E23000012,Humberside,11
+20	E06000019,"""Herefordshire, County of""",E22000326,"""Herefordshire, County of""",E23000016,West Mercia,19
+24	E06000023,"""Bristol, City of""",E22000002,"""Bristol, City of""",E23000036,Avon and Somerset,23
+180	E09000001,City of London,E22000180,City of London,E23000034,"""London, City of""",179

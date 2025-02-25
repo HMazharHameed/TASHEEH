@@ -1,0 +1,936 @@
+5	5662614,6/29/2018 0:00,6/28/2018 16:13,Phoenix,Arizona,Dropped call or no message,Y
+10	,6/29/2018 0:02,6/28/2018 20:45,,Washington,No Subject Provided,Y
+11	7591128,6/29/2018 0:02,6/27/2018 14:44,Phoenix,Arizona,Dropped call or no message,Y
+18	4022608615,6/29/2018 0:05,6/28/2018 19:12,Offutt AFB,Nebraska,"""Reducing your debt (credit cards, mortgage, student loans)""",N
+28	7632500286,6/29/2018 0:07,6/28/2018 9:21,,Arizona,"""Calls pretending to be government, businesses, or family and friends""",Y
+35	6108807054,6/29/2018 0:10,6/25/2018 12:19,,California,"""Calls pretending to be government, businesses, or family and friends""",Y
+43	2019421980,6/29/2018 0:13,6/27/2018 10:24,Fayetteville,North Carolina,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+44	4075773875,6/29/2018 0:13,6/1/2018 13:57,,Illinois,"""Calls pretending to be government, businesses, or family and friends""",Y
+45	7814846691,6/29/2018 0:14,6/27/2018 11:27,Myrtle Beach,Massachusetts,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+50	2299992775,6/29/2018 0:17,6/6/2018 17:01,,Illinois,"""Calls pretending to be government, businesses, or family and friends""",N
+53	6314406088,6/29/2018 0:19,6/26/2018 11:33,,Washington,"""Calls pretending to be government, businesses, or family and friends""",Y
+55	4082167236,6/29/2018 0:20,6/28/2018 7:59,San Jose,California,"""Calls pretending to be government, businesses, or family and friends""",Y
+61	8884495006,6/29/2018 0:22,6/7/2018 13:21,,Illinois,"""Calls pretending to be government, businesses, or family and friends""",Y
+82	8774696720,6/29/2018 0:28,6/28/2018 14:00,,California,"""Calls pretending to be government, businesses, or family and friends""",Y
+87	,6/29/2018 0:29,6/27/2018 14:42,,New York,No Subject Provided,Y
+91	6316249735,6/29/2018 0:30,6/19/2018 10:38,Tucson,Arizona,"""Calls pretending to be government, businesses, or family and friends""",Y
+99	8444424544,6/29/2018 0:35,6/27/2018 9:27,,California,"""Energy, solar,  & utilities""",Y
+103	4804907814,6/29/2018 0:37,6/28/2018 6:07,chandler,Arizona,"""Calls pretending to be government, businesses, or family and friends""",Y
+104	,6/29/2018 0:37,6/28/2018 18:48,,Alabama,No Subject Provided,
+106	,6/29/2018 0:37,6/28/2018 9:01,,New York,Other,Y
+114	4086852071,6/29/2018 0:40,6/28/2018 7:57,San Jose,California,"""Calls pretending to be government, businesses, or family and friends""",Y
+115	8016909221,6/29/2018 0:40,6/28/2018 15:30,Ogden,Utah,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+118	7738443547,6/29/2018 0:41,6/28/2018 3:52,Chicago,Illinois,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+119	3603696305,6/29/2018 0:41,5/30/2018 10:10,anahuac,Texas,"""Calls pretending to be government, businesses, or family and friends""",Y
+144	9492847934,6/29/2018 0:54,6/28/2018 7:46,Henderson,Nevada,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+154	7737617002,6/29/2018 0:56,6/27/2018 16:41,Des Plaines,Illinois,"""Energy, solar,  & utilities""",Y
+155	6281136501,6/29/2018 0:56,6/28/2018 21:01,San Jose,California,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+160	4086175290,6/29/2018 0:58,6/28/2018 21:02,San Jose,California,"""Lotteries, prizes  & sweepstakes""",Y
+164	6463554758,6/29/2018 1:01,6/28/2018 16:45,Tenafly,New Jersey,"""Calls pretending to be government, businesses, or family and friends""",Y
+171	8882008067,6/29/2018 1:04,6/28/2018 8:57,Sierra Vista,Arizona,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+178	,6/29/2018 1:13,6/19/2018 18:48,,California,Dropped call or no message,N
+189	2025821475,6/29/2018 1:22,6/26/2018 10:12,,California,No Subject Provided,
+191	4692178808,6/29/2018 1:24,6/28/2018 21:00,,Texas,"""Calls pretending to be government, businesses, or family and friends""",Y
+195	,6/29/2018 1:27,6/29/2018 8:05,,North Carolina,No Subject Provided,Y
+198	2059247758,6/29/2018 1:30,6/28/2018 8:18,Longmont,Colorado,"""Reducing your debt (credit cards, mortgage, student loans)""",N
+201	2038296087,6/29/2018 1:32,6/28/2018 19:01,,Connecticut,No Subject Provided,
+203	7025671357,6/29/2018 1:34,6/28/2018 12:54,Longmont,Colorado,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+204	2038295483,6/29/2018 1:35,6/28/2018 12:49,,Connecticut,No Subject Provided,
+206	8889440549,6/29/2018 1:36,6/28/2018 23:48,Jacksonville,Florida,"""Reducing your debt (credit cards, mortgage, student loans)""",N
+207	4023045368,6/29/2018 1:36,6/26/2018 13:01,CHEYENNE,Wyoming,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+208	,6/29/2018 1:36,6/28/2018 13:36,,Alabama,No Subject Provided,
+218	,6/29/2018 1:44,6/28/2018 9:06,,Wisconsin,No Subject Provided,N
+229	6453553486,6/29/2018 1:54,6/27/2018 15:51,,Illinois,"""Calls pretending to be government, businesses, or family and friends""",Y
+231	7146579586,6/29/2018 1:55,6/23/2018 15:42,,California,"""Calls pretending to be government, businesses, or family and friends""",Y
+235	6269915787,6/29/2018 1:56,6/25/2018 11:34,,California,"""Calls pretending to be government, businesses, or family and friends""",Y
+236	9192582521,6/29/2018 1:57,6/27/2018 1:00,Perris,California,"""Calls pretending to be government, businesses, or family and friends""",Y
+237	2138076888,6/29/2018 1:57,6/26/2018 9:09,,California,"""Calls pretending to be government, businesses, or family and friends""",Y
+239	6313286174,6/29/2018 1:58,6/28/2018 11:18,,Illinois,"""Calls pretending to be government, businesses, or family and friends""",Y
+240	2024951855,6/29/2018 1:58,6/26/2018 11:24,,California,"""Calls pretending to be government, businesses, or family and friends""",Y
+241	8.62159E+11,6/29/2018 1:59,6/27/2018 8:24,,California,"""Calls pretending to be government, businesses, or family and friends""",Y
+243	2139585299,6/29/2018 2:00,6/28/2018 8:58,,California,"""Calls pretending to be government, businesses, or family and friends""",Y
+253	8002958668,6/29/2018 2:07,6/28/2018 9:50,,California,"""Calls pretending to be government, businesses, or family and friends""",Y
+254	2138770751,6/29/2018 2:08,6/28/2018 13:05,,California,"""Calls pretending to be government, businesses, or family and friends""",Y
+268	,6/29/2018 2:18,6/27/2018 11:30,,Alabama,"""Reducing your debt (credit cards, mortgage, student loans)""",N
+272	3232847354,6/29/2018 2:20,6/28/2018 16:33,,California,No Subject Provided,
+275	6380301,6/29/2018 2:20,6/28/2018 15:34,Reseda,California,Dropped call or no message,Y
+282	4913275,6/29/2018 2:23,6/27/2018 18:27,Reseda,California,Dropped call or no message,Y
+283	2373582,6/29/2018 2:23,6/27/2018 15:11,Reseda,California,Dropped call or no message,Y
+284	7072804032,6/29/2018 2:24,6/28/2018 8:00,Santa Rosa,California,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+285	7143524461,6/29/2018 2:24,6/28/2018 15:40,,California,No Subject Provided,
+291	3603496055,6/29/2018 2:28,6/28/2018 13:56,,Washington,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+295	3603496055,6/29/2018 2:30,6/28/2018 13:56,,Washington,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+296	6628123537,6/29/2018 2:30,6/28/2018 14:31,,California,No Subject Provided,
+297	8184086714,6/29/2018 2:32,6/28/2018 16:00,,California,"""Energy, solar,  & utilities""",Y
+299	5102545119,6/29/2018 2:38,6/21/2018 16:39,Cherry Hill,New Jersey,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+300	9185545119,6/29/2018 2:41,6/15/2018 15:33,Cherry Hill,New Jersey,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+301	5176865119,6/29/2018 2:44,6/13/2018 16:31,Cherry Hill,New Jersey,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+302	2138415119,6/29/2018 2:47,6/15/2018 15:32,Cherry Hill,New Jersey,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+305	,6/29/2018 2:56,6/28/2018 0:00,,District of Columbia,No Subject Provided,Y
+306	,6/29/2018 3:00,6/28/2018 23:15,Lodi,California,Other,N
+308	7085848034,6/29/2018 3:15,6/28/2018 14:09,,Hawaii,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+309	6142584749,6/29/2018 3:16,6/28/2018 0:00,Columbus,Ohio,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+314	7323387542,6/29/2018 3:43,6/28/2018 12:58,,Georgia,No Subject Provided,
+318	3234578945,6/29/2018 4:02,1/1/2016 7:02,upland,California,"""Reducing your debt (credit cards, mortgage, student loans)""",N
+326	8594204423,6/29/2018 4:37,6/28/2018 16:43,Lexington,Kentucky,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+336	7143433070,6/29/2018 4:58,6/27/2018 13:51,SANTA CLARA,California,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+345	9199461633,6/29/2018 5:10,10/10/2017 20:42,Cary,North Carolina,"""Calls pretending to be government, businesses, or family and friends""",Y
+360	8448846694,6/29/2018 5:46,6/25/2018 16:12,WASHINGTON,District of Columbia,"""Calls pretending to be government, businesses, or family and friends""",Y
+362	8883739992,6/29/2018 5:49,6/18/2018 16:12,WASHINGTON,District of Columbia,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+366	6084051501,6/29/2018 5:55,6/14/2018 12:31,WASHINGTON,District of Columbia,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+368	4052262176,6/29/2018 5:56,6/28/2018 12:00,huntsville,Alabama,"""Calls pretending to be government, businesses, or family and friends""",Y
+371	6675237410,6/29/2018 5:57,6/13/2018 14:09,WASHINGTON,District of Columbia,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+377	2074674696,6/29/2018 6:08,6/28/2018 16:00,Kennebunk,Maine,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+383	8003472689,6/29/2018 6:14,6/28/2018 13:47,Loudonville,New York,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+385	3475372590,6/29/2018 6:19,6/25/2018 12:48,Brooklyn,New York,"""Calls pretending to be government, businesses, or family and friends""",Y
+392	3852397559,6/29/2018 6:24,6/27/2018 14:52,,Connecticut,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+398	2069738034,6/29/2018 6:37,6/28/2018 16:59,,Virginia,"""Calls pretending to be government, businesses, or family and friends""",Y
+399	8042697388,6/29/2018 6:38,6/26/2018 18:32,,Virginia,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+401	8042695873,6/29/2018 6:39,6/27/2018 13:47,,Virginia,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+408	,6/29/2018 6:47,6/26/2018 13:03,,Maryland,"""Calls pretending to be government, businesses, or family and friends""",Y
+410	,6/29/2018 6:48,6/28/2018 17:04,,Wisconsin,No Subject Provided,Y
+423	,6/29/2018 6:57,6/27/2018 15:27,Birnamwood,Wisconsin,Dropped call or no message,Y
+425	470441190,6/29/2018 6:57,5/30/2018 11:08,,New Jersey,"""Calls pretending to be government, businesses, or family and friends""",Y
+426	470441190,6/29/2018 6:57,5/30/2018 11:08,,New Jersey,"""Calls pretending to be government, businesses, or family and friends""",Y
+427	8505452910,6/29/2018 6:59,6/28/2018 15:50,lincoln univq,Pennsylvania,"""Calls pretending to be government, businesses, or family and friends""",Y
+433	3174187675,6/29/2018 7:00,6/28/2018 14:35,Wauwatosa,Wisconsin,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+434	5868799377,6/29/2018 7:01,6/17/2018 12:15,White Lake,Michigan,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+440	2483601438,6/29/2018 7:06,6/19/2018 10:20,White Lake,Michigan,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+444	73233887542,6/29/2018 7:09,6/28/2018 17:43,,Ohio,"""Reducing your debt (credit cards, mortgage, student loans)""",N
+446	4759880437,6/29/2018 7:10,6/28/2018 11:34,,Connecticut,No Subject Provided,
+466	7692000676,6/29/2018 7:15,6/15/2018 8:44,Nashua,New Hampshire,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+515	4358629362,6/29/2018 7:30,6/28/2018 0:56,Wilmington,North Carolina,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+524	4358627214,6/29/2018 7:32,6/28/2018 14:31,Wilmington,Utah,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+527	4358629564,6/29/2018 7:33,6/28/2018 16:05,Wilmington,Utah,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+531	4358626550,6/29/2018 7:34,6/28/2018 16:19,Wilmington,Utah,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+536	4358626550,6/29/2018 7:34,6/28/2018 16:34,Wilmington,Utah,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+540	4358623511,6/29/2018 7:35,6/28/2018 18:51,Wilmington,Utah,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+568	,6/29/2018 7:44,6/28/2018 10:00,Kennewick,Washington,Medical  & prescriptions,Y
+578	7862093279,6/29/2018 7:48,6/22/2018 15:39,,Michigan,"""Calls pretending to be government, businesses, or family and friends""",Y
+579	58585480025,6/29/2018 7:48,6/28/2018 17:55,selden,New York,No Subject Provided,N
+587	2487981710,6/29/2018 7:52,6/25/2018 12:26,,Michigan,"""Lotteries, prizes  & sweepstakes""",Y
+589	,6/29/2018 7:53,6/28/2018 13:02,Ypsilanti,Michigan,Warranties  & protection plans,Y
+607	8662735742,6/29/2018 8:02,6/28/2018 14:48,Suamico,Wisconsin,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+613	4234676190,6/29/2018 8:04,6/29/2018 8:04,Staten Island,New York,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+614	5088480673,6/29/2018 8:05,6/28/2018 14:22,,Massachusetts,No Subject Provided,
+620	51395661122,6/29/2018 8:08,6/29/2018 8:00,St. Petersburg,Florida,Computer  & technical support,N
+626	,6/29/2018 8:13,6/29/2018 5:36,New York,New York,No Subject Provided,Y
+637	,6/29/2018 8:15,6/29/2018 8:10,,Connecticut,No Subject Provided,Y
+658	7862043848,6/29/2018 8:21,6/27/2018 14:08,,Florida,"""Calls pretending to be government, businesses, or family and friends""",N
+673	3019660704,6/29/2018 8:25,6/29/2018 8:01,Clermont,Florida,"""Lotteries, prizes  & sweepstakes""",N
+676	4234367260,6/29/2018 8:28,6/26/2018 10:27,Butler,Tennessee,"""Calls pretending to be government, businesses, or family and friends""",Y
+677	9703713576,6/29/2018 8:28,6/28/2018 19:10,Prescott Valley,Arizona,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+678	20015989149,6/29/2018 8:28,6/28/2018 15:52,Farmersville,Texas,No Subject Provided,Y
+683	4234367260,6/29/2018 8:30,6/26/2018 14:18,Butler,Tennessee,"""Calls pretending to be government, businesses, or family and friends""",Y
+687	97067545955,6/29/2018 8:31,6/28/2018 13:21,,Utah,Computer  & technical support,N
+690	4234367260,6/29/2018 8:32,6/27/2018 10:29,Butler,Tennessee,"""Calls pretending to be government, businesses, or family and friends""",Y
+691	3232755538,6/29/2018 8:32,6/28/2018 16:04,new market,Maryland,"""Calls pretending to be government, businesses, or family and friends""",N
+695	4234367257,6/29/2018 8:33,6/27/2018 0:00,Butler,Tennessee,"""Calls pretending to be government, businesses, or family and friends""",Y
+699	5612400455,6/29/2018 8:33,6/27/2018 13:17,Farmersville,Texas,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+700	4106575396,6/29/2018 8:33,6/28/2018 16:15,new market,Maryland,"""Calls pretending to be government, businesses, or family and friends""",N
+702	97306444615,6/29/2018 8:34,6/28/2018 1:34,,Utah,Computer  & technical support,N
+704	4233473182,6/29/2018 8:34,6/27/2018 0:00,Butler,Tennessee,"""Calls pretending to be government, businesses, or family and friends""",Y
+706	8888167870,6/29/2018 8:35,6/28/2018 16:26,new market,Maryland,"""Calls pretending to be government, businesses, or family and friends""",N
+709	8552664555,6/29/2018 8:36,6/28/2018 18:15,new market,Maryland,"""Calls pretending to be government, businesses, or family and friends""",N
+713	97755642631,6/29/2018 8:36,6/28/2018 3:07,,Utah,Computer  & technical support,N
+715	3016078403,6/29/2018 8:37,6/28/2018 18:45,new market,Maryland,"""Calls pretending to be government, businesses, or family and friends""",N
+717	4437873820,6/29/2018 8:39,6/28/2018 19:05,new market,Maryland,"""Calls pretending to be government, businesses, or family and friends""",N
+718	4.38705E+11,6/29/2018 8:39,6/28/2018 3:48,,Utah,Computer  & technical support,N
+724	9708180777,6/29/2018 8:40,6/28/2018 13:34,LOVELAND,Colorado,"""Energy, solar,  & utilities""",Y
+726	4437873873,6/29/2018 8:40,6/28/2018 20:30,new market,Maryland,"""Calls pretending to be government, businesses, or family and friends""",N
+728	,6/29/2018 8:41,6/28/2018 17:30,Vernon Rockville,Connecticut,"""Calls pretending to be government, businesses, or family and friends""",N
+729	7162298375,6/29/2018 8:41,6/28/2018 8:54,,Ohio,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+735	3023949781,6/29/2018 8:42,6/28/2018 22:15,new market,Maryland,"""Calls pretending to be government, businesses, or family and friends""",N
+742	8884061937,6/29/2018 8:43,6/25/2018 15:00,Harrison,Michigan,"""Calls pretending to be government, businesses, or family and friends""",Y
+743	4432589973,6/29/2018 8:43,6/29/2018 7:38,new market,Maryland,"""Calls pretending to be government, businesses, or family and friends""",N
+745	,6/29/2018 8:44,6/29/2018 5:30,,Virginia,No Subject Provided,Y
+749	3232755538,6/29/2018 8:44,6/29/2018 8:30,new market,Maryland,"""Calls pretending to be government, businesses, or family and friends""",N
+766	7206230348,6/29/2018 8:47,6/28/2018 9:34,,Colorado,No Subject Provided,
+772	,6/29/2018 8:47,6/28/2018 16:26,,Texas,No Subject Provided,N
+776	0,6/29/2018 8:48,6/28/2018 18:29,,New Jersey,Dropped call or no message,Y
+782	3038000341,6/29/2018 8:49,6/28/2018 11:20,,Colorado,No Subject Provided,
+787	2153321479,6/29/2018 8:50,6/29/2018 15:15,,Pennsylvania,No Subject Provided,
+794	6195522544,6/29/2018 8:50,6/28/2018 17:53,Morton,Pennsylvania,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+797	,6/29/2018 8:51,6/28/2018 10:23,,Kansas,No Subject Provided,Y
+807	7192596335,6/29/2018 8:52,6/28/2018 12:45,,Colorado,No Subject Provided,
+808	8454232214,6/29/2018 8:52,6/28/2018 17:30,,New Jersey,"""Calls pretending to be government, businesses, or family and friends""",Y
+809	1.17275E+11,6/29/2018 8:53,6/28/2018 18:09,,Florida,Other,Y
+812	3092441633,6/29/2018 8:53,6/29/2018 8:58,N Andover,Massachusetts,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+814	7206230348,6/29/2018 8:54,6/28/2018 16:09,,Colorado,No Subject Provided,
+815	5186366961,6/29/2018 8:54,6/29/2018 8:50,Potomac,Maryland,"""Calls pretending to be government, businesses, or family and friends""",Y
+820	205847254,6/29/2018 8:55,6/28/2018 18:39,egg harbor,New Jersey,Other,N
+823	6308050400,6/29/2018 8:55,6/26/2018 16:24,Dunwoody,Georgia,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+829	3512051576,6/29/2018 8:56,6/29/2018 8:54,Jersey City,New Jersey,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+832	6084058537,6/29/2018 8:57,6/29/2018 8:43,Vassalboro,Maine,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+834	3609668583,6/29/2018 8:57,6/28/2018 12:09,Spokane Valley,Washington,"""Calls pretending to be government, businesses, or family and friends""",Y
+835	8005215009,6/29/2018 8:57,6/29/2018 8:40,Fredericksburg,Virginia,"""Calls pretending to be government, businesses, or family and friends""",Y
+839	,6/29/2018 8:58,6/28/2018 15:03,,Kansas,Dropped call or no message,Y
+843	,6/29/2018 8:59,6/27/2018 10:54,,Kansas,No Subject Provided,Y
+852	,6/29/2018 9:01,6/18/2018 0:00,,New York,No Subject Provided,N
+857	5133855133,6/29/2018 9:01,6/29/2018 8:44,,Ohio,"""Energy, solar,  & utilities""",N
+859	,6/29/2018 9:02,6/29/2018 8:53,,Florida,Home security  & alarms,N
+876	6692059677,6/29/2018 9:04,5/29/2018 9:02,Milford,Connecticut,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+880	6058644516,6/29/2018 9:04,6/26/2018 12:59,Chamberlain,South Dakota,"""Calls pretending to be government, businesses, or family and friends""",Y
+884	2035803696,6/29/2018 9:05,6/29/2018 7:55,Lee's Summit,Missouri,"""Calls pretending to be government, businesses, or family and friends""",Y
+889	6092080069,6/29/2018 9:05,6/28/2018 16:14,Hamilton,New Jersey,"""Energy, solar,  & utilities""",N
+890	6092790110,6/29/2018 9:06,6/28/2018 8:08,,Ohio,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+895	4702320932,6/29/2018 9:06,6/27/2018 4:20,Weston,Florida,"""Calls pretending to be government, businesses, or family and friends""",Y
+896	2166725130,6/29/2018 9:06,6/29/2018 8:05,Bloomington,Minnesota,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+912	9179866980,6/29/2018 9:08,6/28/2018 18:13,Livonia,Michigan,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+914	6092790110,6/29/2018 9:08,6/28/2018 8:08,,Ohio,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+916	9594448424,6/29/2018 9:09,6/29/2018 9:06,,Pennsylvania,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+917	3392348325,6/29/2018 9:09,6/28/2018 16:14,,Florida,"""Calls pretending to be government, businesses, or family and friends""",Y
+918	7184289304,6/29/2018 9:09,6/28/2018 16:37,,New York,"""Calls pretending to be government, businesses, or family and friends""",N
+929	4439519586,6/29/2018 9:11,6/29/2018 21:15,,New Hampshire,"""Calls pretending to be government, businesses, or family and friends""",Y
+932	6463507530,6/29/2018 9:11,6/28/2018 17:30,,Florida,"""Calls pretending to be government, businesses, or family and friends""",Y
+942	5182650766,6/29/2018 9:13,6/29/2018 15:30,Greenfield Center,New York,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+950	2404764186,6/29/2018 9:15,6/29/2018 9:12,Potomac,Maryland,"""Lotteries, prizes  & sweepstakes""",Y
+956	3364292023,6/29/2018 9:15,6/27/2018 17:34,Mt. Airy,North Carolina,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+957	2817122431,6/29/2018 9:15,6/29/2018 8:04,Bryan,Texas,"""Reducing your debt (credit cards, mortgage, student loans)""",N
+958	7162546133,6/29/2018 9:15,6/29/2018 9:10,Williamson,New York,"""Calls pretending to be government, businesses, or family and friends""",Y
+969	6074419058,6/29/2018 9:17,6/29/2018 8:15,,Texas,"""Calls pretending to be government, businesses, or family and friends""",Y
+977	984207004,6/29/2018 9:17,6/29/2018 9:14,Concord,North Carolina,No Subject Provided,Y
+981	5182687011,6/29/2018 9:18,6/29/2018 9:04,Greenfield Center,New York,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+985	520285454,6/29/2018 9:18,6/29/2018 8:11,Fairfax Station,Virginia,Dropped call or no message,Y
+989	2057230588,6/29/2018 9:19,6/29/2018 9:00,,Virginia,"""Calls pretending to be government, businesses, or family and friends""",Y
+990	3477087950,6/29/2018 9:19,6/12/2018 17:34,Oceanside,New York,"""Energy, solar,  & utilities""",Y
+998	2546470388,6/29/2018 9:19,6/28/2018 9:14,Melville,New York,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+999	4698568806,6/29/2018 9:19,6/29/2018 8:18,,Tennessee,"""Calls pretending to be government, businesses, or family and friends""",Y
+1001	9415863181,6/29/2018 9:19,6/27/2018 3:45,,Florida,"""Calls pretending to be government, businesses, or family and friends""",Y
+1004	8452059044,6/29/2018 9:20,6/29/2018 9:14,BALTIMORE,Maryland,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+1005	2037170615,6/29/2018 9:20,6/29/2018 8:16,Naperville,Illinois,"""Calls pretending to be government, businesses, or family and friends""",Y
+1009	2546470388,6/29/2018 9:20,6/28/2018 9:14,Melville,New York,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+1020	6072566784,6/29/2018 9:21,6/28/2018 12:07,,New Jersey,"""Calls pretending to be government, businesses, or family and friends""",Y
+1021	5816366961,6/29/2018 9:21,6/29/2018 9:16,Beachwood,New Jersey,"""Calls pretending to be government, businesses, or family and friends""",Y
+1025	8887112711,6/29/2018 9:22,6/28/2018 0:00,ROUND ROCK,Texas,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+1037	8452043689,6/29/2018 9:23,6/29/2018 9:19,Newark,New Jersey,"""Calls pretending to be government, businesses, or family and friends""",Y
+1043	,6/29/2018 9:24,6/2/2018 8:20,,,No Subject Provided,Y
+1046	,6/29/2018 9:24,6/29/2018 8:00,,Texas,Other,N
+1047	,6/29/2018 9:24,6/28/2018 0:00,,New York,No Subject Provided,Y
+1048	3603696305,6/29/2018 9:24,6/28/2018 16:57,Lafayette,Louisiana,"""Calls pretending to be government, businesses, or family and friends""",Y
+1050	9146870124,6/29/2018 9:24,6/26/2018 0:00,,New York,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+1051	5186366961,6/29/2018 9:24,6/29/2018 9:20,,Pennsylvania,"""Calls pretending to be government, businesses, or family and friends""",Y
+1052	,6/29/2018 9:24,6/28/2018 9:00,,California,No Subject Provided,Y
+1059	9143937155,6/29/2018 9:25,6/27/2018 0:00,,New York,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+1061	1548338086,6/29/2018 9:25,6/28/2018 20:33,Newnan,Georgia,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+1071	73244427436,6/29/2018 9:25,6/28/2018 16:37,BLACKLICK,Ohio,No Subject Provided,Y
+1075	5186366961,6/29/2018 9:26,6/29/2018 8:05,,Illinois,"""Calls pretending to be government, businesses, or family and friends""",Y
+1085	3152546133,6/29/2018 9:27,6/29/2018 9:15,Rochester,New York,"""Calls pretending to be government, businesses, or family and friends""",Y
+1087	7024808488,6/29/2018 9:27,6/28/2018 11:44,Las vegas,Nevada,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+1090	3152546133,6/29/2018 9:27,6/29/2018 9:15,Rochester,New York,"""Calls pretending to be government, businesses, or family and friends""",Y
+1091	7437773029,6/29/2018 9:27,6/29/2018 9:22,Atlanta,Georgia,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+1096	7162546133,6/29/2018 9:28,6/29/2018 9:15,Rochester,New York,"""Calls pretending to be government, businesses, or family and friends""",Y
+1100	7162546133,6/29/2018 9:28,6/29/2018 9:25,,New York,"""Calls pretending to be government, businesses, or family and friends""",Y
+1109	5159965780,6/29/2018 9:29,6/28/2018 13:24,,Iowa,No Subject Provided,
+1111	2166725130,6/29/2018 9:29,6/29/2018 8:05,,Nebraska,"""Reducing your debt (credit cards, mortgage, student loans)""",N
+1122	4698568807,6/29/2018 9:30,6/28/2018 8:30,Dublin,Ohio,"""Calls pretending to be government, businesses, or family and friends""",Y
+1124	2065196597,6/29/2018 9:30,6/25/2018 13:49,,New York,"""Reducing your debt (credit cards, mortgage, student loans)""",N
+1126	6075423138,6/29/2018 9:30,6/29/2018 7:04,,Colorado,"""Calls pretending to be government, businesses, or family and friends""",Y
+1128	8505309612,6/29/2018 9:30,6/27/2018 13:24,Gardner,Massachusetts,"""Reducing your debt (credit cards, mortgage, student loans)""",N
+1129	9012455067,6/29/2018 9:30,6/28/2017 13:29,Jackson,Tennessee,No Subject Provided,
+1131	2028468392,6/29/2018 9:30,6/29/2018 9:28,Washington,District of Columbia,"""Calls pretending to be government, businesses, or family and friends""",Y
+1138	3142290928,6/29/2018 9:31,6/29/2018 8:30,,Missouri,"""Reducing your debt (credit cards, mortgage, student loans)""",N
+1142	7162546133,6/29/2018 9:31,6/29/2018 9:28,Rochester,New York,"""Calls pretending to be government, businesses, or family and friends""",Y
+1145	7437773029,6/29/2018 9:32,6/29/2018 9:22,,District of Columbia,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+1148	5053988304,6/29/2018 9:32,6/28/2018 14:34,,Iowa,No Subject Provided,
+1156	4782389868,6/29/2018 9:32,6/29/2018 9:30,Decatur,Georgia,"""Calls pretending to be government, businesses, or family and friends""",Y
+1158	3468674737,6/29/2018 9:32,6/26/2018 10:07,Pearland,Texas,"""Reducing your debt (credit cards, mortgage, student loans)""",N
+1159	4044293597,6/29/2018 9:33,6/29/2018 9:29,Griffin,Georgia,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+1165	8663498543,6/29/2018 9:33,6/26/2018 10:08,Pearland,Texas,"""Reducing your debt (credit cards, mortgage, student loans)""",N
+1166	,6/29/2018 9:33,6/29/2018 9:30,,Georgia,Computer  & technical support,Y
+1167	8888791450,6/29/2018 9:33,6/29/2018 9:10,,Pennsylvania,"""Calls pretending to be government, businesses, or family and friends""",Y
+1185	7162546311,6/29/2018 9:35,6/29/2018 9:30,Rochester,New York,"""Calls pretending to be government, businesses, or family and friends""",Y
+1186	207656012,6/29/2018 9:35,6/5/2018 0:03,Richton Park,Illinois,No Subject Provided,N
+1189	2026186970,6/29/2018 9:36,6/28/2018 15:58,,New Jersey,No Subject Provided,
+1191	9174328474,6/29/2018 9:36,6/28/2018 16:48,,New York,"""Calls pretending to be government, businesses, or family and friends""",N
+1197	2679048993,6/29/2018 9:36,6/29/2018 9:30,,Pennsylvania,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+1202	8001021100,6/29/2018 9:36,6/26/2018 15:14,Dahlonega,Georgia,"""Calls pretending to be government, businesses, or family and friends""",Y
+1206	6143105471,6/29/2018 9:37,6/29/2018 9:30,Pittsburgh,Pennsylvania,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+1207	6302814166,6/29/2018 9:37,5/7/2018 14:43,Richton Park,Illinois,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+1208	8452043689,6/29/2018 9:37,6/29/2018 9:26,woodside,New York,"""Calls pretending to be government, businesses, or family and friends""",Y
+1212	7314629720,6/29/2018 9:37,6/27/2018 0:00,Lilburn,Georgia,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+1215	5185295483,6/29/2018 9:37,6/25/2018 13:48,Middletown,New York,"""Calls pretending to be government, businesses, or family and friends""",Y
+1221	6102851304,6/29/2018 9:38,6/29/2018 9:19,Canonsburg,Pennsylvania,No Subject Provided,
+1225	919930000,6/29/2018 9:38,6/29/2018 8:14,Pensacola,Florida,No Subject Provided,N
+1229	7327451837,6/29/2018 9:38,6/28/2018 0:00,,New Jersey,No Subject Provided,
+1232	5084655760,6/29/2018 9:38,6/28/2018 11:35,woodside,New York,"""Calls pretending to be government, businesses, or family and friends""",Y
+1247	3162454948,6/29/2018 9:39,6/29/2018 8:03,Nashville,Tennessee,"""Calls pretending to be government, businesses, or family and friends""",N
+1254	3058127707,6/29/2018 9:40,6/26/2018 17:14,SAN ANTONION,Texas,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+1255	,6/29/2018 9:40,6/29/2018 8:30,,New York,"""Calls pretending to be government, businesses, or family and friends""",Y
+1257	4782389853,6/29/2018 9:40,6/27/2018 14:44,woodside,New York,"""Calls pretending to be government, businesses, or family and friends""",Y
+1260	6075423138,6/29/2018 9:40,6/29/2018 7:30,Denver,Colorado,"""Calls pretending to be government, businesses, or family and friends""",Y
+1271	3364292023,6/29/2018 9:41,6/27/2018 17:34,Mt. Airy,North Carolina,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+1273	6075424681,6/29/2018 9:41,6/29/2018 9:35,fairport,New York,"""Calls pretending to be government, businesses, or family and friends""",Y
+1279	4432051578,6/29/2018 9:41,6/14/2018 12:00,woodside,New York,"""Calls pretending to be government, businesses, or family and friends""",Y
+1283	3162454948,6/29/2018 9:42,6/29/2018 8:17,Nashville,Tennessee,"""Calls pretending to be government, businesses, or family and friends""",N
+1287	3462001239,6/29/2018 9:42,6/29/2018 8:39,Chicago Heights,Illinois,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+1288	9581678,6/29/2018 9:42,6/20/2018 15:35,Amarillo,Texas,Dropped call or no message,N
+1290	4432031055,6/29/2018 9:42,6/13/2018 14:59,woodside,New York,"""Calls pretending to be government, businesses, or family and friends""",Y
+1291	2252632057,6/29/2018 9:42,6/28/2018 10:34,,Kentucky,"""Calls pretending to be government, businesses, or family and friends""",Y
+1292	8562132002,6/29/2018 9:42,6/28/2018 1:20,Carlstadt,New Jersey,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+1294	6787373579,6/29/2018 9:42,6/27/2018 9:00,,Georgia,"""Calls pretending to be government, businesses, or family and friends""",Y
+1301	,6/29/2018 9:43,6/25/2018 0:00,Hammondsport,New York,No Subject Provided,N
+1306	9542342448,6/29/2018 9:43,6/12/2018 16:39,woodside,New York,"""Calls pretending to be government, businesses, or family and friends""",Y
+1308	3162454948,6/29/2018 9:43,6/29/2018 8:27,Nashville,Tennessee,"""Calls pretending to be government, businesses, or family and friends""",N
+1310	,6/29/2018 9:43,6/28/2018 19:09,Evanston,Illinois,Dropped call or no message,Y
+1313	8071990071,6/29/2018 9:44,6/29/2018 19:00,,Michigan,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+1314	5173122013,6/29/2018 9:44,6/25/2018 15:02,,Georgia,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+1316	5753228964,6/29/2018 9:44,6/28/2018 16:17,Gibsonville,North Carolina,"""Calls pretending to be government, businesses, or family and friends""",Y
+1323	2255321203,6/29/2018 9:44,6/11/2018 11:05,woodside,New York,"""Calls pretending to be government, businesses, or family and friends""",Y
+1326	9412172132,6/29/2018 9:44,6/26/2018 13:12,Sarasota,Florida,"""Calls pretending to be government, businesses, or family and friends""",Y
+1327	8108911024,6/29/2018 9:44,12/18/2017 15:48,Lapeer,Michigan,"""Calls pretending to be government, businesses, or family and friends""",N
+1328	7722243579,6/29/2018 9:45,6/29/2018 9:35,Evansville,Indiana,"""Calls pretending to be government, businesses, or family and friends""",N
+1332	0,6/29/2018 9:45,6/29/2018 9:39,ocala,Florida,Dropped call or no message,Y
+1337	5159965780,6/29/2018 9:45,6/28/2018 9:20,,Iowa,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+1347	3162454948,6/29/2018 9:45,6/29/2018 8:34,Nashville,Tennessee,"""Calls pretending to be government, businesses, or family and friends""",N
+1351	0,6/29/2018 9:46,6/28/2018 9:53,ocala,Florida,Dropped call or no message,Y
+1353	,6/29/2018 9:46,6/29/2018 9:39,Ida,Michigan,Medical  & prescriptions,Y
+1361	4697622486,6/29/2018 9:46,6/28/2018 17:29,,New Hampshire,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+1366	4234380769,6/29/2018 9:47,6/28/2013 11:00,Chattanooga,Tennessee,"""Calls pretending to be government, businesses, or family and friends""",N
+1368	1358571,6/29/2018 9:47,6/29/2018 9:46,Bradford,Pennsylvania,Medical  & prescriptions,Y
+1372	8452043689,6/29/2018 9:47,6/29/2018 9:42,Delphos,Ohio,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+1375	5186157900,6/29/2018 9:47,6/29/2018 9:00,Clearwater Beach,Florida,"""Calls pretending to be government, businesses, or family and friends""",Y
+1379	0,6/29/2018 9:48,6/28/2018 11:04,ocala,Florida,Dropped call or no message,Y
+1385	,6/29/2018 9:48,6/29/2018 8:28,,New Jersey,No Subject Provided,Y
+1401	8773252189,6/29/2018 9:49,6/28/2018 9:48,Bradford,Pennsylvania,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+1402	5082711637,6/29/2018 9:49,6/28/2018 11:52,Delphos,Ohio,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+1403	6393935103,6/29/2018 9:49,6/28/2018 13:59,,Illinois,"""Calls pretending to be government, businesses, or family and friends""",Y
+1404	6075423912,6/29/2018 9:49,6/29/2018 21:47,,New York,"""Calls pretending to be government, businesses, or family and friends""",Y
+1405	1.80037E+11,6/29/2018 9:49,6/29/2018 9:46,Sheffield,Massachusetts,Other,Y
+1408	3196746161,6/29/2018 9:49,6/27/2018 18:28,Amarillo,Texas,"""Calls pretending to be government, businesses, or family and friends""",Y
+1412	6782031573,6/29/2018 9:50,6/25/2018 15:07,OKLAHOMA CITY,Oklahoma,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+1415	,6/29/2018 9:50,6/29/2018 9:11,,New Jersey,No Subject Provided,Y
+1416	5083293137,6/29/2018 9:50,6/28/2018 11:12,Delphos,Ohio,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+1417	7122012172,6/29/2018 9:50,6/29/2018 9:49,,Pennsylvania,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+1419	6415806700,6/29/2018 9:50,6/28/2018 17:25,Colorado Springs,Colorado,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+1420	5122781464,6/29/2018 9:50,6/28/2018 14:46,Elgin,Texas,"""Energy, solar,  & utilities""",N
+1422	3162454948,6/29/2018 9:50,6/29/2018 8:46,Nashville,Tennessee,"""Calls pretending to be government, businesses, or family and friends""",N
+1428	8285759081,6/29/2018 9:51,6/29/2018 9:44,,North Carolina,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+1429	4234566774,6/29/2018 9:51,6/28/2018 15:24,Chattanooga,Tennessee,"""Calls pretending to be government, businesses, or family and friends""",N
+1430	4053090291,6/29/2018 9:51,6/26/2018 11:56,OKLAHOMA CITY,Oklahoma,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+1434	5854952066,6/29/2018 9:51,6/28/2018 14:32,Ridgewood,New York,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+1439	2406292639,6/29/2018 9:51,6/28/2018 17:30,Union Bridge,Maryland,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+1441	6075424681,6/29/2018 9:52,6/29/2018 9:44,Rochester,New York,"""Calls pretending to be government, businesses, or family and friends""",Y
+1445	,6/29/2018 9:52,6/29/2018 9:50,Wakarusa,Indiana,No Subject Provided,Y
+1449	5612400455,6/29/2018 9:52,6/27/2018 14:02,OKLAHOMA CITY,Oklahoma,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+1450	2489302159,6/29/2018 9:52,6/28/2018 15:13,,Michigan,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+1471	,6/29/2018 9:53,6/29/2018 7:20,,Texas,No Subject Provided,Y
+1476	,6/29/2018 9:54,6/29/2018 9:00,Deptford,New Jersey,No Subject Provided,N
+1483	4053090291,6/29/2018 9:54,6/27/2018 16:49,OKLAHOMA CITY,Oklahoma,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+1485	,6/29/2018 9:54,6/28/2018 14:40,,Texas,Dropped call or no message,Y
+1492	7031360474,6/29/2018 9:55,6/28/2018 13:19,Leesburg,Virginia,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+1496	6074524681,6/29/2018 9:55,6/29/2018 9:50,Raleigh,North Carolina,"""Calls pretending to be government, businesses, or family and friends""",Y
+1507	,6/29/2018 9:55,6/28/2018 12:55,,Texas,Dropped call or no message,Y
+1508	9208618292,6/29/2018 9:55,6/29/2018 8:54,,Wisconsin,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+1514	7122157225,6/29/2018 9:56,6/28/2018 6:12,Casa Grande,Arizona,"""Calls pretending to be government, businesses, or family and friends""",Y
+1517	,6/29/2018 9:56,6/26/2018 11:46,,Texas,Dropped call or no message,Y
+1524	,6/29/2018 9:56,6/29/2018 9:45,,New York,Medical  & prescriptions,Y
+1528	,6/29/2018 9:56,6/25/2018 17:11,,Texas,Dropped call or no message,Y
+1531	4439519586,6/29/2018 9:57,6/29/2018 9:50,sadieville,Kentucky,"""Calls pretending to be government, businesses, or family and friends""",Y
+1540	,6/29/2018 9:57,6/25/2018 12:33,,Texas,Dropped call or no message,Y
+1544	7162421559,6/29/2018 9:57,6/28/2018 8:37,Hoover,Alabama,"""Calls pretending to be government, businesses, or family and friends""",Y
+1550	2022412414,6/29/2018 9:58,6/28/2018 9:32,LOVELAND,Colorado,"""Calls pretending to be government, businesses, or family and friends""",Y
+1552	2038971639,6/29/2018 9:58,6/29/2018 9:56,Orange,Connecticut,"""Calls pretending to be government, businesses, or family and friends""",N
+1563	8503755497,6/29/2018 9:58,6/29/2018 8:52,Navarre,Florida,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+1570	2035971639,6/29/2018 9:59,6/28/2018 4:03,Orange,Connecticut,"""Calls pretending to be government, businesses, or family and friends""",N
+1586	2035971639,6/29/2018 9:59,6/27/2018 15:45,Orange,Connecticut,"""Calls pretending to be government, businesses, or family and friends""",N
+1593	,6/29/2018 10:00,6/29/2018 9:54,Phenix City,Alabama,No Subject Provided,Y
+1597	3565245869,6/29/2018 10:00,6/29/2018 10:00,,Ohio,"""Calls pretending to be government, businesses, or family and friends""",Y
+1611	3162454948,6/29/2018 10:01,6/29/2018 8:58,Nashville,Tennessee,"""Calls pretending to be government, businesses, or family and friends""",N
+1615	2035971639,6/29/2018 10:01,6/26/2018 13:12,Orange,Connecticut,"""Calls pretending to be government, businesses, or family and friends""",N
+1621	3195690822,6/29/2018 10:01,6/29/2018 10:00,Sebring,Illinois,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+1625	,6/29/2018 10:01,6/28/2018 14:35,Phenix City,New Jersey,No Subject Provided,Y
+1626	9192960809,6/29/2018 10:01,6/29/2018 9:58,Mayfield Village,Ohio,"""Reducing your debt (credit cards, mortgage, student loans)""",N
+1629	5186157900,6/29/2018 10:01,6/29/2018 9:50,West Chester,Ohio,"""Calls pretending to be government, businesses, or family and friends""",Y
+1631	4237585126,6/29/2018 10:02,6/29/2018 9:56,Morristown,Tennessee,"""Calls pretending to be government, businesses, or family and friends""",Y
+1633	9733900862,6/29/2018 10:02,6/28/2018 15:15,Clifton,New Jersey,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+1635	5186366861,6/29/2018 10:02,6/29/2018 9:40,,Virginia,"""Calls pretending to be government, businesses, or family and friends""",Y
+1640	2035971639,6/29/2018 10:02,6/25/2018 16:34,Orange,Connecticut,"""Calls pretending to be government, businesses, or family and friends""",N
+1644	6103793867,6/29/2018 10:02,6/28/2018 10:17,Easton,Pennsylvania,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+1649	5186366961,6/29/2018 10:02,6/29/2018 8:55,Waterford,Wisconsin,"""Calls pretending to be government, businesses, or family and friends""",Y
+1651	2035971639,6/29/2018 10:03,6/22/2018 15:14,Orange,Connecticut,"""Calls pretending to be government, businesses, or family and friends""",N
+1654	3015429949,6/29/2018 10:03,6/28/2018 11:13,Easton,Pennsylvania,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+1656	4852722972,6/29/2018 10:03,6/23/2018 16:15,,South Dakota,No Subject Provided,
+1657	4698568807,6/29/2018 10:03,6/29/2018 8:58,Memphis,Tennessee,"""Calls pretending to be government, businesses, or family and friends""",Y
+1658	9102320232,6/29/2018 10:03,6/28/2018 17:30,Wilmington,North Carolina,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+1660	2035971639,6/29/2018 10:03,6/21/2018 16:17,Orange,Connecticut,"""Calls pretending to be government, businesses, or family and friends""",N
+1666	7705997290,6/29/2018 10:03,6/27/2018 0:00,,Florida,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+1673	2035971639,6/29/2018 10:04,6/20/2018 14:52,Orange,Connecticut,"""Calls pretending to be government, businesses, or family and friends""",N
+1681	,6/29/2018 10:04,6/29/2018 10:01,,Ohio,No Subject Provided,Y
+1682	9102948750,6/29/2018 10:04,6/26/2018 16:28,Wilmington,North Carolina,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+1686	,6/29/2018 10:04,6/28/2018 0:00,Frederick,Maryland,"""Calls pretending to be government, businesses, or family and friends""",Y
+1694	8452043689,6/29/2018 10:05,6/29/2018 10:00,Naples FL 34114,Maryland,Other,Y
+1696	9162949,6/29/2018 10:05,6/28/2018 15:15,Germantown,Maryland,Dropped call or no message,Y
+1698	2035971639,6/29/2018 10:05,6/19/2018 16:34,Orange,Connecticut,"""Calls pretending to be government, businesses, or family and friends""",N
+1700	6075423930,6/29/2018 10:05,6/29/2018 10:00,Jupiter,Florida,"""Calls pretending to be government, businesses, or family and friends""",Y
+1703	8506010016,6/29/2018 10:05,6/26/2018 0:00,,Florida,"""Calls pretending to be government, businesses, or family and friends""",N
+1710	3123925835,6/29/2018 10:05,6/28/2018 18:52,St Augustine,Florida,"""Reducing your debt (credit cards, mortgage, student loans)""",N
+1711	8008224847,6/29/2018 10:05,6/22/2018 14:40,Wilmington,North Carolina,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+1715	,6/29/2018 10:05,6/25/2018 2:08,,Tennessee,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+1717	3838970,6/29/2018 10:06,6/28/2018 17:15,Germantown,Maryland,Dropped call or no message,Y
+1718	2035971639,6/29/2018 10:06,6/18/2018 15:27,Orange,Connecticut,"""Calls pretending to be government, businesses, or family and friends""",N
+1728	8015418946,6/29/2018 10:06,6/28/2018 14:41,,Utah,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+1730	3126691456,6/29/2018 10:06,6/29/2018 6:54,Upland,California,"""Energy, solar,  & utilities""",N
+1731	3123925835,6/29/2018 10:06,6/29/2018 8:50,,Minnesota,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+1734	7162546133,6/29/2018 10:06,6/29/2018 9:04,Rochester,New York,"""Calls pretending to be government, businesses, or family and friends""",Y
+1736	2407878892,6/29/2018 10:07,6/29/2018 10:02,,Maryland,No Subject Provided,
+1743	8137304487,6/29/2018 10:07,6/29/2018 10:06,weeki wachee,Florida,"""Lotteries, prizes  & sweepstakes""",Y
+1744	2035971639,6/29/2018 10:07,6/2/2018 11:43,Orange,Connecticut,"""Calls pretending to be government, businesses, or family and friends""",N
+1747	6.08865E+11,6/29/2018 10:07,6/27/2018 6:02,,Wisconsin,No Subject Provided,Y
+1754	3162454948,6/29/2018 10:07,6/29/2018 9:04,Nashville,Tennessee,"""Calls pretending to be government, businesses, or family and friends""",N
+1756	3838969,6/29/2018 10:07,6/28/2018 18:23,Germantown,Maryland,Dropped call or no message,Y
+1764	4232522275,6/29/2018 10:08,6/29/2018 10:03,,Tennessee,"""Calls pretending to be government, businesses, or family and friends""",N
+1765	6075424681,6/29/2018 10:08,6/29/2018 9:06,Rochester,New York,"""Calls pretending to be government, businesses, or family and friends""",Y
+1766	2035971639,6/29/2018 10:08,5/31/2018 19:12,Orange,Connecticut,"""Calls pretending to be government, businesses, or family and friends""",N
+1767	3233162429,6/29/2018 10:08,6/28/2018 20:10,St. Augustine,Florida,"""Reducing your debt (credit cards, mortgage, student loans)""",N
+1777	6149893184,6/29/2018 10:08,6/28/2018 12:29,Johnstown,Ohio,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+1779	2602390127,6/29/2018 10:08,6/29/2018 9:49,Indianapolis,Indiana,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+1785	5712009630,6/29/2018 10:09,6/29/2018 9:44,,Virginia,"""Reducing your debt (credit cards, mortgage, student loans)""",N
+1787	2035971639,6/29/2018 10:09,5/30/2018 18:18,Orange,Connecticut,"""Calls pretending to be government, businesses, or family and friends""",N
+1801	2026299675,6/29/2018 10:09,6/28/2018 13:29,,South Dakota,No Subject Provided,
+1803	9147084075,6/29/2018 10:10,6/29/2018 9:43,,New York,"""Calls pretending to be government, businesses, or family and friends""",Y
+1804	2035971639,6/29/2018 10:10,5/29/2018 4:21,Orange,Connecticut,"""Calls pretending to be government, businesses, or family and friends""",N
+1808	,6/29/2018 10:10,6/27/2018 11:55,Grove city,Ohio,Medical  & prescriptions,Y
+1810	5302031172,6/29/2018 10:10,6/22/2018 11:49,,Tennessee,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+1811	7728014409,6/29/2018 10:10,6/29/2018 10:06,Fort pierce,Florida,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+1816	3128780281,6/29/2018 10:10,6/29/2018 7:03,,California,"""Reducing your debt (credit cards, mortgage, student loans)""",N
+1825	6312934921,6/29/2018 10:11,6/29/2018 10:00,Sebastian,Florida,"""Energy, solar,  & utilities""",N
+1832	9042991117,6/29/2018 10:11,6/29/2018 10:02,MIDDLEBURG,Florida,"""Calls pretending to be government, businesses, or family and friends""",Y
+1834	3232751348,6/29/2018 10:11,6/26/2018 9:30,,Tennessee,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+1837	3162454948,6/29/2018 10:11,6/29/2018 9:08,Nashville,Tennessee,"""Calls pretending to be government, businesses, or family and friends""",N
+1847	8774071207,6/29/2018 10:12,6/28/2018 16:29,Easton,Pennsylvania,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+1856	5033120741,6/29/2018 10:12,6/28/2018 13:57,,South Dakota,No Subject Provided,
+1857	6314104580,6/29/2018 10:12,6/28/2018 5:58,,Illinois,"""Calls pretending to be government, businesses, or family and friends""",Y
+1860	4782389387,6/29/2018 10:12,6/27/2018 9:44,,Tennessee,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+1869	3128780281,6/29/2018 10:13,6/29/2018 7:04,,California,"""Reducing your debt (credit cards, mortgage, student loans)""",N
+1874	8186125215,6/29/2018 10:13,6/29/2018 9:06,Dallas,Texas,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+1875	8046086746,6/29/2018 10:13,6/29/2018 10:10,Vienna,Virginia,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+1876	9183573464,6/29/2018 10:13,6/29/2018 9:00,,Oklahoma,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+1878	4782389864,6/29/2018 10:13,6/29/2018 9:59,,Tennessee,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+1882	0,6/29/2018 10:13,6/28/2018 19:33,Austin,Minnesota,No Subject Provided,Y
+1884	7372005546,6/29/2018 10:13,6/27/2018 17:37,,Kentucky,No Subject Provided,
+1887	5816366961,6/29/2018 10:14,6/29/2018 10:09,Beachwood,New Jersey,"""Calls pretending to be government, businesses, or family and friends""",Y
+1899	,6/29/2018 10:14,6/29/2018 10:12,,Ohio,No Subject Provided,N
+1901	9546491661,6/29/2018 10:14,6/28/2018 11:45,Vienna,Florida,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+1903	4782389868,6/29/2018 10:15,6/29/2018 10:12,,North Carolina,"""Calls pretending to be government, businesses, or family and friends""",Y
+1914	6075423930,6/29/2018 10:15,6/29/2018 10:11,Cumming,Georgia,"""Calls pretending to be government, businesses, or family and friends""",Y
+1917	3128780281,6/29/2018 10:15,6/28/2018 7:05,,California,"""Reducing your debt (credit cards, mortgage, student loans)""",N
+1922	5186366961,6/29/2018 10:15,6/29/2018 9:56,Woodstock,Georgia,"""Calls pretending to be government, businesses, or family and friends""",N
+1927	6075423138,6/29/2018 10:16,6/29/2018 8:02,Highlands Ranch,Colorado,"""Calls pretending to be government, businesses, or family and friends""",Y
+1932	6153359169,6/29/2018 10:16,6/28/2018 14:04,,Tennessee,"""Calls pretending to be government, businesses, or family and friends""",N
+1933	9546060454,6/29/2018 10:16,6/27/2018 16:44,Vienna,Florida,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+1934	5096549768,6/29/2018 10:16,6/29/2018 10:12,Rock Hill,South Carolina,"""Calls pretending to be government, businesses, or family and friends""",Y
+1945	6128155870,6/29/2018 10:16,6/29/2018 8:30,St. Louis,Missouri,"""Calls pretending to be government, businesses, or family and friends""",N
+1951	3606440707,6/29/2018 10:17,6/28/2018 11:05,Trenton,New Jersey,"""Calls pretending to be government, businesses, or family and friends""",N
+1962	5164940646,6/29/2018 10:17,6/29/2018 10:07,,Maryland,"""Calls pretending to be government, businesses, or family and friends""",Y
+1966	6075424681,6/29/2018 10:17,6/29/2018 10:09,Philadelphia,Pennsylvania,"""Calls pretending to be government, businesses, or family and friends""",Y
+1969	6182210955,6/29/2018 10:17,6/29/2018 8:37,trinity,Florida,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+1971	3204031191,6/29/2018 10:18,6/29/2018 9:10,Stillwater,Minnesota,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+1976	,6/29/2018 10:18,6/29/2018 9:18,,Texas,Medical  & prescriptions,Y
+1981	3162454948,6/29/2018 10:18,6/29/2018 9:14,Nashville,Tennessee,"""Calls pretending to be government, businesses, or family and friends""",N
+1983	6463685548,6/29/2018 10:18,6/22/2018 14:24,Highlands Ranch,Colorado,"""Calls pretending to be government, businesses, or family and friends""",Y
+1986	9092818214,6/29/2018 10:18,6/27/2018 12:32,,South Dakota,No Subject Provided,
+1987	8022155632,6/29/2018 10:18,6/28/2018 12:33,,Maryland,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+1989	7861312449,6/29/2018 10:18,6/29/2018 9:13,,Illinois,No Subject Provided,
+1990	,6/29/2018 10:18,6/29/2018 9:48,,Georgia,Other,Y
+1996	8006427676,6/29/2018 10:19,6/28/2018 14:48,Westampton,New Jersey,"""Calls pretending to be government, businesses, or family and friends""",N
+2004	,6/29/2018 10:19,6/28/2018 11:29,Columbus,Ohio,No Subject Provided,Y
+2008	3479433703,6/29/2018 10:19,6/28/2018 9:59,Cedar Rapids,Iowa,"""Calls pretending to be government, businesses, or family and friends""",Y
+2009	6096223365,6/29/2018 10:19,6/27/2018 17:52,,New Jersey,"""Energy, solar,  & utilities""",Y
+2011	,6/29/2018 10:19,6/28/2018 12:59,,Kentucky,No Subject Provided,
+2014	3565245869,6/29/2018 10:19,6/29/2018 9:00,,Pennsylvania,"""Calls pretending to be government, businesses, or family and friends""",N
+2015	8046086746,6/29/2018 10:19,6/29/2018 10:15,Newport News,Virginia,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2017	6035698874,6/29/2018 10:19,6/29/2018 10:11,Rochester,New York,"""Calls pretending to be government, businesses, or family and friends""",N
+2023	64634081374,6/29/2018 10:20,6/28/2018 18:01,Westport,Massachusetts,"""Calls pretending to be government, businesses, or family and friends""",Y
+2024	5186157900,6/29/2018 10:20,6/29/2018 6:58,Oakland,California,"""Calls pretending to be government, businesses, or family and friends""",Y
+2025	2488750825,6/29/2018 10:20,6/29/2018 10:16,Middletown,Ohio,"""Reducing your debt (credit cards, mortgage, student loans)""",N
+2027	5109368329,6/29/2018 10:20,6/11/2018 16:18,Highlands Ranch,Colorado,"""Calls pretending to be government, businesses, or family and friends""",Y
+2029	9092573652,6/29/2018 10:20,6/29/2018 7:16,Rancho Cucamonga,California,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2032	6465869973,6/29/2018 10:20,6/29/2018 10:13,Lancaster,Massachusetts,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2037	6075424681,6/29/2018 10:20,6/29/2018 10:16,,New Jersey,"""Calls pretending to be government, businesses, or family and friends""",Y
+2038	,6/29/2018 10:20,6/29/2018 10:17,Columbus,Ohio,Medical  & prescriptions,Y
+2041	3479433703,6/29/2018 10:20,6/28/2018 11:39,Cedar Rapids,Iowa,"""Calls pretending to be government, businesses, or family and friends""",Y
+2042	5043321100,6/29/2018 10:21,6/28/2018 16:14,West Lawn,Pennsylvania,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2045	1.16035E+11,6/29/2018 10:21,6/29/2018 10:15,,New Hampshire,No Subject Provided,Y
+2056	3512051586,6/29/2018 10:21,6/29/2018 10:16,East Lansing,Michigan,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2059	,6/29/2018 10:21,6/29/2018 10:16,Newport News,Virginia,Other,N
+2068	516900934,6/29/2018 10:22,6/27/2018 8:56,,New Hampshire,Dropped call or no message,N
+2069	3479433703,6/29/2018 10:22,6/28/2018 13:07,Cedar Rapids,Iowa,"""Calls pretending to be government, businesses, or family and friends""",Y
+2075	5109368329,6/29/2018 10:22,6/11/2018 9:57,Highlands Ranch,Colorado,"""Calls pretending to be government, businesses, or family and friends""",Y
+2080	5164940646,6/29/2018 10:22,6/29/2018 10:09,,Maryland,"""Calls pretending to be government, businesses, or family and friends""",Y
+2083	5613321936,6/29/2018 10:22,6/29/2018 10:20,Boca Raton,Florida,"""Energy, solar,  & utilities""",N
+2091	8623456118,6/29/2018 10:23,6/28/2018 10:30,Hackensack,New Jersey,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2092	8062166971,6/29/2018 10:23,6/28/2018 12:59,,Kentucky,No Subject Provided,
+2094	8553904769,6/29/2018 10:23,6/28/2018 17:14,aventura,Florida,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2097	,6/29/2018 10:23,6/29/2018 10:20,,Florida,"""Calls pretending to be government, businesses, or family and friends""",N
+2099	2019421980,6/29/2018 10:23,6/26/2018 17:08,Archdale,North Carolina,"""Reducing your debt (credit cards, mortgage, student loans)""",N
+2101	8767826489,6/29/2018 10:23,6/18/2018 14:57,Tucson,Arizona,"""Lotteries, prizes  & sweepstakes""",N
+2108	8454235004,6/29/2018 10:23,5/30/2018 12:48,Highlands Ranch,Colorado,"""Calls pretending to be government, businesses, or family and friends""",Y
+2113	9107904867,6/29/2018 10:24,6/29/2018 10:17,wilmington,North Carolina,"""Calls pretending to be government, businesses, or family and friends""",Y
+2114	2016133705,6/29/2018 10:24,6/29/2018 10:20,Lebanon,Indiana,"""Calls pretending to be government, businesses, or family and friends""",Y
+2121	,6/29/2018 10:24,6/29/2018 9:21,,New York,Medical  & prescriptions,Y
+2123	7692000540,6/29/2018 10:24,6/29/2018 9:22,,Texas,"""Reducing your debt (credit cards, mortgage, student loans)""",N
+2125	5169316330,6/29/2018 10:24,6/29/2018 10:19,Cincinnati,Ohio,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2134	,6/29/2018 10:25,6/29/2018 10:20,Rahway,New Jersey,Medical  & prescriptions,Y
+2138	8505452910,6/29/2018 10:25,6/28/2018 16:14,New Baltimore,Michigan,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2139	5307637781,6/29/2018 10:25,3/12/2018 12:36,Highlands Ranch,Colorado,"""Calls pretending to be government, businesses, or family and friends""",Y
+2143	8159941921,6/29/2018 10:25,6/28/2018 15:45,Amboy,Illinois,"""Energy, solar,  & utilities""",Y
+2145	3512051586,6/29/2018 10:25,6/29/2018 9:20,Flower Mound,Texas,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2146	7692000540,6/29/2018 10:25,6/29/2018 9:21,Warroad,Minnesota,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2149	,6/29/2018 10:25,6/28/2018 0:10,,Missouri,Dropped call or no message,Y
+2152	9895751220,6/29/2018 10:25,6/27/2018 15:32,Ann Arbor,Michigan,"""Calls pretending to be government, businesses, or family and friends""",Y
+2153	,6/29/2018 10:25,6/29/2018 9:23,,Louisiana,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2157	2706977044,6/29/2018 10:26,6/28/2018 14:35,,Kentucky,No Subject Provided,
+2158	7692000540,6/29/2018 10:26,6/29/2018 9:23,Youngsville,Louisiana,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2159	8773881899,6/29/2018 10:26,6/25/2018 16:00,Haddonfield,New Jersey,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2161	8779812152,6/29/2018 10:26,6/28/2018 0:00,Astoria,Oregon,"""Calls pretending to be government, businesses, or family and friends""",Y
+2167	3162454948,6/29/2018 10:26,6/29/2018 9:22,Nashville,Tennessee,"""Calls pretending to be government, businesses, or family and friends""",N
+2171	8159940199,6/29/2018 10:26,6/27/2018 17:15,Amboy,Illinois,"""Energy, solar,  & utilities""",Y
+2176	,6/29/2018 10:26,6/29/2018 7:17,Citrus Heights,California,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2179	8052198395,6/29/2018 10:26,6/29/2018 9:13,kansas,Illinois,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2182	9086863084,6/29/2018 10:27,6/29/2018 10:26,,New Jersey,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2189	8159948217,6/29/2018 10:27,6/27/2018 17:11,Amboy,Illinois,"""Energy, solar,  & utilities""",Y
+2192	8283516950,6/29/2018 10:27,6/29/2018 10:18,Greensboro,North Carolina,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2196	,6/29/2018 10:27,6/29/2018 9:01,,Georgia,No Subject Provided,Y
+2199	7372007032,6/29/2018 10:28,6/29/2018 10:21,Cary,North Carolina,"""Calls pretending to be government, businesses, or family and friends""",Y
+2201	7162546133,6/29/2018 10:28,6/29/2018 9:18,Rochester,New York,"""Calls pretending to be government, businesses, or family and friends""",Y
+2205	,6/29/2018 10:28,6/29/2018 10:28,,Connecticut,No Subject Provided,N
+2211	6198865527,6/29/2018 10:28,6/26/2018 14:14,SAN DIEGO,California,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2212	8159943634,6/29/2018 10:28,6/27/2018 9:59,Amboy,Illinois,"""Energy, solar,  & utilities""",Y
+2214	6075423138,6/29/2018 10:28,6/29/2018 7:59,,Colorado,"""Calls pretending to be government, businesses, or family and friends""",Y
+2220	5175805654,6/29/2018 10:28,6/28/2018 17:04,,Kentucky,No Subject Provided,
+2224	7162546133,6/29/2018 10:29,6/29/2018 8:19,Chicago,Illinois,"""Calls pretending to be government, businesses, or family and friends""",Y
+2225	8452024661,6/29/2018 10:29,6/28/2018 17:43,Ann Arbor,Michigan,"""Calls pretending to be government, businesses, or family and friends""",Y
+2229	4107050125,6/29/2018 10:29,6/29/2018 10:24,,District of Columbia,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2230	4049014805,6/29/2018 10:29,6/29/2018 10:24,ATLANTA,Georgia,"""Calls pretending to be government, businesses, or family and friends""",Y
+2231	3127332206,6/29/2018 10:29,6/29/2018 9:25,Chicago,Illinois,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2233	8159948199,6/29/2018 10:29,6/27/2018 18:25,Amboy,Illinois,"""Energy, solar,  & utilities""",Y
+2244	,6/29/2018 10:29,6/28/2018 0:08,,North Carolina,Dropped call or no message,Y
+2247	2122416500,6/29/2018 10:30,6/8/2018 11:11,Newyork,New York,"""Calls pretending to be government, businesses, or family and friends""",Y
+2254	2765331002,6/29/2018 10:30,6/29/2018 10:29,Bristol,Virginia,"""Calls pretending to be government, businesses, or family and friends""",Y
+2257	2107845632,6/29/2018 10:30,6/29/2018 10:29,East Rutherford,New Jersey,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2259	8882264598,6/29/2018 10:30,6/29/2018 9:29,Austin,Texas,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2261	,6/29/2018 10:30,6/28/2018 0:06,,New York,Dropped call or no message,N
+2269	6145695322,6/29/2018 10:31,6/29/2018 10:05,,Kentucky,No Subject Provided,
+2270	5082738477,6/29/2018 10:31,6/29/2018 9:29,STILLWATER,Minnesota,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2274	4012179167,6/29/2018 10:31,6/29/2018 9:50,Newport,Rhode Island,"""Lotteries, prizes  & sweepstakes""",N
+2275	6465869973,6/29/2018 10:31,6/29/2018 10:29,SELKIRK,New York,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2280	7162408042,6/29/2018 10:31,6/29/2018 9:41,Indianapolis,Indiana,"""Calls pretending to be government, businesses, or family and friends""",Y
+2282	8883821222,6/29/2018 10:31,6/29/2018 10:23,Miami Beach,Florida,"""Energy, solar,  & utilities""",N
+2306	5123993276,6/29/2018 10:32,6/21/2018 8:21,Austin,Texas,"""Calls pretending to be government, businesses, or family and friends""",N
+2311	5613321936,6/29/2018 10:33,6/29/2018 10:27,Miami,Florida,"""Energy, solar,  & utilities""",N
+2315	,6/29/2018 10:33,6/28/2018 8:35,Alexandria,Virginia,No Subject Provided,N
+2333	8136424722,6/29/2018 10:34,6/29/2018 10:30,Sun C,Florida,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2335	,6/29/2018 10:34,6/29/2018 8:28,,North Carolina,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2340	2184296117,6/29/2018 10:34,6/29/2018 9:32,Sauk Rapids,Minnesota,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2348	7162546133,6/29/2018 10:34,6/29/2018 9:30,Webster,New York,"""Calls pretending to be government, businesses, or family and friends""",Y
+2352	6673079041,6/29/2018 10:35,6/25/2018 1:41,,Ohio,"""Reducing your debt (credit cards, mortgage, student loans)""",N
+2353	,6/29/2018 10:35,6/29/2018 9:32,,Texas,Other,Y
+2354	2065650700,6/29/2018 10:35,6/29/2018 9:31,,Texas,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2356	,6/29/2018 10:35,6/29/2018 10:03,,New York,No Subject Provided,N
+2361	,6/29/2018 10:35,6/27/2018 9:09,,Pennsylvania,No Subject Provided,Y
+2365	6075424681,6/29/2018 10:35,6/29/2018 10:18,princeton,New Jersey,"""Calls pretending to be government, businesses, or family and friends""",Y
+2376	4107050125,6/29/2018 10:35,6/29/2018 10:18,Severna Park,Maryland,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2381	,6/29/2018 10:36,6/29/2018 5:58,,California,No Subject Provided,Y
+2382	2184296117,6/29/2018 10:36,6/29/2018 8:31,box elder,South Dakota,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2392	212209755,6/29/2018 10:36,6/29/2018 10:34,,North Carolina,Medical  & prescriptions,N
+2397	5862068015,6/29/2018 10:36,6/29/2018 10:33,Warren,Michigan,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2408	8006140397,6/29/2018 10:36,6/25/2018 1:41,,Ohio,"""Reducing your debt (credit cards, mortgage, student loans)""",N
+2413	8046086746,6/29/2018 10:37,6/29/2018 10:31,Crozier,Virginia,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2419	4026806444,6/29/2018 10:37,6/29/2018 9:30,Omaha,Nebraska,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2421	4752441031,6/29/2018 10:37,6/29/2018 10:21,,Connecticut,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2429	,6/29/2018 10:37,6/27/2018 15:39,,Pennsylvania,No Subject Provided,Y
+2433	6304083609,6/29/2018 10:37,6/29/2018 9:33,Darien,Illinois,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2435	8146844171,6/29/2018 10:37,6/29/2018 9:01,Goodrich,Michigan,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2436	,6/29/2018 10:37,6/27/2018 15:20,Philadelphia,Arizona,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2439	,6/29/2018 10:38,6/29/2018 0:00,,,No Subject Provided,N
+2443	6304083609,6/29/2018 10:38,6/29/2018 9:33,Darien,Illinois,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2444	8609652960,6/29/2018 10:38,6/29/2018 10:31,,Connecticut,"""Energy, solar,  & utilities""",Y
+2445	5126412193,6/29/2018 10:38,6/29/2018 9:37,Austin,Texas,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2447	2012641412,6/29/2018 10:38,6/28/2018 0:00,PALISADES PARK,New Jersey,"""Energy, solar,  & utilities""",Y
+2450	8046086746,6/29/2018 10:38,6/29/2018 10:34,Powhatan,Virginia,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2451	8452043689,6/29/2018 10:38,6/29/2018 9:09,,Tennessee,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2458	4253333534,6/29/2018 10:38,6/29/2018 9:35,Rogers,Arkansas,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2459	,6/29/2018 10:38,6/27/2018 19:38,,South Carolina,No Subject Provided,N
+2465	,6/29/2018 10:38,6/29/2018 10:34,Lake Leelanau,Michigan,No Subject Provided,Y
+2467	2013541051,6/29/2018 10:38,6/28/2018 0:00,PALISADES PARK,New Jersey,"""Energy, solar,  & utilities""",Y
+2469	435233689,6/29/2018 10:38,6/27/2018 15:39,Greenville,Ohio,No Subject Provided,N
+2473	7322284139,6/29/2018 10:38,6/28/2018 13:27,Saint Paul,Minnesota,"""Calls pretending to be government, businesses, or family and friends""",Y
+2479	,6/29/2018 10:39,6/28/2018 9:32,Philadelphia,Massachusetts,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2481	,6/29/2018 10:39,6/28/2018 15:00,Englewood,Colorado,No Subject Provided,Y
+2485	2090081722,6/29/2018 10:39,6/28/2018 0:00,PALISADES PARK,New Jersey,"""Energy, solar,  & utilities""",Y
+2489	6152657218,6/29/2018 10:39,6/26/2018 15:22,,Tennessee,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2493	8046086746,6/29/2018 10:39,6/29/2018 10:36,Alexandria,Virginia,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2499	2018127195,6/29/2018 10:39,6/28/2018 0:00,PALISADES PARK,New Jersey,"""Energy, solar,  & utilities""",Y
+2501	8046086746,6/29/2018 10:39,6/29/2018 10:08,Williamsburg,Virginia,"""Reducing your debt (credit cards, mortgage, student loans)""",N
+2507	,6/29/2018 10:40,6/29/2018 9:40,,Pennsylvania,No Subject Provided,Y
+2515	2012855987,6/29/2018 10:40,6/28/2018 0:00,PALISADES PARK,New Jersey,"""Energy, solar,  & utilities""",Y
+2517	6075423138,6/29/2018 10:40,6/29/2018 7:23,Arlee,Montana,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2524	6313209565,6/29/2018 10:40,6/29/2018 9:23,,Tennessee,"""Calls pretending to be government, businesses, or family and friends""",Y
+2526	0,6/29/2018 10:40,6/29/2018 10:11,Chevy Chase,Maryland,No Subject Provided,Y
+2528	6157172752,6/29/2018 10:40,6/26/2018 12:04,,Tennessee,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2531	8883455590,6/29/2018 10:40,6/28/2018 18:31,Mineral Wells,Texas,"""Lotteries, prizes  & sweepstakes""",Y
+2539	8046086746,6/29/2018 10:41,6/29/2018 10:40,,Virginia,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2542	2072500728,6/29/2018 10:41,6/29/2018 10:38,Greenbush,Maine,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2551	5126268035,6/29/2018 10:41,6/29/2018 9:36,Austin,Texas,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2554	,6/29/2018 10:41,6/29/2018 10:40,,Pennsylvania,Other,Y
+2558	9892055500,6/29/2018 10:42,6/29/2018 10:41,,Michigan,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2559	8553904769,6/29/2018 10:42,6/26/2018 10:42,,Tennessee,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2564	,6/29/2018 10:42,6/29/2018 10:30,Cincinnati,Ohio,Medical  & prescriptions,Y
+2569	0,6/29/2018 10:42,6/27/2018 13:16,Alexandria,Virginia,No Subject Provided,N
+2571	9892059303,6/29/2018 10:42,6/28/2018 16:09,,Michigan,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2575	4086695082,6/29/2018 10:42,6/29/2018 8:42,,Illinois,"""Calls pretending to be government, businesses, or family and friends""",Y
+2578	6075424681,6/29/2018 10:42,6/29/2018 8:43,Oak Creek,Wisconsin,"""Calls pretending to be government, businesses, or family and friends""",Y
+2579	8563156009,6/29/2018 10:42,6/29/2018 9:40,Houston,Texas,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2587	9189244829,6/29/2018 10:43,6/29/2018 9:35,Sand Springs,Oklahoma,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2590	4056548738,6/29/2018 10:43,6/29/2018 9:41,,Oklahoma,"""Calls pretending to be government, businesses, or family and friends""",Y
+2603	8283354365,6/29/2018 10:43,6/29/2018 10:40,Asheville,North Carolina,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2604	4052512732,6/29/2018 10:44,6/28/2018 16:02,Dayton,Ohio,"""Calls pretending to be government, businesses, or family and friends""",Y
+2611	2108728829,6/29/2018 10:44,6/29/2018 9:40,Marion,Texas,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2612	4056646235,6/29/2018 10:44,6/28/2018 14:06,Yukon,Oklahoma,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2620	0,6/29/2018 10:44,6/27/2018 11:57,Alexandria,Virginia,No Subject Provided,N
+2623	7029831181,6/29/2018 10:44,6/27/2018 12:59,las vegas,Nevada,"""Reducing your debt (credit cards, mortgage, student loans)""",N
+2624	8046083582,6/29/2018 10:44,6/29/2018 10:40,Midlothian,Virginia,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2630	,6/29/2018 10:44,6/29/2018 10:41,,Michigan,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2631	8603412377,6/29/2018 10:44,6/29/2018 10:34,,Connecticut,"""Lotteries, prizes  & sweepstakes""",Y
+2632	5123234212,6/29/2018 10:44,6/29/2018 8:19,,Texas,No Subject Provided,
+2633	4434325919,6/29/2018 10:44,6/29/2018 10:39,Takoma Park,Maryland,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2639	,6/29/2018 10:44,6/28/2018 11:00,washington,District of Columbia,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2640	3204031191,6/29/2018 10:45,6/29/2018 9:42,Winona,Minnesota,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2646	,6/29/2018 10:45,6/29/2018 9:44,,New Jersey,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2648	2012412391,6/29/2018 10:45,6/27/2018 11:41,,New Jersey,"""Calls pretending to be government, businesses, or family and friends""",Y
+2654	0,6/29/2018 10:45,6/27/2018 11:55,Alexandria,Virginia,No Subject Provided,N
+2655	6075424681,6/29/2018 10:45,6/29/2018 10:16,,New Jersey,"""Calls pretending to be government, businesses, or family and friends""",Y
+2658	2812040500,6/29/2018 10:45,6/28/2018 12:10,Staten Island,New York,No Subject Provided,
+2660	4178954023,6/29/2018 10:45,6/28/2018 9:15,,Missouri,No Subject Provided,
+2668	6075423912,6/29/2018 10:46,6/29/2018 9:08,,New York,"""Calls pretending to be government, businesses, or family and friends""",Y
+2670	6468060010,6/29/2018 10:46,6/29/2018 10:30,,New York,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2678	6075423912,6/29/2018 10:46,6/29/2018 10:41,,Virgin Islands,"""Calls pretending to be government, businesses, or family and friends""",Y
+2682	9403043142,6/29/2018 10:46,6/28/2018 16:35,Mineral Wells,Texas,"""Lotteries, prizes  & sweepstakes""",Y
+2684	5862064275,6/29/2018 10:46,6/29/2018 10:35,,Michigan,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2686	3462094595,6/29/2018 10:47,6/29/2018 9:44,,Texas,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2687	8452080271,6/29/2018 10:47,6/29/2018 10:40,,Maryland,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2694	4084959231,6/29/2018 10:47,6/28/2018 10:27,las vegas,Nevada,"""Energy, solar,  & utilities""",N
+2697	6075424681,6/29/2018 10:47,6/29/2018 10:45,Collegeville,Pennsylvania,"""Calls pretending to be government, businesses, or family and friends""",Y
+2699	5186366960,6/29/2018 10:47,6/29/2018 10:40,,Georgia,"""Calls pretending to be government, businesses, or family and friends""",Y
+2704	9173915195,6/29/2018 10:47,6/29/2018 8:00,,New York,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2706	7408551851,6/29/2018 10:47,6/29/2018 10:39,Monroe,Ohio,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2713	4782389868,6/29/2018 10:47,6/29/2018 10:39,,Michigan,No Subject Provided,
+2715	,6/29/2018 10:47,6/29/2018 10:45,,Ohio,No Subject Provided,N
+2717	7045340232,6/29/2018 10:47,6/29/2018 10:26,Charlotte,North Carolina,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2718	2819472,6/29/2018 10:48,6/29/2018 9:40,Parkville,Missouri,Computer  & technical support,Y
+2719	5177459048,6/29/2018 10:48,6/29/2018 10:36,Jakcson,Michigan,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2723	2349800081,6/29/2018 10:48,6/29/2018 10:45,,Ohio,"""Lotteries, prizes  & sweepstakes""",Y
+2727	6072566784,6/29/2018 10:48,6/28/2018 0:35,,Mississippi,"""Calls pretending to be government, businesses, or family and friends""",Y
+2734	9257267924,6/29/2018 10:48,6/29/2018 7:25,Martinez,California,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2736	,6/29/2018 10:48,1/28/2018 16:30,Concinnati,Ohio,"""Energy, solar,  & utilities""",Y
+2746	6082868068,6/29/2018 10:48,6/27/2018 16:40,Madison,Wisconsin,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2748	6463508224,6/29/2018 10:48,6/29/2018 10:40,Natick,Massachusetts,"""Calls pretending to be government, businesses, or family and friends""",Y
+2754	2075732449,6/29/2018 10:49,6/29/2018 10:45,Downingtown,Pennsylvania,"""Calls pretending to be government, businesses, or family and friends""",Y
+2761	4177715902,6/29/2018 10:49,6/29/2018 9:47,,Missouri,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2763	4102516356,6/29/2018 10:49,6/29/2018 10:43,SALISBURY,Maryland,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2772	3204031191,6/29/2018 10:49,6/29/2018 9:41,,Minnesota,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2773	,6/29/2018 10:49,6/28/2018 14:31,,New Mexico,No Subject Provided,Y
+2780	5518580000,6/29/2018 10:49,6/29/2018 10:45,,New Hampshire,"""Calls pretending to be government, businesses, or family and friends""",N
+2782	9286928080,6/29/2018 10:49,6/28/2018 12:46,,New Jersey,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2784	5599741033,6/29/2018 10:50,6/14/2018 0:00,,Connecticut,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2790	6074419136,6/29/2018 10:50,6/29/2018 9:53,,Kentucky,"""Calls pretending to be government, businesses, or family and friends""",Y
+2795	5599741033,6/29/2018 10:50,6/14/2018 0:00,,Connecticut,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2797	5599741033,6/29/2018 10:50,6/14/2018 0:00,,Connecticut,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2798	5599741033,6/29/2018 10:50,6/14/2018 0:00,,Connecticut,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2799	5599741033,6/29/2018 10:50,6/14/2018 0:00,,Connecticut,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2800	5599741033,6/29/2018 10:50,6/14/2018 0:00,,Connecticut,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2803	5599741033,6/29/2018 10:50,6/14/2018 0:00,,Connecticut,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2806	5599741033,6/29/2018 10:50,6/14/2018 0:00,,Connecticut,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2808	,6/29/2018 10:50,6/28/2018 18:00,,,No Subject Provided,Y
+2811	5599741033,6/29/2018 10:50,6/14/2018 0:00,,Connecticut,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2814	6182484614,6/29/2018 10:50,6/28/2018 13:03,Mineral Wells,Texas,"""Lotteries, prizes  & sweepstakes""",Y
+2816	6039739260,6/29/2018 10:50,6/29/2018 10:48,East Wakefield,New Hampshire,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2820	7045723029,6/29/2018 10:50,6/29/2018 10:48,Charlotte,North Carolina,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2827	2696925166,6/29/2018 10:51,6/28/2018 13:03,,Michigan,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2830	8452043689,6/29/2018 10:51,6/29/2018 9:19,,Missouri,No Subject Provided,
+2831	7032542354,6/29/2018 10:51,6/29/2018 10:30,,Virginia,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2837	4057327890,6/29/2018 10:51,6/29/2018 9:44,Midwest City,Oklahoma,"""Reducing your debt (credit cards, mortgage, student loans)""",N
+2840	,6/29/2018 10:51,6/29/2018 10:42,Cedar Knolls,New Jersey,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2843	7852856763,6/29/2018 10:51,6/29/2018 9:44,DERBY,Kansas,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2846	,6/29/2018 10:52,6/29/2018 10:45,,Georgia,No Subject Provided,Y
+2849	7404914096,6/29/2018 10:52,6/29/2018 10:15,Scio,Ohio,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2852	5613321936,6/29/2018 10:52,6/29/2018 10:22,,Florida,"""Energy, solar,  & utilities""",N
+2853	584082816,6/29/2018 10:52,6/26/2018 14:58,,Massachusetts,Dropped call or no message,Y
+2855	6316807001,6/29/2018 10:52,6/29/2018 10:41,,New York,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2859	8135339606,6/29/2018 10:52,6/29/2018 9:53,,Florida,"""Calls pretending to be government, businesses, or family and friends""",N
+2860	8502698108,6/29/2018 10:52,6/28/2018 16:23,Destin,Florida,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2862	33743642220,6/29/2018 10:52,6/29/2018 9:49,,Louisiana,Vacation  & timeshares,Y
+2866	2166725130,6/29/2018 10:53,6/28/2018 15:55,Charlotte,North Carolina,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2867	7692237716,6/29/2018 10:53,6/29/2018 10:43,Raleigh,North Carolina,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2874	4065338654,6/29/2018 10:53,6/29/2018 9:10,,Missouri,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2879	8623456118,6/29/2018 10:53,6/29/2018 10:40,kinnelon,New Jersey,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2890	3474305351,6/29/2018 10:53,6/29/2018 9:42,Crystal Lake,Illinois,"""Calls pretending to be government, businesses, or family and friends""",Y
+2902	5186367104,6/29/2018 10:54,6/29/2018 10:45,trinity,North Carolina,"""Calls pretending to be government, businesses, or family and friends""",Y
+2904	4842503572,6/29/2018 10:54,6/29/2018 10:53,RICHMOND,Virginia,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2907	8157918292,6/29/2018 10:54,6/19/2018 17:06,New Lenox,Illinois,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2921	,6/29/2018 10:54,6/29/2018 0:00,,Nebraska,Dropped call or no message,Y
+2928	8942942304,6/29/2018 10:55,6/29/2018 10:00,Richmond,Virginia,"""Lotteries, prizes  & sweepstakes""",Y
+2933	7852856763,6/29/2018 10:55,6/29/2018 9:27,,Kansas,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2935	5612400455,6/29/2018 10:55,6/29/2018 14:00,Charlotte,North Carolina,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2936	8157912980,6/29/2018 10:55,6/22/2018 17:34,New Lenox,Illinois,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2937	6314406103,6/29/2018 10:55,6/28/2018 15:10,Warwick,Rhode Island,"""Calls pretending to be government, businesses, or family and friends""",Y
+2938	3012181806,6/29/2018 10:55,6/28/2018 19:50,laurel,Maryland,"""Calls pretending to be government, businesses, or family and friends""",N
+2944	2125825432,6/29/2018 10:55,6/29/2018 10:29,West Chester,Pennsylvania,"""Calls pretending to be government, businesses, or family and friends""",Y
+2950	,6/29/2018 10:55,6/28/2018 10:10,,New York,"""Calls pretending to be government, businesses, or family and friends""",Y
+2955	2107845632,6/29/2018 10:56,6/29/2018 10:53,plantation,Florida,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2959	3205432764,6/29/2018 10:56,6/28/2018 12:23,,Minnesota,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2961	8157910292,6/29/2018 10:56,6/29/2018 9:48,New Lenox,Illinois,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2965	2349800081,6/29/2018 10:56,6/29/2018 10:49,brunswick,Ohio,"""Lotteries, prizes  & sweepstakes""",Y
+2970	5186366961,6/29/2018 10:56,6/29/2018 0:00,,Tennessee,"""Calls pretending to be government, businesses, or family and friends""",Y
+2979	7204848183,6/29/2018 10:56,6/29/2018 8:52,Englewood,Colorado,"""Reducing your debt (credit cards, mortgage, student loans)""",N
+2980	2166725130,6/29/2018 10:56,6/29/2018 16:00,Charlotte,North Carolina,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+2981	6099233291,6/29/2018 10:56,6/29/2018 10:53,Lumberton,New Jersey,"""Energy, solar,  & utilities""",Y
+2982	,6/29/2018 10:56,6/28/2018 15:38,Fountain Valley,California,No Subject Provided,Y
+2983	5231705662,6/29/2018 10:56,6/29/2018 10:51,winston salem,North Carolina,"""Calls pretending to be government, businesses, or family and friends""",N
+2984	4096842298,6/29/2018 10:56,6/29/2018 9:52,Brooklyn Park,Minnesota,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3000	6148755765,6/29/2018 10:57,6/29/2018 10:46,Grove City,Ohio,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3009	6313286174,6/29/2018 10:57,6/28/2018 10:40,Chicago,Illinois,"""Calls pretending to be government, businesses, or family and friends""",Y
+3015	,6/29/2018 10:58,6/28/2018 11:51,Ashburn,Virginia,No Subject Provided,Y
+3017	6463405070,6/29/2018 10:58,6/28/2018 17:30,Ooltewah,Tennessee,"""Calls pretending to be government, businesses, or family and friends""",Y
+3018	8503085185,6/29/2018 10:58,6/29/2018 9:53,Pensacola,Florida,"""Calls pretending to be government, businesses, or family and friends""",Y
+3019	5093169605,6/29/2018 10:58,6/28/2018 12:20,,North Carolina,"""Lotteries, prizes  & sweepstakes""",Y
+3023	646612354,6/29/2018 10:58,6/8/2018 12:56,,Illinois,Dropped call or no message,N
+3024	6313286174,6/29/2018 10:58,6/28/2018 17:22,Chicago,Illinois,"""Calls pretending to be government, businesses, or family and friends""",Y
+3027	7858582779,6/29/2018 10:58,6/28/2018 12:11,Arlington,Massachusetts,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3028	5187725970,6/29/2018 10:58,6/27/2018 14:18,Leeds,Alabama,"""Calls pretending to be government, businesses, or family and friends""",Y
+3032	8046086746,6/29/2018 10:58,6/29/2018 10:55,Midlothian,Virginia,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3040	5186157900,6/29/2018 10:58,6/29/2018 9:49,Gretna,Nebraska,"""Calls pretending to be government, businesses, or family and friends""",Y
+3042	7573517890,6/29/2018 10:58,6/28/2018 10:42,norfolk,Virginia,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3045	4053952572,6/29/2018 10:59,6/29/2018 9:56,,Oklahoma,"""Calls pretending to be government, businesses, or family and friends""",Y
+3047	,6/29/2018 10:59,6/29/2018 10:45,,New York,No Subject Provided,Y
+3048	7132483017,6/29/2018 10:59,6/29/2018 9:57,sugar land,Texas,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3050	8448846694,6/29/2018 10:59,6/29/2018 9:53,,Texas,"""Calls pretending to be government, businesses, or family and friends""",Y
+3053	6463553159,6/29/2018 10:59,6/26/2018 10:49,Acworth,Georgia,"""Calls pretending to be government, businesses, or family and friends""",Y
+3055	7162546133,6/29/2018 10:59,6/29/2018 9:07,brandon,Florida,"""Calls pretending to be government, businesses, or family and friends""",Y
+3061	6175550199,6/29/2018 10:59,6/28/2018 16:18,Arlington,Massachusetts,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3063	8452080271,6/29/2018 10:59,6/29/2018 10:57,,Virginia,"""Calls pretending to be government, businesses, or family and friends""",Y
+3064	7325512453,6/29/2018 10:59,6/29/2018 22:50,New Brunswick,New Jersey,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3065	7573517890,6/29/2018 10:59,6/28/2018 17:01,norfolk,Virginia,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3070	6189758573,6/29/2018 11:00,6/29/2018 9:55,east alton,Illinois,"""Reducing your debt (credit cards, mortgage, student loans)""",N
+3073	3344304977,6/29/2018 11:00,6/29/2018 10:24,,Alabama,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3076	5622327640,6/29/2018 11:00,6/29/2018 8:49,Brooklyn Park,Minnesota,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3078	6075423912,6/29/2018 11:00,6/29/2018 9:14,Slingerlands,New York,"""Calls pretending to be government, businesses, or family and friends""",Y
+3079	6075424681,6/29/2018 11:00,6/29/2018 10:55,,New York,"""Calls pretending to be government, businesses, or family and friends""",Y
+3082	2568601103,6/29/2018 11:00,6/29/2018 10:59,,North Carolina,"""Lotteries, prizes  & sweepstakes""",Y
+3083	3093495279,6/29/2018 11:00,6/29/2018 10:29,Findlay,Ohio,"""Calls pretending to be government, businesses, or family and friends""",N
+3084	4133071015,6/29/2018 11:00,6/29/2018 10:54,Arlington,Massachusetts,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3086	6257372,6/29/2018 11:00,6/28/2018 15:58,Gurnee,Illinois,Home improvement  & cleaning,Y
+3091	9794010110,6/29/2018 11:00,6/29/2018 9:56,,Texas,"""Calls pretending to be government, businesses, or family and friends""",Y
+3096	3373063575,6/29/2018 11:00,6/29/2018 9:30,West Monroe,Louisiana,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3107	7132359241,6/29/2018 11:01,6/29/2018 10:46,,Pennsylvania,"""Reducing your debt (credit cards, mortgage, student loans)""",N
+3111	4144299225,6/29/2018 11:01,6/29/2018 9:55,,Wisconsin,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3118	7162546133,6/29/2018 11:01,6/29/2018 10:45,Rochester,New York,"""Calls pretending to be government, businesses, or family and friends""",Y
+3120	3207740123,6/29/2018 11:01,6/28/2018 16:39,Brooklyn Park,Minnesota,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3121	6074419058,6/29/2018 11:01,6/29/2018 9:52,Sugar Land,Texas,"""Calls pretending to be government, businesses, or family and friends""",Y
+3135	5186157900,6/29/2018 11:02,6/29/2018 10:00,Clinton,Connecticut,"""Calls pretending to be government, businesses, or family and friends""",Y
+3138	8606310255,6/29/2018 11:02,6/28/2018 15:28,New Canaan,Connecticut,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3142	3093495279,6/29/2018 11:02,6/29/2018 10:51,Findlay,Ohio,"""Calls pretending to be government, businesses, or family and friends""",N
+3147	6072814882,6/29/2018 11:03,6/29/2018 7:45,Las Vegas,Nevada,"""Calls pretending to be government, businesses, or family and friends""",Y
+3149	8009452000,6/29/2018 11:03,6/20/2018 13:17,Painesville,Ohio,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3151	8664330722,6/29/2018 11:03,6/28/2018 19:49,Big Rapids,Michigan,"""Calls pretending to be government, businesses, or family and friends""",Y
+3159	1.70333E+11,6/29/2018 11:03,6/28/2018 14:43,,Virginia,Dropped call or no message,N
+3165	5126192634,6/29/2018 11:03,6/29/2018 10:39,Austin,Texas,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3166	5166332734,6/29/2018 11:03,6/29/2018 0:00,,New York,No Subject Provided,
+3167	6463687602,6/29/2018 11:03,6/14/2018 11:16,Leeds,Alabama,"""Calls pretending to be government, businesses, or family and friends""",Y
+3171	7726177846,6/29/2018 11:04,6/29/2018 9:44,,South Carolina,No Subject Provided,
+3186	5126192634,6/29/2018 11:04,6/29/2018 10:38,Austin,Texas,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3189	2526243192,6/29/2018 11:04,6/28/2018 17:45,Cary,North Carolina,"""Calls pretending to be government, businesses, or family and friends""",N
+3191	1.70333E+11,6/29/2018 11:04,6/28/2018 14:43,,Virginia,Dropped call or no message,N
+3192	5022429015,6/29/2018 11:04,6/29/2018 10:27,Louisville,Kentucky,"""Lotteries, prizes  & sweepstakes""",Y
+3194	7405175247,6/29/2018 11:04,6/27/2018 11:31,,Kansas,"""Calls pretending to be government, businesses, or family and friends""",N
+3201	9722329749,6/29/2018 11:05,6/26/2018 21:59,Big Rapids,Michigan,"""Calls pretending to be government, businesses, or family and friends""",Y
+3202	7132359241,6/29/2018 11:05,6/29/2018 11:02,bellefonte,Pennsylvania,"""Reducing your debt (credit cards, mortgage, student loans)""",N
+3204	7047739535,6/29/2018 11:05,6/29/2018 11:03,,North Carolina,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3211	9032588612,6/29/2018 11:05,6/28/2018 18:09,Findlay,Ohio,"""Calls pretending to be government, businesses, or family and friends""",N
+3212	6075424681,6/29/2018 11:05,6/29/2018 9:30,,New Jersey,"""Calls pretending to be government, businesses, or family and friends""",Y
+3215	,6/29/2018 11:05,6/29/2018 5:26,Pahrump,Nevada,"""Lotteries, prizes  & sweepstakes""",N
+3218	6313286441,6/29/2018 11:05,6/29/2018 11:00,PORTSMOUTH,Virginia,"""Calls pretending to be government, businesses, or family and friends""",Y
+3221	2255057620,6/29/2018 11:05,6/29/2018 9:54,Zachary,Louisiana,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3227	7757537831,6/29/2018 11:05,6/29/2018 11:00,hackensack,New Jersey,"""Reducing your debt (credit cards, mortgage, student loans)""",N
+3230	6463553669,6/29/2018 11:05,6/27/2018 14:40,,Mississippi,"""Calls pretending to be government, businesses, or family and friends""",Y
+3234	4172160686,6/29/2018 11:06,6/13/2018 16:51,,Illinois,"""Calls pretending to be government, businesses, or family and friends""",N
+3242	9154930771,6/29/2018 11:06,6/29/2018 10:02,,Illinois,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3247	,6/29/2018 11:06,6/26/2018 10:00,,New Hampshire,No Subject Provided,N
+3250	3204031191,6/29/2018 11:06,6/28/2018 10:01,Fairmont,Minnesota,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3251	3128336231,6/29/2018 11:06,6/29/2018 10:04,Libertyville,Illinois,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3257	9735522485,6/29/2018 11:06,6/29/2018 10:24,,Florida,"""Calls pretending to be government, businesses, or family and friends""",Y
+3259	7405238442,6/29/2018 11:06,6/28/2018 20:29,Findlay,Ohio,"""Calls pretending to be government, businesses, or family and friends""",N
+3264	,6/29/2018 11:07,6/29/2018 10:42,Comstock Park,Michigan,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3267	9195464348,6/29/2018 11:07,6/29/2018 10:56,Raleigh,North Carolina,"""Energy, solar,  & utilities""",N
+3271	7242747890,6/29/2018 11:07,6/29/2018 11:03,Springdale,Pennsylvania,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3272	,6/29/2018 11:07,6/28/2018 9:01,,Massachusetts,No Subject Provided,Y
+3273	5187383405,6/29/2018 11:07,6/29/2018 9:37,,Nebraska,"""Calls pretending to be government, businesses, or family and friends""",Y
+3276	6023773475,6/29/2018 11:07,6/29/2018 8:04,Phoenix,Arizona,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3277	6122706927,6/29/2018 11:07,6/29/2018 10:00,Bloomington,Minnesota,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3280	3042611174,6/29/2018 11:07,6/26/2018 14:41,Pittsburgh,West Virginia,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3284	8009001380,6/29/2018 11:07,6/29/2018 8:28,,Florida,No Subject Provided,
+3286	8452417901,6/29/2018 11:07,6/29/2018 10:38,Greenwood Lake,New York,"""Energy, solar,  & utilities""",N
+3289	4783340665,6/29/2018 11:07,6/29/2018 10:59,Shipshewana,Indiana,"""Calls pretending to be government, businesses, or family and friends""",Y
+3294	2317510781,6/29/2018 11:08,6/29/2018 9:51,Bacliff,Texas,"""Calls pretending to be government, businesses, or family and friends""",Y
+3296	,6/29/2018 11:08,6/29/2018 10:05,,Kansas,No Subject Provided,Y
+3297	8009452000,6/29/2018 11:08,6/29/2018 9:50,,Nebraska,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3304	5072361117,6/29/2018 11:08,6/28/2018 15:53,Fairmont,Minnesota,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3308	8885964924,6/29/2018 11:08,6/18/2018 10:46,Tucson,Arizona,"""Lotteries, prizes  & sweepstakes""",Y
+3309	,6/29/2018 11:08,6/28/2018 17:20,phoenix,Arizona,Dropped call or no message,N
+3313	,6/29/2018 11:08,6/29/2018 11:04,,Rhode Island,No Subject Provided,Y
+3322	6315997903,6/29/2018 11:09,6/29/2018 10:15,Castleton,New York,"""Calls pretending to be government, businesses, or family and friends""",Y
+3323	,6/29/2018 11:09,6/29/2018 10:07,,Texas,No Subject Provided,Y
+3324	7602907126,6/29/2018 11:09,6/29/2018 10:48,NEW PORT RICHEY,Florida,"""Calls pretending to be government, businesses, or family and friends""",Y
+3325	8008452911,6/29/2018 11:09,6/29/2018 10:28,,Connecticut,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3326	3123925836,6/29/2018 11:09,6/29/2018 11:05,Getzville,New York,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3328	,6/29/2018 11:09,6/29/2018 7:30,,West Virginia,No Subject Provided,Y
+3331	4752441031,6/29/2018 11:09,6/29/2018 8:05,Renton,Washington,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3335	5186367106,6/29/2018 11:09,6/29/2018 10:03,Omaha,Nebraska,"""Calls pretending to be government, businesses, or family and friends""",Y
+3344	6075423930,6/29/2018 11:09,6/29/2018 10:03,Danville,Virginia,"""Calls pretending to be government, businesses, or family and friends""",Y
+3346	3474305351,6/29/2018 11:09,6/29/2018 10:07,,Illinois,"""Calls pretending to be government, businesses, or family and friends""",N
+3348	7162546133,6/29/2018 11:09,6/29/2018 0:00,spencerport,New York,"""Calls pretending to be government, businesses, or family and friends""",Y
+3353	2064866936,6/29/2018 11:09,6/29/2018 6:14,Renton,Washington,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3355	8889987928,6/29/2018 11:10,6/29/2018 9:07,West Palm Beach,Florida,"""Reducing your debt (credit cards, mortgage, student loans)""",N
+3357	,6/29/2018 11:10,6/29/2018 8:50,Lakewood,Colorado,No Subject Provided,Y
+3364	5168172759,6/29/2018 11:10,6/29/2018 11:01,Rockaway park,New York,"""Reducing your debt (credit cards, mortgage, student loans)""",N
+3369	9202340436,6/29/2018 11:10,6/28/2018 13:39,Renton,Washington,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3370	5303037515,6/29/2018 11:10,6/22/2018 11:09,PHILADELPHIA,Pennsylvania,"""Energy, solar,  & utilities""",Y
+3382	6312303732,6/29/2018 11:11,6/29/2018 11:00,Buffalo,New York,"""Energy, solar,  & utilities""",N
+3384	8606310255,6/29/2018 11:11,6/28/2018 8:09,Renton,Washington,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3387	5303037515,6/29/2018 11:11,6/29/2018 11:07,PHILADELPHIA,Pennsylvania,"""Energy, solar,  & utilities""",Y
+3390	6074419058,6/29/2018 11:11,6/29/2018 10:05,Dickinson,Texas,"""Calls pretending to be government, businesses, or family and friends""",Y
+3392	8106181641,6/29/2018 11:11,6/29/2018 11:01,Flint,Michigan,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3396	,6/29/2018 11:11,6/29/2018 8:00,Salem,Oregon,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3398	,6/29/2018 11:11,6/29/2018 8:00,Salem,Oregon,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3400	3178786727,6/29/2018 11:11,6/29/2018 10:54,,Indiana,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3408	4014874339,6/29/2018 11:12,6/29/2018 11:00,East Providence,Rhode Island,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3413	95456376409,6/29/2018 11:12,6/20/2018 15:01,,Texas,No Subject Provided,Y
+3414	6103095335,6/29/2018 11:12,6/22/2018 14:26,Ormond Beach,Florida,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3419	8458754343,6/29/2018 11:12,6/29/2018 11:10,Kerhonkson,New York,"""Calls pretending to be government, businesses, or family and friends""",Y
+3420	3235835629,6/29/2018 11:12,6/26/2018 19:41,New Canaan,Connecticut,"""Calls pretending to be government, businesses, or family and friends""",Y
+3424	4808610111,6/29/2018 11:12,6/29/2018 8:06,Chandler,Arizona,"""Reducing your debt (credit cards, mortgage, student loans)""",N
+3426	5186367104,6/29/2018 11:12,6/29/2018 11:05,Winston-Salem,North Carolina,"""Calls pretending to be government, businesses, or family and friends""",Y
+3427	,6/29/2018 11:12,6/28/2018 0:00,,California,No Subject Provided,Y
+3430	,6/29/2018 11:12,6/29/2018 10:10,,Florida,No Subject Provided,Y
+3435	5397772540,6/29/2018 11:13,6/29/2018 10:09,,Oklahoma,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3436	7162546133,6/29/2018 11:13,6/29/2018 9:23,,New York,"""Calls pretending to be government, businesses, or family and friends""",Y
+3439	6075423912,6/29/2018 11:13,6/29/2018 11:12,Boston,Massachusetts,"""Calls pretending to be government, businesses, or family and friends""",Y
+3440	8005921160,6/29/2018 11:13,6/28/2018 0:00,,Washington,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3441	4025716003,6/29/2018 11:13,6/29/2018 9:50,Omaha,Nebraska,"""Calls pretending to be government, businesses, or family and friends""",Y
+3444	7608901389,6/29/2018 11:13,6/29/2018 10:10,,Georgia,"""Calls pretending to be government, businesses, or family and friends""",Y
+3446	,6/29/2018 11:13,6/26/2018 18:58,,Washington,"""Calls pretending to be government, businesses, or family and friends""",Y
+3447	8472388737,6/29/2018 11:13,6/29/2018 9:00,Colorado Springs,Colorado,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3448	6103090792,6/29/2018 11:13,6/21/2018 9:39,Ormond Beach,Florida,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3456	9784135468,6/29/2018 11:13,6/29/2018 11:10,Templeton,Massachusetts,"""Energy, solar,  & utilities""",N
+3461	4704411955,6/29/2018 11:13,6/11/2018 10:08,SHAVANO PARK,Texas,"""Calls pretending to be government, businesses, or family and friends""",Y
+3463	2016133705,6/29/2018 11:13,6/29/2018 10:27,,New York,"""Calls pretending to be government, businesses, or family and friends""",Y
+3464	9145845781,6/29/2018 11:13,6/27/2018 16:38,Pomona,New York,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3469	8723028094,6/29/2018 11:14,6/29/2018 10:09,,Alabama,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3470	5304398559,6/29/2018 11:14,6/28/2018 10:07,,Texas,"""Energy, solar,  & utilities""",Y
+3472	5758358977,6/29/2018 11:14,6/29/2018 9:10,,New Mexico,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3473	,6/29/2018 11:14,6/29/2018 8:35,,Colorado,No Subject Provided,Y
+3475	4135821711,6/29/2018 11:14,6/29/2018 11:01,Northampton,Massachusetts,"""Reducing your debt (credit cards, mortgage, student loans)""",N
+3478	9163006009,6/29/2018 11:14,6/29/2018 8:10,Antelope,California,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3482	,6/29/2018 11:14,5/27/2018 11:47,psl,Florida,No Subject Provided,N
+3487	6075423912,6/29/2018 11:14,6/29/2018 11:06,catskill,New York,"""Calls pretending to be government, businesses, or family and friends""",Y
+3489	,6/29/2018 11:14,6/28/2018 17:56,,Washington,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3490	2104142849,6/29/2018 11:14,6/29/2018 10:11,,Texas,"""Calls pretending to be government, businesses, or family and friends""",Y
+3499	,6/29/2018 11:15,6/29/2018 11:09,New York,New York,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3501	6103097677,6/29/2018 11:15,6/13/2018 16:05,Ormond Beach,Florida,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3502	2146292827,6/29/2018 11:15,6/29/2018 10:11,DALLAS,Texas,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3520	9106541162,6/29/2018 11:15,6/29/2018 11:10,Raleigh,North Carolina,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3521	9039546072,6/29/2018 11:15,6/29/2018 10:14,,Texas,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3522	,6/29/2018 11:15,6/29/2018 11:12,,Tennessee,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3530	,6/29/2018 11:16,6/29/2018 10:00,,Oklahoma,Dropped call or no message,Y
+3541	7348464374,6/29/2018 11:16,6/29/2018 10:15,,Michigan,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3544	8452080271,6/29/2018 11:16,6/29/2018 9:11,Westcilffe,Colorado,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3545	,6/29/2018 11:16,6/28/2018 8:08,Henderson,Nevada,"""Energy, solar,  & utilities""",Y
+3552	5186366960,6/29/2018 11:17,6/29/2018 10:12,,Tennessee,"""Calls pretending to be government, businesses, or family and friends""",Y
+3554	,6/29/2018 11:17,6/29/2018 10:00,,Oklahoma,Dropped call or no message,Y
+3562	6199911197,6/29/2018 11:17,6/29/2018 8:08,La Mesa,California,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3567	3479433703,6/29/2018 11:17,6/29/2018 10:00,,Illinois,"""Calls pretending to be government, businesses, or family and friends""",Y
+3570	2027699285,6/29/2018 11:17,6/29/2018 8:38,winchester,Virginia,"""Calls pretending to be government, businesses, or family and friends""",Y
+3574	3365400476,6/29/2018 11:17,6/29/2018 10:14,Converse,Delaware,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3581	6074419058,6/29/2018 11:17,6/29/2018 7:37,Houston,Texas,"""Calls pretending to be government, businesses, or family and friends""",Y
+3582	7195602667,6/29/2018 11:17,6/27/2018 12:02,,Michigan,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3589	6104867217,6/29/2018 11:17,6/29/2018 11:05,,New Jersey,"""Energy, solar,  & utilities""",Y
+3594	8283613060,6/29/2018 11:18,6/29/2018 11:12,Andrews,North Carolina,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3598	9494433996,6/29/2018 11:18,6/29/2018 8:15,San Juan Capistrano,California,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3602	6072566784,6/29/2018 11:18,6/28/2018 0:00,Southaven,Mississippi,"""Calls pretending to be government, businesses, or family and friends""",Y
+3603	7708846709,6/29/2018 11:18,6/29/2018 11:15,Royal Palm Beach,Florida,"""Reducing your debt (credit cards, mortgage, student loans)""",N
+3607	7348456875,6/29/2018 11:18,6/28/2018 14:52,,Michigan,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3609	6075423912,6/29/2018 11:18,6/29/2018 10:13,Cinnaminson,New Jersey,"""Calls pretending to be government, businesses, or family and friends""",Y
+3611	6104867217,6/29/2018 11:19,6/29/2018 11:00,Cherry Hill,New Jersey,"""Energy, solar,  & utilities""",N
+3612	5186366960,6/29/2018 11:19,6/29/2018 10:15,Nashville,Tennessee,"""Calls pretending to be government, businesses, or family and friends""",Y
+3615	3179036881,6/29/2018 11:19,6/29/2018 11:12,,Indiana,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3617	9286076704,6/29/2018 11:19,6/29/2018 8:17,,Arizona,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3619	3373063575,6/29/2018 11:19,6/29/2018 10:14,,Louisiana,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3623	7852856763,6/29/2018 11:19,6/29/2018 9:22,Paola,Kansas,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3626	9792322084,6/29/2018 11:19,6/29/2018 11:04,Farmingdale,New York,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3627	7348456875,6/29/2018 11:19,6/28/2018 14:51,,Michigan,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3628	2192383088,6/29/2018 11:19,6/29/2018 8:05,,Nevada,"""Calls pretending to be government, businesses, or family and friends""",Y
+3630	6019563430,6/29/2018 11:19,6/29/2018 9:33,Jackson,Mississippi,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3634	6075424681,6/29/2018 11:19,6/29/2018 9:40,Rochester,New York,"""Calls pretending to be government, businesses, or family and friends""",Y
+3638	8778489317,6/29/2018 11:19,6/28/2018 15:11,,Iowa,"""Calls pretending to be government, businesses, or family and friends""",Y
+3643	2819956743,6/29/2018 11:19,6/29/2018 10:06,,Texas,"""Calls pretending to be government, businesses, or family and friends""",Y
+3644	4802918497,6/29/2018 11:19,6/29/2018 8:12,Kent,Washington,"""Reducing your debt (credit cards, mortgage, student loans)""",N
+3649	2145667969,6/29/2018 11:19,6/29/2018 10:21,Arlington,Texas,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3653	3256961454,6/29/2018 11:19,6/19/2018 10:54,,Illinois,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3656	,6/29/2018 11:19,6/29/2018 23:19,,,No Subject Provided,N
+3660	866319457,6/29/2018 11:20,6/28/2018 13:06,WEBSTER SPRINGS,West Virginia,"""Calls pretending to be government, businesses, or family and friends""",Y
+3663	5189523871,6/29/2018 11:20,6/28/2018 14:43,Glen Oaks,New York,"""Reducing your debt (credit cards, mortgage, student loans)""",N
+3665	4343858664,6/29/2018 11:20,6/29/2018 11:03,,Virginia,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3668	7039801398,6/29/2018 11:20,6/29/2018 10:49,winchester,Virginia,"""Calls pretending to be government, businesses, or family and friends""",Y
+3673	4432906952,6/29/2018 11:20,6/28/2018 0:00,Southaven,Mississippi,"""Calls pretending to be government, businesses, or family and friends""",Y
+3674	4018645008,6/29/2018 11:20,6/29/2018 11:10,,Rhode Island,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3677	9379010803,6/29/2018 11:20,6/29/2018 11:15,,Ohio,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3678	3245554128,6/29/2018 11:20,6/29/2018 9:53,Olivebridge,New York,"""Calls pretending to be government, businesses, or family and friends""",N
+3679	,6/29/2018 11:20,6/28/2018 11:20,,Maryland,No Subject Provided,Y
+3683	732444243,6/29/2018 11:20,6/28/2018 14:42,Cary,North Carolina,Medical  & prescriptions,Y
+3690	3017063859,6/29/2018 11:20,6/29/2018 10:05,Converse,Texas,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3692	52009174049,6/29/2018 11:21,6/29/2018 8:03,Scottsdale,Arizona,No Subject Provided,Y
+3697	7144042205,6/29/2018 11:21,6/29/2018 11:20,Lawrenceburg,Indiana,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3698	3902548475,6/29/2018 11:21,6/29/2018 10:05,Sandy Ridge,Pennsylvania,"""Calls pretending to be government, businesses, or family and friends""",N
+3700	9038150678,6/29/2018 11:21,6/25/2018 9:42,,North Carolina,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3701	2015784785,6/29/2018 11:21,6/29/2018 11:06,Leesburg,Virginia,"""Calls pretending to be government, businesses, or family and friends""",Y
+3703	6075424681,6/29/2018 11:21,6/29/2018 11:00,Rochester,New York,"""Calls pretending to be government, businesses, or family and friends""",Y
+3705	6072566785,6/29/2018 11:21,6/28/2018 18:11,manville,Rhode Island,"""Calls pretending to be government, businesses, or family and friends""",Y
+3707	7632500286,6/29/2018 11:21,6/29/2018 10:19,Sheboygan,Wisconsin,"""Calls pretending to be government, businesses, or family and friends""",Y
+3709	7273867700,6/29/2018 11:21,6/29/2018 11:17,Rochester Hills,Michigan,"""Calls pretending to be government, businesses, or family and friends""",Y
+3712	6084034385,6/29/2018 11:21,6/21/2018 10:58,Middleton,Wisconsin,"""Reducing your debt (credit cards, mortgage, student loans)""",N
+3716	3363331883,6/29/2018 11:21,6/26/2018 13:12,,North Carolina,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3720	7346457226,6/29/2018 11:22,6/29/2018 11:17,St. Thomas,Virgin Islands,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3726	2537407890,6/29/2018 11:22,6/28/2018 14:20,Enumclaw,Washington,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3727	7027662117,6/29/2018 11:22,6/29/2018 8:17,Henderson,Nevada,"""Energy, solar,  & utilities""",Y
+3739	8645694364,6/29/2018 11:22,6/29/2018 11:20,,South Carolina,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3740	,6/29/2018 11:22,6/29/2018 9:26,Annandale,Virginia,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3741	,6/29/2018 11:22,6/29/2018 10:15,,,No Subject Provided,Y
+3743	6301083,6/29/2018 11:22,6/29/2018 21:20,,New Mexico,No Subject Provided,Y
+3745	3264671345,6/29/2018 11:22,6/29/2018 10:24,Olivebridge,New York,"""Calls pretending to be government, businesses, or family and friends""",N
+3748	3363325416,6/29/2018 11:22,6/28/2018 18:00,,North Carolina,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3752	4692710933,6/29/2018 11:22,6/29/2018 11:20,Wallingford,Connecticut,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3756	5186367106,6/29/2018 11:22,6/29/2018 10:16,Panama,Nebraska,"""Calls pretending to be government, businesses, or family and friends""",Y
+3760	6463553481,6/29/2018 11:23,6/7/2018 15:11,,Missouri,"""Calls pretending to be government, businesses, or family and friends""",Y
+3762	,6/29/2018 11:23,6/25/2018 0:00,,Virginia,No Subject Provided,Y
+3763	561268702,6/29/2018 11:23,6/27/2018 18:33,,Louisiana,Dropped call or no message,Y
+3769	9034631302,6/29/2018 11:23,6/29/2018 11:16,,North Carolina,"""Calls pretending to be government, businesses, or family and friends""",Y
+3779	5186157900,6/29/2018 11:23,6/29/2018 10:30,,Indiana,"""Calls pretending to be government, businesses, or family and friends""",Y
+3781	7072359634,6/29/2018 11:23,6/28/2018 8:00,Guerneville,California,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3783	9732226921,6/29/2018 11:23,6/29/2018 11:21,Oak Ridge,New Jersey,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3785	2093898190,6/29/2018 11:23,6/29/2018 8:20,Santa Rosa,California,"""Calls pretending to be government, businesses, or family and friends""",Y
+3789	8323100289,6/29/2018 11:23,6/29/2018 0:00,,Florida,No Subject Provided,
+3792	2364571245,6/29/2018 11:24,6/29/2018 11:10,Olivebridge,New York,"""Calls pretending to be government, businesses, or family and friends""",N
+3793	7408148029,6/29/2018 11:24,6/29/2018 11:14,Mount Perry,Ohio,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3800	,6/29/2018 11:24,6/29/2018 8:16,phoenix,Arizona,Dropped call or no message,N
+3801	6075424681,6/29/2018 11:24,6/29/2018 9:40,Rochester,New York,"""Calls pretending to be government, businesses, or family and friends""",Y
+3809	8327898512,6/29/2018 11:24,6/28/2018 10:23,,Texas,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3811	7174225839,6/29/2018 11:24,6/29/2018 11:13,,Pennsylvania,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3813	7322678537,6/29/2018 11:24,6/29/2018 11:22,Whiting,New Jersey,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3814	4026394131,6/29/2018 11:24,6/29/2018 10:12,omaha,Nebraska,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3815	5403766176,6/29/2018 11:24,6/29/2018 11:20,Fredericksburg,Virginia,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3817	6075424681,6/29/2018 11:24,6/29/2018 7:14,LAS VEGAS,Nevada,"""Calls pretending to be government, businesses, or family and friends""",Y
+3824	9494231105,6/29/2018 11:25,6/29/2018 10:24,Birmingham,Alabama,"""Reducing your debt (credit cards, mortgage, student loans)""",N
+3826	2142139062,6/29/2018 11:25,6/28/2018 12:40,Dallas,Texas,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3834	4029814103,6/29/2018 11:25,6/28/2018 18:46,,Nebraska,"""Reducing your debt (credit cards, mortgage, student loans)""",Y
+3836	7172593983,6/29/2018 11:25,6/29/2018 16:15,,Pennsylvania,"""Reducing your debt (credit cards, mortgage, student loans)""",Y

@@ -1,0 +1,89 @@
+Core_#	CalBP	d13C	d15N		End-member_category	d13C	d15N
+1	-65	-22.33	7.54		Marine macroalgae	-19.32	6.84
+1	58	-22.20	7.97		Marine macroalgae	-15.20	7.22
+1	82	-22.05	6.73		Marine macroalgae	-16.00	7.78
+1	106	-21.92	7.39		Marine macroalgae	-33.32	7.71
+1	130	-22.20	7.04		Marine macroalgae	-15.41	7.46
+1	154	-21.91	7.22		Marine macroalgae	-18.17	8.45
+1	178	-21.34	7.56		Marine macroalgae	-29.76	2.06
+1	202	-22.07	7.00		Marine macroalgae	-14.88	7.69
+1	226	-21.96	6.63		Marine macroalgae	-18.83	6.23
+1	250	-21.93	7.12		Marine macroalgae	-16.29	7.15
+1	274	-21.40	7.10		Terrestrial plant	-29.89	1.30
+1	298	-21.50	7.22		Terrestrial plant	-28.81	1.55
+1	322	-22.18	6.81		Terrestrial plant	-28.34	-1.49
+1	347	-22.26	7.39		Terrestrial plant	-28.50	4.04
+1	371	-22.04	6.50		Terrestrial plant	-15.77	7.50
+1	395	-22.18	5.94		Terrestrial plant	-29.37	1.03
+1	1080	-22.22	5.88		Terrestrial plant	-29.28	3.78
+1	1763	-22.56	5.70		Soil	-27.25	6.17
+1	2446	-22.66	6.00		Soil	-27.47	4.23
+1	3129	-22.71	5.93		Soil	-28.75	4.35
+1	3407	-22.41	5.58		Soil	-27.71	3.05
+1	3615	-22.85	5.49		Soil	-29.46	3.34
+1	3823	-22.94	5.41		Marine fauna	-21.76	9.22
+1	4031	-22.98	5.54		Marine fauna	-21.75	9.36
+1	4239	-22.85	5.44		Marine fauna	-22.26	9.45
+1	4447	-23.00	5.50		Marine fauna	-22.33	7.38
+1	4655	-23.08	5.64		Marine fauna	-21.54	8.19
+1	4863	-23.24	5.25		Marine fauna	-21.98	8.50
+1	5071	-23.27	5.34		Marine fauna	-22.31	7.63
+2	-65	no_analysis	no_analysis		Marine fauna	-19.96	11.03
+2	50	-22.32	7.37		Marine fauna	-18.94	12.12
+2	70	-22.64	6.77		Marine fauna	-19.65	11.07
+2	90	no_analysis	no_analysis		Marine fauna	-19.56	10.79
+2	110	-22.24	6.72		Marine fauna	-19.75	10.02
+2	130	no_analysis	no_analysis		Marine fauna	-19.48	10.24
+2	150	-22.21	6.78		Marine fauna	-18.51	10.81
+2	170	no_analysis	no_analysis		Marine fauna	-20.32	10.79
+2	190	-21.98	6.77		Marine fauna	-21.87	9.15
+2	210	no_analysis	no_analysis		Oak (marine)	-29.63	2.59
+2	230	-22.08	6.48		Oak (terrestrial)	-28.81	1.55
+2	250	-21.86	6.63		POM	-21.33	3.76
+2	271	-22.09	5.87		POM	-21.02	3.28
+2	291	-22.28	6.36		POM	-21.47	4.30
+2	311	-22.20	6.71		POM	-21.49	6.30
+2	331	-22.21	5.73		POM	-20.89	4.46
+2	351	-22.43	5.89				
+2	371	-22.43	6.00				
+2	391	-22.86	5.19				
+2	865	-22.79	5.27				
+2	1434	-22.63	5.02				
+2	2004	-23.18	4.99				
+2	2574	-23.14	5.22				
+2	3204	-23.05	4.73				
+2	3377	no_analysis	no_analysis				
+2	3551	-23.17	4.61				
+2	3724	no_analysis	no_analysis				
+2	3898	-23.32	4.62				
+2	4071	-23.21	4.80				
+2	4245	no_analysis	no_analysis				
+3	-65	no_analysis	no_analysis				
+3	14	-23.18	6.73				
+3	23	no_analysis	no_analysis				
+3	33	-22.27	6.94				
+3	42	no_analysis	no_analysis				
+3	52	-22.16	7.03				
+3	80	no_analysis	no_analysis				
+3	116	-22.02	7.07				
+3	153	no_analysis	no_analysis				
+3	189	-22.04	6.93				
+3	226	-21.79	6.27				
+3	262	-22.10	6.68				
+3	299	-22.42	6.63				
+3	335	-22.09	6.02				
+3	371	-22.23	6.23				
+3	408	-22.22	5.58				
+3	444	-22.39	5.77				
+3	481	-22.66	5.54				
+3	1201	-23.00	4.92				
+3	1819	-22.92	4.69				
+3	2436	-22.84	4.97				
+3	3176	-22.62	5.06				
+3	3364	-23.15	4.94				
+3	3553	no_analysis	no_analysis				
+3	3741	-23.01	4.85				
+3	3929	no_analysis	no_analysis				
+3	4117	-23.03	4.66				
+3	4305	-23.45	5.11				
+3	4492	no_analysis	no_analysis				

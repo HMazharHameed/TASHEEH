@@ -1,0 +1,20 @@
+35	44,Stone Step
+36	44,Sandstone Step
+37	44,Wodden Step
+38	44,Cobblestone Step
+185	351,Ink sack
+186	351,Rose Red
+187	351,Cactus Green
+188	351,Brown
+189	351,Lapis Lazuli Dye
+190	351,Purple Dye
+191	351,Cyan Dye
+192	351,Light Gray Dye
+193	351,Gray Dye
+194	351,Pink Dye
+195	351,Lime Dye
+196	351,Dandelion Yellow Dye
+197	351,Light Blue Dye
+198	351,Magenta Dye
+199	351,Orange Dye
+200	351,Bone Meal
